@@ -1,5 +1,5 @@
 ﻿rank,nombre,nombres,paterno,materno,genero,secretaria,direccion,cargo,cargo_perspectiva,img,correo,cv
-0,Félix Guadalupe Arratia Cruz,Félix Guadalupe,Arratia,Cruz,M,Presidencia Municipal,Presidencia Municipal,Presidente Municipal,Presidente Municipal,1.png,,
+,Félix Guadalupe Arratia Cruz,Félix Guadalupe,Arratia,Cruz,M,Presidencia Municipal,Presidencia Municipal,Presidente Municipal,Presidente Municipal,1.png,,
 1,Mónica Marisela Oyervides Acosta,Mónica Marisela,Oyervides,Acosta,F,DIF,DIF,Presidente del DIF,Presidenta del DIF,4.png,,
 2,Irving Armando Delgado Ávila,Irving Armando,Delgado,Ávila,M,Secretaría de Administración y Gobierno Abierto,Secretaría de Administración y Gobierno Abierto,Secretario de Administración y Gobierno Abierto,Secretario de Administración y Gobierno Abierto,8.png,,
 2,Américo Garza Salinas,Américo,Garza,Salinas,M,Secretaría de Ayuntamiento,Secretaría de Ayuntamiento,Secretario de Ayuntamiento,Secretario de Ayuntamiento,10.png,,
@@ -103,8 +103,8 @@
 23,José Joshio Uribe Maldonado,José Joshio,Uribe,Maldonado,M,Secretaría de Obras Públicas,Dirección de Proyectos,Director de Proyectos,Director de Proyectos,,,
 23,Alexander Montes López,Alexander,Montes,López,M,Secretaría de Seguridad y Proteccion a la Ciudadania,Coordinación Administrativa,Coordinador Administrativo,Coordinador Administrativo,,,
 23,Azucena Yasmin Márquez Rodríguez,Azucena Yasmin,Márquez,Rodríguez,F,Secretaría de Seguridad y Proteccion a la Ciudadania,Dirección de Academia y Centro de Capacitación Continua,Director de Academia y Centro de Capacitación Continua,Director de Academia y Centro de Capacitación Continua,,,
-23,Ricardo Ríos Ramos,Ricardo,Ríos,Ramos,M,Secretaría de Seguridad y Proteccion a la Ciudadania,Dirección de Análisis Información y Tecnología,Director de Análisis Información y Tecnología,Director de Análisis Información y Tecnología,,,
-23,Refugio Rodríguez Martínez,Refugio,Rodríguez,Martínez,M,Secretaría de Seguridad y Proteccion a la Ciudadania,Dirección de Comando Control Comunicaciónes y Computo,Director de Comando Control Comunicaciónes y Computo,Director de Comando Control Comunicaciónes y Computo,,,
+23,Ricardo Ríos Ramos,Ricardo,Ríos,Ramos,M,Secretaría de Seguridad y Proteccion a la Ciudadania,Dirección de Análisis~~ Información y Tecnología,Director de Análisis~~ Información y Tecnología,Director de Análisis~~ Información y Tecnología,,,
+23,Refugio Rodríguez Martínez,Refugio,Rodríguez,Martínez,M,Secretaría de Seguridad y Proteccion a la Ciudadania,Dirección de Comando~~ Control~~ Comunicaciónes y Computo,Director de Comando~~ Control~~ Comunicaciónes y Computo,Director de Comando~~ Control~~ Comunicaciónes y Computo,,,
 23,Rafael Francisco Casiano,Rafael,Francisco,Casiano,M,Secretaría de Seguridad y Proteccion a la Ciudadania,Dirección de Policia,Director de Policia,Director de Policia,,,
 23,José Guadalupe Castañón,José,Guadalupe,Castañón,M,Secretaría de Seguridad y Proteccion a la Ciudadania,Dirección de Prevención del Delito,Director de Prevención del Delito,Director de Prevención del Delito,,,
 23,Guillermo Alfonso Morales Elizondo,Guillermo Alfonso,Morales,Elizondo,M,Secretaría de Seguridad y Proteccion a la Ciudadania,Dirección de Tránsito,Director de Tránsito,Director de Tránsito,,,
