@@ -1,22 +1,22 @@
 ﻿No,Mes,Fecha,Semana,Ubicación,Municipio,Puesto,Horario,Escolaridad,Profesion,Genero,Edad,Sueldo,Vacantes,Transporte,NOTA,MacFerNov,GroupID,Empresa,ID
 1,3,Fri Mar 01 2024 00:00:00 GMT-0600 (Central Standard Time),,,JUAREZ / APODACA,GUARDIA,,Primaria,,Indistinto,18-65,,,SI,,,-1,COMERCIALIZADORA SPC,1
 1,4,Mon Apr 01 2024 00:00:00 GMT-0600 (Central Standard Time),14,,APODACA,COSTURERA,,Primaria,,Indistinto,18-50,,,,,,121,LONGSTON COMPANIES DE MEXICO,2
-1,4,Mon Apr 01 2024 00:00:00 GMT-0600 (Central Standard Time),14,,,AYUDANTE GENERAL,,Primaria,,Indistinto,18-50,,,,,,121,LONGSTON COMPANIES DE MEXICO,3
-1,4,Mon Apr 01 2024 00:00:00 GMT-0600 (Central Standard Time),14,,,ELECTRONICOS,,Preparatoria/Técnica,,Masculino,20-40,,,,,,121,LONGSTON COMPANIES DE MEXICO,4
+1,4,Mon Apr 01 2024 00:00:00 GMT-0600 (Central Standard Time),14,,SIN ESPECIFICAR,AYUDANTE GENERAL,,Primaria,,Indistinto,18-50,,,,,,121,LONGSTON COMPANIES DE MEXICO,3
+1,4,Mon Apr 01 2024 00:00:00 GMT-0600 (Central Standard Time),14,,SIN ESPECIFICAR,ELECTRONICOS,,Preparatoria/Técnica,,Masculino,20-40,,,,,,121,LONGSTON COMPANIES DE MEXICO,4
 1,8,Thu Aug 01 2024 00:00:00 GMT-0600 (Central Standard Time),32,,GUADALUPE,AYUDANTE GENERAL,Fijo,Secundaria,,Masculino,18-50,9270,,SI,L-S 8-6.20 Y 3-10.30 ROT 7-7,,19,PICSA DE MEXICO,5
 1,8,Thu Aug 01 2024 00:00:00 GMT-0600 (Central Standard Time),32,,GUADALUPE,MONTACARGUISTA,,Secundaria,,Masculino,20-50,9200,,SI,,,19,PICSA DE MEXICO,6
 1,8,Thu Aug 01 2024 00:00:00 GMT-0600 (Central Standard Time),32,,GUADALUPE,OPERARIO DE MAQUINA,,Secundaria,,Masculino,20-50,9960,,SI,,,19,PICSA DE MEXICO,7
 1,8,Thu Aug 01 2024 00:00:00 GMT-0600 (Central Standard Time),32,,GUADALUPE,SERVICIOS GENERALES,,Secundaria,,Masculino,22-55,11500,,SI,,,19,PICSA DE MEXICO,8
 1,8,Thu Aug 01 2024 00:00:00 GMT-0600 (Central Standard Time),32,,GUADALUPE,MANTENIMIENTO,,Preparatoria/Técnica,,Masculino,22-50,12000,,SI,,,19,PICSA DE MEXICO,9
-1,5,Thu May 02 2024 00:00:00 GMT-0600 (Central Standard Time),19,,JUARE,CAJERO (A),,Sin especificar,,Indistinto,18-X,,,NO,,,185,SUMERCA,10
-1,5,Thu May 02 2024 00:00:00 GMT-0600 (Central Standard Time),19,,,SALCHICHONERIA,,Sin especificar,,Indistinto,,,,,,,185,SUMERCA,11
-1,5,Thu May 02 2024 00:00:00 GMT-0600 (Central Standard Time),19,,,ABARROTES,,Sin especificar,,Indistinto,,,,,,,185,SUMERCA,12
-1,5,Thu May 02 2024 00:00:00 GMT-0600 (Central Standard Time),19,,,AUXILIAR,,Sin especificar,,Indistinto,,,,,DE FRUTAS Y VERDURAS,,185,SUMERCA,13
-1,5,Thu May 02 2024 00:00:00 GMT-0600 (Central Standard Time),19,,,LIMPIEZA,,Sin especificar,,Indistinto,,,,,,,185,SUMERCA,14
+1,5,Thu May 02 2024 00:00:00 GMT-0600 (Central Standard Time),19,,JUAREZ,CAJERO (A),,Sin especificar,,Indistinto,18-X,,,NO,,,185,SUMERCA,10
+1,5,Thu May 02 2024 00:00:00 GMT-0600 (Central Standard Time),19,,SIN ESPECIFICAR,SALCHICHONERIA,,Sin especificar,,Indistinto,,,,,,,185,SUMERCA,11
+1,5,Thu May 02 2024 00:00:00 GMT-0600 (Central Standard Time),19,,SIN ESPECIFICAR,ABARROTES,,Sin especificar,,Indistinto,,,,,,,185,SUMERCA,12
+1,5,Thu May 02 2024 00:00:00 GMT-0600 (Central Standard Time),19,,SIN ESPECIFICAR,AUXILIAR,,Sin especificar,,Indistinto,,,,,DE FRUTAS Y VERDURAS,,185,SUMERCA,13
+1,5,Thu May 02 2024 00:00:00 GMT-0600 (Central Standard Time),19,,SIN ESPECIFICAR,LIMPIEZA,,Sin especificar,,Indistinto,,,,,,,185,SUMERCA,14
 1,6,Mon Jun 03 2024 00:00:00 GMT-0600 (Central Standard Time),23,,JUAREZ,AYUDANTE GENERAL,,Secundaria,,Masculino,18-48,,,SI,,,251,PAPELES Y COMVERCIONES,15
-1,6,Mon Jun 03 2024 00:00:00 GMT-0600 (Central Standard Time),23,,,LIMPIEZA,,Primaria,,Indistinto,18-55,,,,,,251,PAPELES Y COMVERCIONES,16
-1,6,Mon Jun 03 2024 00:00:00 GMT-0600 (Central Standard Time),23,,,MONTACUCHILLAS,,Secundaria,,Masculino,18-50,,,,,,251,PAPELES Y COMVERCIONES,17
-1,6,Mon Jun 03 2024 00:00:00 GMT-0600 (Central Standard Time),23,,,GUARDIA,,Secundaria,,Indistinto,18-45,,,,,,251,PAPELES Y COMVERCIONES,18
+1,6,Mon Jun 03 2024 00:00:00 GMT-0600 (Central Standard Time),23,,SIN ESPECIFICAR,LIMPIEZA,,Primaria,,Indistinto,18-55,,,,,,251,PAPELES Y COMVERCIONES,16
+1,6,Mon Jun 03 2024 00:00:00 GMT-0600 (Central Standard Time),23,,SIN ESPECIFICAR,MONTACUCHILLAS,,Secundaria,,Masculino,18-50,,,,,,251,PAPELES Y COMVERCIONES,17
+1,6,Mon Jun 03 2024 00:00:00 GMT-0600 (Central Standard Time),23,,SIN ESPECIFICAR,GUARDIA,,Secundaria,,Indistinto,18-45,,,,,,251,PAPELES Y COMVERCIONES,18
 1,7,Mon Jul 01 2024 00:00:00 GMT-0600 (Central Standard Time),27,,GUADALUPE,AYUDANTE GENERAL,FIJO TARDE Y NOCHE,Primaria,,Masculino,18-58,,,B T,,,341,LEADEC,19
 1,9,Mon Sep 02 2024 00:00:00 GMT-0600 (Central Standard Time),36,,GUADALUPE,AYUDANTE GENERAL,Fijo,Primaria,,Indistinto,18-55,2328,,SI,DE L-V 10 HORAS,,314,ACUITY BRANDS,20
 1,10,Thu Oct 03 2024 00:00:00 GMT-0600 (Central Standard Time),40,,MONTERREY,FRUTAS,Fijo,Secundaria,,Indistinto,18-55,9800,2,SI,DE 6-3 Y DE1.30-10,,39,HBE VALLE ALTO,21
@@ -30,20 +30,20 @@
 2,3,Fri Mar 01 2024 00:00:00 GMT-0600 (Central Standard Time),,,GUADALUPE,AYUDANTE DE CHOFER 3 1/2,,Secundaria,,Masculino,24-45,,,NO,,,1,BACHOCO (14),29
 2,3,Fri Mar 01 2024 00:00:00 GMT-0600 (Central Standard Time),,,GUADALUPE,AUXILIAR,,Primaria,,Masculino,20-52,,,NO,,,1,BACHOCO (14),30
 2,4,Mon Apr 01 2024 00:00:00 GMT-0600 (Central Standard Time),14,,APODACA,SOLDADOR,,Primaria,,Indistinto,20-50,,,SI,,,123,YOUNCHANG,31
-2,4,Mon Apr 01 2024 00:00:00 GMT-0600 (Central Standard Time),14,,,AYUDANTE DE SOLDADOR,,Primaria,,Indistinto,20-50,,,SI,,,123,YOUNCHANG,32
-2,4,Mon Apr 01 2024 00:00:00 GMT-0600 (Central Standard Time),14,,,SUPERVISOR DE SOLDADOR,,Preparatoria/Técnica,,Indistinto,20-50,,,SI,,,123,YOUNCHANG,33
-2,4,Mon Apr 01 2024 00:00:00 GMT-0600 (Central Standard Time),14,,,AUXILIAR DE COMPRAS,,Preparatoria,,Indistinto,20-28,,,SI,,,123,YOUNCHANG,34
-2,4,Mon Apr 01 2024 00:00:00 GMT-0600 (Central Standard Time),14,,,AYUDANTE DE MANTENIMIENTO,,Secundaria,,Indistinto,20,,,SI,,,123,YOUNCHANG,35
+2,4,Mon Apr 01 2024 00:00:00 GMT-0600 (Central Standard Time),14,,SIN ESPECIFICAR,AYUDANTE DE SOLDADOR,,Primaria,,Indistinto,20-50,,,SI,,,123,YOUNCHANG,32
+2,4,Mon Apr 01 2024 00:00:00 GMT-0600 (Central Standard Time),14,,SIN ESPECIFICAR,SUPERVISOR DE SOLDADOR,,Preparatoria/Técnica,,Indistinto,20-50,,,SI,,,123,YOUNCHANG,33
+2,4,Mon Apr 01 2024 00:00:00 GMT-0600 (Central Standard Time),14,,SIN ESPECIFICAR,AUXILIAR DE COMPRAS,,Preparatoria,,Indistinto,20-28,,,SI,,,123,YOUNCHANG,34
+2,4,Mon Apr 01 2024 00:00:00 GMT-0600 (Central Standard Time),14,,SIN ESPECIFICAR,AYUDANTE DE MANTENIMIENTO,,Secundaria,,Indistinto,20,,,SI,,,123,YOUNCHANG,35
 2,5,Thu May 02 2024 00:00:00 GMT-0600 (Central Standard Time),19,,MONTERREY,SURTIDOR,,Secundaria,,Indistinto,20-52,,,,,,187,RANDSTAD MEXICO,36
-2,5,Thu May 02 2024 00:00:00 GMT-0600 (Central Standard Time),19,,,CHOFER,,Sin especificar,,Indistinto,,,,,,,187,RANDSTAD MEXICO,37
-2,5,Thu May 02 2024 00:00:00 GMT-0600 (Central Standard Time),19,,,AUXILIAR,,Sin especificar,,Masculino,,,,,PATINERO,,187,RANDSTAD MEXICO,38
-2,5,Thu May 02 2024 00:00:00 GMT-0600 (Central Standard Time),19,,,ALMACENISTA,,Sin especificar,,Indistinto,,,,,,,187,RANDSTAD MEXICO,39
-2,5,Thu May 02 2024 00:00:00 GMT-0600 (Central Standard Time),19,,,MONTACARGUISTA,,Sin especificar,,Masculino,,,,,,,187,RANDSTAD MEXICO,40
+2,5,Thu May 02 2024 00:00:00 GMT-0600 (Central Standard Time),19,,SIN ESPECIFICAR,CHOFER,,Sin especificar,,Indistinto,,,,,,,187,RANDSTAD MEXICO,37
+2,5,Thu May 02 2024 00:00:00 GMT-0600 (Central Standard Time),19,,SIN ESPECIFICAR,AUXILIAR,,Sin especificar,,Masculino,,,,,PATINERO,,187,RANDSTAD MEXICO,38
+2,5,Thu May 02 2024 00:00:00 GMT-0600 (Central Standard Time),19,,SIN ESPECIFICAR,ALMACENISTA,,Sin especificar,,Indistinto,,,,,,,187,RANDSTAD MEXICO,39
+2,5,Thu May 02 2024 00:00:00 GMT-0600 (Central Standard Time),19,,SIN ESPECIFICAR,MONTACARGUISTA,,Sin especificar,,Masculino,,,,,,,187,RANDSTAD MEXICO,40
 2,6,Mon Jun 03 2024 00:00:00 GMT-0600 (Central Standard Time),23,,MONTERREY,LIMPIEZA,,Secundaria,,Indistinto,18-50,,,,,,253,BUSSINESVLEXT LEVEL,41
-2,6,Mon Jun 03 2024 00:00:00 GMT-0600 (Central Standard Time),23,,,COCINERO (A),,Secundaria,,Indistinto,22-50,,,,,,253,BUSSINESVLEXT LEVEL,42
-2,6,Mon Jun 03 2024 00:00:00 GMT-0600 (Central Standard Time),23,,,AYUDANTE GENERAL,,Secundaria,,Masculino,20-55,,,,,,253,BUSSINESVLEXT LEVEL,43
-2,6,Mon Jun 03 2024 00:00:00 GMT-0600 (Central Standard Time),23,,,CHOFER,,Secundaria,,Masculino,25-50,,,,,,253,BUSSINESVLEXT LEVEL,44
-2,6,Mon Jun 03 2024 00:00:00 GMT-0600 (Central Standard Time),23,,,LAVANDERIA,,Secundaria,,Femenino,18-50,,,,,,253,BUSSINESVLEXT LEVEL,45
+2,6,Mon Jun 03 2024 00:00:00 GMT-0600 (Central Standard Time),23,,SIN ESPECIFICAR,COCINERO (A),,Secundaria,,Indistinto,22-50,,,,,,253,BUSSINESVLEXT LEVEL,42
+2,6,Mon Jun 03 2024 00:00:00 GMT-0600 (Central Standard Time),23,,SIN ESPECIFICAR,AYUDANTE GENERAL,,Secundaria,,Masculino,20-55,,,,,,253,BUSSINESVLEXT LEVEL,43
+2,6,Mon Jun 03 2024 00:00:00 GMT-0600 (Central Standard Time),23,,SIN ESPECIFICAR,CHOFER,,Secundaria,,Masculino,25-50,,,,,,253,BUSSINESVLEXT LEVEL,44
+2,6,Mon Jun 03 2024 00:00:00 GMT-0600 (Central Standard Time),23,,SIN ESPECIFICAR,LAVANDERIA,,Secundaria,,Femenino,18-50,,,,,,253,BUSSINESVLEXT LEVEL,45
 2,8,Thu Aug 01 2024 00:00:00 GMT-0600 (Central Standard Time),32,,GUADALUPE,ALMACENISTA,Fijo,Sin especificar,,Masculino,18-40,1982,,NO,DE 8-5.30,,88,INDUSTRIAS VERMONT,46
 2,8,Thu Aug 01 2024 00:00:00 GMT-0600 (Central Standard Time),32,,GUADALUPE,MONTACARGUISTA,Fijo,Sin especificar,,Masculino,20-49,2696,,NO,DIA Y TARDE Y FIJOS,,88,INDUSTRIAS VERMONT,47
 2,8,Thu Aug 01 2024 00:00:00 GMT-0600 (Central Standard Time),32,,GUADALUPE,LIMPIEZA,Fijo,Sin especificar,,Indistinto,18-48,1982,,NO,DE 7-4.30,,88,INDUSTRIAS VERMONT,48
@@ -62,19 +62,19 @@
 3,3,Fri Mar 01 2024 00:00:00 GMT-0600 (Central Standard Time),,,GUADALUPE,AYUDANTE GENERAL,,Primaria,,Indistinto,18-56,,,SI,,,2,PAPEL Y EMPAQUES GONDI,61
 3,3,Fri Mar 01 2024 00:00:00 GMT-0600 (Central Standard Time),,,GUADALUPE,MONTACARGUISTA,,Secundaria,,Indistinto,18-56,,,SI,,,2,PAPEL Y EMPAQUES GONDI,62
 3,4,Mon Apr 01 2024 00:00:00 GMT-0600 (Central Standard Time),14,,GUADALUPE,COSTURERA,,Primaria,,Indistinto,18-60,,,NO,,,125,ALYGER,63
-3,4,Mon Apr 01 2024 00:00:00 GMT-0600 (Central Standard Time),14,,,AYUDANTE DE COSTURERA,,Primaria,,Indistinto,18-60,,,NO,,,125,ALYGER,64
-3,4,Mon Apr 01 2024 00:00:00 GMT-0600 (Central Standard Time),14,,,CHOFER,,Primaria,,Masculino,23-50,,,NO,,,125,ALYGER,65
-3,4,Mon Apr 01 2024 00:00:00 GMT-0600 (Central Standard Time),14,,,AYUDANTE GENERAL,,Primaria,,Indistinto,18-60,,,NO,,,125,ALYGER,66
-3,4,Mon Apr 01 2024 00:00:00 GMT-0600 (Central Standard Time),14,,,CORTADOR,,Primaria,,Indistinto,18-65,,,NO,,,125,ALYGER,67
-3,5,Thu May 02 2024 00:00:00 GMT-0600 (Central Standard Time),19,,JUREZ,CAJERO (A),,Secundaria,,Indistinto,18-50,,,NO,,,189,EL OFERTON DE CANTU,68
-3,5,Thu May 02 2024 00:00:00 GMT-0600 (Central Standard Time),19,,,TABLAJERO (A),,Sin especificar,,Indistinto,,,,,,,189,EL OFERTON DE CANTU,69
-3,5,Thu May 02 2024 00:00:00 GMT-0600 (Central Standard Time),19,,,AYUDANTE GENERAL,,Sin especificar,,Indistinto,,,,,,,189,EL OFERTON DE CANTU,70
-3,5,Thu May 02 2024 00:00:00 GMT-0600 (Central Standard Time),19,,,COCINERO (A),,Sin especificar,,Indistinto,,,,,,,189,EL OFERTON DE CANTU,71
-3,5,Thu May 02 2024 00:00:00 GMT-0600 (Central Standard Time),19,,,LIMPIEZA,,Sin especificar,,Indistinto,,,,,,,189,EL OFERTON DE CANTU,72
+3,4,Mon Apr 01 2024 00:00:00 GMT-0600 (Central Standard Time),14,,SIN ESPECIFICAR,AYUDANTE DE COSTURERA,,Primaria,,Indistinto,18-60,,,NO,,,125,ALYGER,64
+3,4,Mon Apr 01 2024 00:00:00 GMT-0600 (Central Standard Time),14,,SIN ESPECIFICAR,CHOFER,,Primaria,,Masculino,23-50,,,NO,,,125,ALYGER,65
+3,4,Mon Apr 01 2024 00:00:00 GMT-0600 (Central Standard Time),14,,SIN ESPECIFICAR,AYUDANTE GENERAL,,Primaria,,Indistinto,18-60,,,NO,,,125,ALYGER,66
+3,4,Mon Apr 01 2024 00:00:00 GMT-0600 (Central Standard Time),14,,SIN ESPECIFICAR,CORTADOR,,Primaria,,Indistinto,18-65,,,NO,,,125,ALYGER,67
+3,5,Thu May 02 2024 00:00:00 GMT-0600 (Central Standard Time),19,,JUAREZ,CAJERO (A),,Secundaria,,Indistinto,18-50,,,NO,,,189,EL OFERTON DE CANTU,68
+3,5,Thu May 02 2024 00:00:00 GMT-0600 (Central Standard Time),19,,SIN ESPECIFICAR,TABLAJERO (A),,Sin especificar,,Indistinto,,,,,,,189,EL OFERTON DE CANTU,69
+3,5,Thu May 02 2024 00:00:00 GMT-0600 (Central Standard Time),19,,SIN ESPECIFICAR,AYUDANTE GENERAL,,Sin especificar,,Indistinto,,,,,,,189,EL OFERTON DE CANTU,70
+3,5,Thu May 02 2024 00:00:00 GMT-0600 (Central Standard Time),19,,SIN ESPECIFICAR,COCINERO (A),,Sin especificar,,Indistinto,,,,,,,189,EL OFERTON DE CANTU,71
+3,5,Thu May 02 2024 00:00:00 GMT-0600 (Central Standard Time),19,,SIN ESPECIFICAR,LIMPIEZA,,Sin especificar,,Indistinto,,,,,,,189,EL OFERTON DE CANTU,72
 3,6,Mon Jun 03 2024 00:00:00 GMT-0600 (Central Standard Time),23,,APODACA,LIMPIEZA,DIA L-V 7-5 NOCHE L-J 8-7,Primaria,,Indistinto,18-62,,,SI,,,255,DAR COMPANY,73
-3,6,Mon Jun 03 2024 00:00:00 GMT-0600 (Central Standard Time),23,,,JARDINERO,DIA- 7-5 L-V,Secundaria,,Masculino,20-60,,,,,,255,DAR COMPANY,74
-3,6,Mon Jun 03 2024 00:00:00 GMT-0600 (Central Standard Time),23,,,PLOMERO,DIA 7-4.30 L-V,Secundaria,,Masculino,20-58,,,,,,255,DAR COMPANY,75
-3,6,Mon Jun 03 2024 00:00:00 GMT-0600 (Central Standard Time),23,,,AYUDANTE GENERAL,DIA TARDE NOCHE,Secundaria,,Masculino,18-58,,,,,,255,DAR COMPANY,76
+3,6,Mon Jun 03 2024 00:00:00 GMT-0600 (Central Standard Time),23,,SIN ESPECIFICAR,JARDINERO,DIA- 7-5 L-V,Secundaria,,Masculino,20-60,,,,,,255,DAR COMPANY,74
+3,6,Mon Jun 03 2024 00:00:00 GMT-0600 (Central Standard Time),23,,SIN ESPECIFICAR,PLOMERO,DIA 7-4.30 L-V,Secundaria,,Masculino,20-58,,,,,,255,DAR COMPANY,75
+3,6,Mon Jun 03 2024 00:00:00 GMT-0600 (Central Standard Time),23,,SIN ESPECIFICAR,AYUDANTE GENERAL,DIA TARDE NOCHE,Secundaria,,Masculino,18-58,,,,,,255,DAR COMPANY,76
 3,7,Mon Jul 01 2024 00:00:00 GMT-0600 (Central Standard Time),27,,GUADALUPE,AYUDANTE GENERAL,DE 7-4.55,Primaria,,Indistinto,18-60,,,NO,,,125,ALYGER,77
 3,7,Mon Jul 01 2024 00:00:00 GMT-0600 (Central Standard Time),27,,GUADALUPE,APRENDIZ DE COSTURERA,,Primaria,,Indistinto,18-60,,,NO,,,125,ALYGER,78
 3,7,Mon Jul 01 2024 00:00:00 GMT-0600 (Central Standard Time),27,,GUADALUPE,COSTURERA,,Primaria,,Indistinto,18-60,,,NO,,,125,ALYGER,79
@@ -96,12 +96,12 @@
 4,3,Fri Mar 01 2024 00:00:00 GMT-0600 (Central Standard Time),,,CADEREYTA,TUBERO,,Sin especificar,,Masculino,25+,,,SI,,,3,CICSA (54),95
 4,4,Tue Apr 02 2024 00:00:00 GMT-0600 (Central Standard Time),14,,PESQUERIA,AYUDANTE GENERAL,,Primaria,,Indistinto,18-55,,,SI,,,127,SEOYON C-HWA,96
 4,5,Thu May 02 2024 00:00:00 GMT-0600 (Central Standard Time),19,,MONTERREY,DESPACHADOR,,Primaria,,Indistinto,20-60,,,,,,191,GAS SAGA,97
-4,5,Thu May 02 2024 00:00:00 GMT-0600 (Central Standard Time),19,,,CAJERO (A),,Sin especificar,,Indistinto,,,,,,,191,GAS SAGA,98
+4,5,Thu May 02 2024 00:00:00 GMT-0600 (Central Standard Time),19,,SIN ESPECIFICAR,CAJERO (A),,Sin especificar,,Indistinto,,,,,,,191,GAS SAGA,98
 4,6,Mon Jun 03 2024 00:00:00 GMT-0600 (Central Standard Time),23,,JUAREZ,SURTIDOR,DIA 7-3,Primaria,,Indistinto,18-60,,,NO,,,257,CEDIS SMART,99
-4,6,Mon Jun 03 2024 00:00:00 GMT-0600 (Central Standard Time),23,,,AUXILIAR,DIA 6-2,Primaria,,Indistinto,18-60,,,,,,257,CEDIS SMART,100
+4,6,Mon Jun 03 2024 00:00:00 GMT-0600 (Central Standard Time),23,,SIN ESPECIFICAR,AUXILIAR,DIA 6-2,Primaria,,Indistinto,18-60,,,,,,257,CEDIS SMART,100
 4,7,Mon Jul 01 2024 00:00:00 GMT-0600 (Central Standard Time),27,,APODACA,GUARDIA,TURNOS ROTATIVOS DE 8-8 MENSUAL D-N,Primaria,,Indistinto,18-57,,,SI,,,346,SPC SEGURIDAD,101
-4,8,Thu Aug 01 2024 00:00:00 GMT-0600 (Central Standard Time),32,,SANICOLAS,PRODUCCION,Rotativo,Primaria,,Indistinto,18-50,10000,,SI,DE 12H ROTATIVO,,380,YASAKI,102
-4,8,Thu Aug 01 2024 00:00:00 GMT-0600 (Central Standard Time),32,,SANICOLAS,ALMACENISTA,,Primaria,,Masculino,18-40,10000,,SI,,,380,YASAKI,103
+4,8,Thu Aug 01 2024 00:00:00 GMT-0600 (Central Standard Time),32,,SAN NICOLAS,PRODUCCION,Rotativo,Primaria,,Indistinto,18-50,10000,,SI,DE 12H ROTATIVO,,380,YASAKI,102
+4,8,Thu Aug 01 2024 00:00:00 GMT-0600 (Central Standard Time),32,,SAN NICOLAS,ALMACENISTA,,Primaria,,Masculino,18-40,10000,,SI,,,380,YASAKI,103
 4,9,Mon Sep 02 2024 00:00:00 GMT-0600 (Central Standard Time),36,,GUADALUPE,ALMACENISTA,Fijo o Rotativo,Secundaria,,Indistinto,18-X,9800,,SI,3X8 ROTATIVOS FIJO NOCHE,,543,AUTO ZONE CEDIS,104
 4,10,Thu Oct 03 2024 00:00:00 GMT-0600 (Central Standard Time),40,,CADEREYTA,PROMOTORES DE CREDITO,Fijo,Secundaria,,Indistinto,20-55,14500,3,NO,DE L-V DE 9-8 3H DE COM,,283,B HERMANOS,105
 4,10,Thu Oct 03 2024 00:00:00 GMT-0600 (Central Standard Time),40,,CADEREYTA,GESTOR DE CREDITO COBRA,Fijo,Preparatoria,,Indistinto,25-45,14500,1,NO,DE L-V 10-8 S DE 10-3,,283,B HERMANOS,106
@@ -111,7 +111,7 @@
 5,3,Fri Mar 01 2024 00:00:00 GMT-0600 (Central Standard Time),,,PESQUERIA,RECLUTADOR,,Preparatoria,,Femenino,18-25,,,SI,,,4,DON JING TECHWIN,110
 5,4,Tue Apr 02 2024 00:00:00 GMT-0600 (Central Standard Time),14,,APODACA,OPERARIO GENERAL,,Primaria,,Indistinto,18-55,,,,,,128,LINKING CORP,111
 5,5,Thu May 02 2024 00:00:00 GMT-0600 (Central Standard Time),19,,APODACA,AYUDANTE GENERAL,,Primaria,,Indistinto,18-60,,,SI,,,193,STH RECLUTAMIENTO,112
-5,5,Thu May 02 2024 00:00:00 GMT-0600 (Central Standard Time),19,,,CALIDAD,,Sin especificar,,Indistinto,,,,,,,193,STH RECLUTAMIENTO,113
+5,5,Thu May 02 2024 00:00:00 GMT-0600 (Central Standard Time),19,,SIN ESPECIFICAR,CALIDAD,,Sin especificar,,Indistinto,,,,,,,193,STH RECLUTAMIENTO,113
 5,6,Mon Jun 03 2024 00:00:00 GMT-0600 (Central Standard Time),23,,APODACA,,,Sin especificar,,Indistinto,,,,,,,212,MR Y ASOCIADOS,114
 5,7,Mon Jul 01 2024 00:00:00 GMT-0600 (Central Standard Time),27,,GUADALUPE,AYUDANTE DE REPARTO,DIA LUNES A SABADO TARDENOCHE DE DOM-VI,Secundaria,,Masculino,20-48,,,NO,,,347,FEMSA PROXIMIDADY Y LOGISTICA,115
 5,7,Mon Jul 01 2024 00:00:00 GMT-0600 (Central Standard Time),27,,GUADALUPE,OPERARIO DE REPARTO,,Secundaria,,Masculino,23-54,,,NO,,,347,FEMSA PROXIMIDADY Y LOGISTICA,116
@@ -120,15 +120,15 @@
 5,10,Thu Oct 03 2024 00:00:00 GMT-0600 (Central Standard Time),40,,GUADALUPE,AYUDANTE GENERAL,Fijo,Primaria,,Indistinto,18-47,2400,300,SI,TURNOS FIJOS DE 3X8,,612,APTIV,119
 6,3,Fri Mar 01 2024 00:00:00 GMT-0600 (Central Standard Time),,,MONTERREY,GUARDIA,,Secundaria,,Indistinto,20-54,,,SI,,,5,INTERGER,120
 6,4,Tue Apr 02 2024 00:00:00 GMT-0600 (Central Standard Time),14,,CADEREYTA,TECNICO EN MANTENIMIENTO,,Preparatoria/Técnica,,Masculino,25-35,,,SI,,,129,GARZA ELIZONDO,121
-6,4,Tue Apr 02 2024 00:00:00 GMT-0600 (Central Standard Time),14,,,AUXILIAR CHOFER,,Primaria,,Masculino,18-56,,,SI,,,129,GARZA ELIZONDO,122
-6,4,Tue Apr 02 2024 00:00:00 GMT-0600 (Central Standard Time),14,,,CHOFER,,Primaria,,Masculino,20-56,,,SI,,,129,GARZA ELIZONDO,123
-6,4,Tue Apr 02 2024 00:00:00 GMT-0600 (Central Standard Time),14,,,PROMOTOR,,Preparatoria,,Indistinto,20-56,,,SI,,,129,GARZA ELIZONDO,124
-6,4,Tue Apr 02 2024 00:00:00 GMT-0600 (Central Standard Time),14,,,AUXILIAR DE RUTA,,Secundaria,,Masculino,18-56,,,SI,,,129,GARZA ELIZONDO,125
+6,4,Tue Apr 02 2024 00:00:00 GMT-0600 (Central Standard Time),14,,SIN ESPECIFICAR,AUXILIAR CHOFER,,Primaria,,Masculino,18-56,,,SI,,,129,GARZA ELIZONDO,122
+6,4,Tue Apr 02 2024 00:00:00 GMT-0600 (Central Standard Time),14,,SIN ESPECIFICAR,CHOFER,,Primaria,,Masculino,20-56,,,SI,,,129,GARZA ELIZONDO,123
+6,4,Tue Apr 02 2024 00:00:00 GMT-0600 (Central Standard Time),14,,SIN ESPECIFICAR,PROMOTOR,,Preparatoria,,Indistinto,20-56,,,SI,,,129,GARZA ELIZONDO,124
+6,4,Tue Apr 02 2024 00:00:00 GMT-0600 (Central Standard Time),14,,SIN ESPECIFICAR,AUXILIAR DE RUTA,,Secundaria,,Masculino,18-56,,,SI,,,129,GARZA ELIZONDO,125
 6,5,Thu May 02 2024 00:00:00 GMT-0600 (Central Standard Time),19,,PESQUERIA,AYUDANTE GENERAL,,Primaria,,Indistinto,18-45,,,,,,195,WOOSUNG POWER TEC,126
 6,6,Mon Jun 03 2024 00:00:00 GMT-0600 (Central Standard Time),23,,GUADALUPE,AYUDANTE GENERAL,DIA NOCHE,Secundaria,,Indistinto,,,,SI,,,33,KLEIN TOOLS,127
-6,6,Mon Jun 03 2024 00:00:00 GMT-0600 (Central Standard Time),23,,,ELECTRONICO,,Sin especificar,,Indistinto,,,,,,,33,KLEIN TOOLS,128
-6,6,Mon Jun 03 2024 00:00:00 GMT-0600 (Central Standard Time),23,,,CALIDAD,,Sin especificar,,Indistinto,,,,,,,33,KLEIN TOOLS,129
-6,6,Mon Jun 03 2024 00:00:00 GMT-0600 (Central Standard Time),23,,,AYUDANTE GENERAL,,Sin especificar,,Indistinto,,,,,,,33,KLEIN TOOLS,130
+6,6,Mon Jun 03 2024 00:00:00 GMT-0600 (Central Standard Time),23,,SIN ESPECIFICAR,ELECTRONICO,,Sin especificar,,Indistinto,,,,,,,33,KLEIN TOOLS,128
+6,6,Mon Jun 03 2024 00:00:00 GMT-0600 (Central Standard Time),23,,SIN ESPECIFICAR,CALIDAD,,Sin especificar,,Indistinto,,,,,,,33,KLEIN TOOLS,129
+6,6,Mon Jun 03 2024 00:00:00 GMT-0600 (Central Standard Time),23,,SIN ESPECIFICAR,AYUDANTE GENERAL,,Sin especificar,,Indistinto,,,,,,,33,KLEIN TOOLS,130
 6,7,Mon Jul 01 2024 00:00:00 GMT-0600 (Central Standard Time),27,,APODACA,AYUDANTE GENERAL,TURNOS ROTATIVOS DE 8H,Primaria,,Indistinto,18-55,,,SI,,,349,SVA PCM,131
 6,8,Thu Aug 01 2024 00:00:00 GMT-0600 (Central Standard Time),32,,APODACA,AYUDANTE GENERAL,Fijo,Sin especificar,,Indistinto,18-52,8900,,SI,DE 7.30-5.30 L-V,,445,HAENG SUNG,132
 6,8,Thu Aug 01 2024 00:00:00 GMT-0600 (Central Standard Time),32,,APODACA,CALIDAD,,Sin especificar,,Indistinto,18-49,9600,,SI,,,445,HAENG SUNG,133
@@ -143,9 +143,9 @@
 7,3,Fri Mar 01 2024 00:00:00 GMT-0600 (Central Standard Time),,,GUADALUPE,AYUDANTE GENERAL,,Secundaria,,Indistinto,18-50,,,SI,,,6,MAS BODEGA,142
 7,4,Tue Apr 02 2024 00:00:00 GMT-0600 (Central Standard Time),14,,MONTERREY,GUARDIA,,Primaria,,Indistinto,18-60,,,,,,101,GEEA,143
 7,5,Thu May 02 2024 00:00:00 GMT-0600 (Central Standard Time),19,,GUADALUPE,OPERARIO GENERAL,,Secundaria,,Masculino,18-60,,,SI,,,196,CARRIER,144
-7,5,Thu May 02 2024 00:00:00 GMT-0600 (Central Standard Time),19,,,MONTACARGUISTA,,Secundaria,,Masculino,,,,,,,196,CARRIER,145
-7,5,Thu May 02 2024 00:00:00 GMT-0600 (Central Standard Time),19,,,ELECTROMECANICO,,Preparatoria/Técnica,,Masculino,,,,,,,196,CARRIER,146
-7,5,Thu May 02 2024 00:00:00 GMT-0600 (Central Standard Time),19,,,TECNICO EN PROCESO,,Preparatoria/Técnica,,Masculino,,,,,,,196,CARRIER,147
+7,5,Thu May 02 2024 00:00:00 GMT-0600 (Central Standard Time),19,,SIN ESPECIFICAR,MONTACARGUISTA,,Secundaria,,Masculino,,,,,,,196,CARRIER,145
+7,5,Thu May 02 2024 00:00:00 GMT-0600 (Central Standard Time),19,,SIN ESPECIFICAR,ELECTROMECANICO,,Preparatoria/Técnica,,Masculino,,,,,,,196,CARRIER,146
+7,5,Thu May 02 2024 00:00:00 GMT-0600 (Central Standard Time),19,,SIN ESPECIFICAR,TECNICO EN PROCESO,,Preparatoria/Técnica,,Masculino,,,,,,,196,CARRIER,147
 7,6,Mon Jun 03 2024 00:00:00 GMT-0600 (Central Standard Time),23,,PESQUERIA,OPERARIO DE PRODUCCION,DE 7 A 4.35  Y 10.35 A 7 PM,Secundaria,,Indistinto,18-53,,,SI,,,262,HYUNDEI MOBIS,148
 7,7,Mon Jul 01 2024 00:00:00 GMT-0600 (Central Standard Time),27,,APODACA,AYUDANTE GENERAL,TURNOS ROTATIVOS DE 8H,Primaria,,Indistinto,18-55,,,SI,,,350,SVA REGIO PYTSA,149
 7,7,Mon Jul 01 2024 00:00:00 GMT-0600 (Central Standard Time),27,,APODACA,LIMPIEZA,,Primaria,,Femenino,18-55,,,SI,,,350,SVA REGIO PYTSA,150
@@ -160,12 +160,12 @@
 8,3,Fri Mar 01 2024 00:00:00 GMT-0600 (Central Standard Time),,,MONTERREY,ELECTRICO,,Técnico,,Masculino,22-55,,,NO,,,7,BUSSINES NEXT LEVEL,159
 8,3,Fri Mar 01 2024 00:00:00 GMT-0600 (Central Standard Time),,,MONTERREY,AYUDANTE DE PINTOR,,Primaria,,Masculino,22-55,,,NO,,,7,BUSSINES NEXT LEVEL,160
 8,4,Tue Apr 02 2024 00:00:00 GMT-0600 (Central Standard Time),14,,APODACA,TECNICO DIESEL B,,Secundaria,,Masculino,19----,,,B,,,132,MECANICA TEK,161
-8,5,Thu May 02 2024 00:00:00 GMT-0600 (Central Standard Time),19,,,SOLDADOR,,Profesional,,Masculino,,,,,,,148,QUALTIA ALIMENTOS,162
-8,5,Thu May 02 2024 00:00:00 GMT-0600 (Central Standard Time),19,,,AUXILIAR DE ALMACEN,,Profesional,,Indistinto,,,,,,,148,QUALTIA ALIMENTOS,163
-8,5,Thu May 02 2024 00:00:00 GMT-0600 (Central Standard Time),19,,,MONTACARGUISTA,,Preparatoria,,Masculino,,,,,,,148,QUALTIA ALIMENTOS,164
-8,5,Thu May 02 2024 00:00:00 GMT-0600 (Central Standard Time),19,,SANICOLAS,COMEDOR,,Primaria,,Indistinto,18-55,,,,,,148,QUALTIA ALIMENTOS,165
+8,5,Thu May 02 2024 00:00:00 GMT-0600 (Central Standard Time),19,,SIN ESPECIFICAR,SOLDADOR,,Profesional,,Masculino,,,,,,,148,QUALTIA ALIMENTOS,162
+8,5,Thu May 02 2024 00:00:00 GMT-0600 (Central Standard Time),19,,SIN ESPECIFICAR,AUXILIAR DE ALMACEN,,Profesional,,Indistinto,,,,,,,148,QUALTIA ALIMENTOS,163
+8,5,Thu May 02 2024 00:00:00 GMT-0600 (Central Standard Time),19,,SIN ESPECIFICAR,MONTACARGUISTA,,Preparatoria,,Masculino,,,,,,,148,QUALTIA ALIMENTOS,164
+8,5,Thu May 02 2024 00:00:00 GMT-0600 (Central Standard Time),19,,SAN NICOLAS,COMEDOR,,Primaria,,Indistinto,18-55,,,,,,148,QUALTIA ALIMENTOS,165
 8,6,Mon Jun 03 2024 00:00:00 GMT-0600 (Central Standard Time),23,,PESQUERIA,AYUDANTE GENERAL,L A V 6.30 A 4.06,Primaria,,Indistinto,18-55,,,SI,,,263,DONGWON MEX,166
-8,6,Mon Jun 03 2024 00:00:00 GMT-0600 (Central Standard Time),23,,,CALIDAD,,Primaria,,Indistinto,18-45,,,SI,,,263,DONGWON MEX,167
+8,6,Mon Jun 03 2024 00:00:00 GMT-0600 (Central Standard Time),23,,SIN ESPECIFICAR,CALIDAD,,Primaria,,Indistinto,18-45,,,SI,,,263,DONGWON MEX,167
 8,7,Mon Jul 01 2024 00:00:00 GMT-0600 (Central Standard Time),27,,GUADALUPE,AYUDANTE GENERAL,,Primaria,,Masculino,18-60,,,SI,,,247,WESTROK,168
 8,7,Mon Jul 01 2024 00:00:00 GMT-0600 (Central Standard Time),27,,GUADALUPE,MECANICO,,Técnico,,Masculino,20-40,,,SI,,,247,WESTROK,169
 8,7,Mon Jul 01 2024 00:00:00 GMT-0600 (Central Standard Time),27,,GUADALUPE,MONTACARGUISTA,,Primaria,,Masculino,18-45,,,SI,,,247,WESTROK,170
@@ -180,18 +180,18 @@
 9,3,Fri Mar 01 2024 00:00:00 GMT-0600 (Central Standard Time),,,APODACA,MONTACARGUISTA,,Primaria,,Indistinto,20-55,,,SI,,,8,BEBIDAS PURIFICADAS PEPSI,179
 9,3,Fri Mar 01 2024 00:00:00 GMT-0600 (Central Standard Time),,,APODACA,VERIFICADOR,,Preparatoria,,Masculino,20-40,,,SI,,,8,BEBIDAS PURIFICADAS PEPSI,180
 9,4,Tue Apr 02 2024 00:00:00 GMT-0600 (Central Standard Time),14,,MONTERREY,PROMOTOR CAMBACEO,,Secundaria,,Indistinto,20-58,,,,,,133,MEGA CABLE,181
-9,4,Tue Apr 02 2024 00:00:00 GMT-0600 (Central Standard Time),14,,,TECNICO EN CONSTRUCCION,,Preparatoria,,Masculino,25-40,,,,,,133,MEGA CABLE,182
-9,5,Thu May 02 2024 00:00:00 GMT-0600 (Central Standard Time),19,,PEZQUERIA,AYUDANTE GENERAL,,Primaria,,Indistinto,18-55,,,SI,,,30,DONGWON MEXICO,183
-9,5,Thu May 02 2024 00:00:00 GMT-0600 (Central Standard Time),19,,,INSPECTOR DE CALIDAD,,Secundaria,,Indistinto,18-45,,,,,,30,DONGWON MEXICO,184
+9,4,Tue Apr 02 2024 00:00:00 GMT-0600 (Central Standard Time),14,,SIN ESPECIFICAR,TECNICO EN CONSTRUCCION,,Preparatoria,,Masculino,25-40,,,,,,133,MEGA CABLE,182
+9,5,Thu May 02 2024 00:00:00 GMT-0600 (Central Standard Time),19,,PESQUERIA,AYUDANTE GENERAL,,Primaria,,Indistinto,18-55,,,SI,,,30,DONGWON MEXICO,183
+9,5,Thu May 02 2024 00:00:00 GMT-0600 (Central Standard Time),19,,SIN ESPECIFICAR,INSPECTOR DE CALIDAD,,Secundaria,,Indistinto,18-45,,,,,,30,DONGWON MEXICO,184
 9,6,Mon Jun 03 2024 00:00:00 GMT-0600 (Central Standard Time),23,,CADEREYTA,MECANICO DIESEL,DE L A V 8.30 A 6 S 8.30 A 1,Sin especificar,,Masculino,X,,,NO,,,176,TRSPORTES ARIOS,185
-9,6,Mon Jun 03 2024 00:00:00 GMT-0600 (Central Standard Time),23,,,MECANICO A,,Sin especificar,,Masculino,X,,,,,,176,TRSPORTES ARIOS,186
-9,6,Mon Jun 03 2024 00:00:00 GMT-0600 (Central Standard Time),23,,,PRACTICANTE ING O ADM,,Licenciatura,Ingeniero o Licenciado,Indistinto,X,,,,,,176,TRSPORTES ARIOS,187
+9,6,Mon Jun 03 2024 00:00:00 GMT-0600 (Central Standard Time),23,,SIN ESPECIFICAR,MECANICO A,,Sin especificar,,Masculino,X,,,,,,176,TRSPORTES ARIOS,186
+9,6,Mon Jun 03 2024 00:00:00 GMT-0600 (Central Standard Time),23,,SIN ESPECIFICAR,PRACTICANTE ING O ADM,,Licenciatura,Ingeniero o Licenciado,Indistinto,X,,,,,,176,TRSPORTES ARIOS,187
 9,7,Mon Jul 01 2024 00:00:00 GMT-0600 (Central Standard Time),27,,GUADALUPE,EMPACADOR (A),,Primaria,,Femenino,18-56,,,NO,,,333,PLASTIC INGENUITY DE MEX,188
 9,7,Mon Jul 01 2024 00:00:00 GMT-0600 (Central Standard Time),27,,GUADALUPE,AYUDANTE GENERAL,,Primaria,,Masculino,18-56,,,NO,,,333,PLASTIC INGENUITY DE MEX,189
 9,7,Mon Jul 01 2024 00:00:00 GMT-0600 (Central Standard Time),27,,GUADALUPE,TEC PRODUCCION,,Preparatoria,,Masculino,18-56,,,NO,,,333,PLASTIC INGENUITY DE MEX,190
 9,8,Thu Aug 01 2024 00:00:00 GMT-0600 (Central Standard Time),32,,GUADALUPE,ALMACENISTA,Fijo,Secundaria,,Indistinto,18-55,9170,,SI,DE 8.30-7 Y 9-6 DE L-V,,377,GRINGER,191
-9,9,Mon Sep 02 2024 00:00:00 GMT-0600 (Central Standard Time),36,,SANICOLAS,AYUDANTE GENERAL,Rotativo,Primaria,,Masculino,18-55,9300,,SI,ROTATIVOS 8X6,,34,GREENPAPER,192
-9,9,Mon Sep 02 2024 00:00:00 GMT-0600 (Central Standard Time),36,,SANICOLAS,MONTACARGUISTA,,Primaria,,Masculino,18-55,11580,,SI,,,34,GREENPAPER,193
+9,9,Mon Sep 02 2024 00:00:00 GMT-0600 (Central Standard Time),36,,SAN NICOLAS,AYUDANTE GENERAL,Rotativo,Primaria,,Masculino,18-55,9300,,SI,ROTATIVOS 8X6,,34,GREENPAPER,192
+9,9,Mon Sep 02 2024 00:00:00 GMT-0600 (Central Standard Time),36,,SAN NICOLAS,MONTACARGUISTA,,Primaria,,Masculino,18-55,11580,,SI,,,34,GREENPAPER,193
 9,10,Fri Oct 04 2024 00:00:00 GMT-0600 (Central Standard Time),40,,GUADALUPE,CHOFER,Fijo,Secundaria,,Masculino,25-50,12400,30,NO,DE 8-4,,-1,COMERCIALIZADORA SPC,194
 9,10,Fri Oct 04 2024 00:00:00 GMT-0600 (Central Standard Time),40,,GUADALUPE,AYUDANTE GENERAL,Fijo,Secundaria,,Masculino,16-59,10000,40,NO,DE 7-3.30,,-1,COMERCIALIZADORA SPC,195
 9,10,Fri Oct 04 2024 00:00:00 GMT-0600 (Central Standard Time),40,,GUADALUPE,VENDEDOR (A),Fijo,Secundaria,,Indistinto,16-59,,40,NO,10.30-8,,-1,COMERCIALIZADORA SPC,196
@@ -205,17 +205,17 @@
 141,,21/11/24,47,CENTRO,APODACA,AYTE.GRAL.,ROTATIVOS DE L-S,Secundaria,,Masculino,2155,11600,3,SI,,,771,MR. ASOCIADOS,204
 10,3,Fri Mar 01 2024 00:00:00 GMT-0600 (Central Standard Time),,,APODACA,AYUDANTE GENERAL,,Primaria,,Masculino,20-50,,,SI,,,73,REGIO PITSA,205
 10,4,Wed Apr 03 2024 00:00:00 GMT-0600 (Central Standard Time),14,,MONTERREY,MECANICOS,,Preparatoria/Técnica,,Masculino,18-35,,,NO,,,135,CASCO,206
-10,4,Wed Apr 03 2024 00:00:00 GMT-0600 (Central Standard Time),14,,,EJECUTVO (A),,Preparatoria,,Indistinto,21-35,,,NO,SERVICIO CLIENTES,,135,CASCO,207
-10,4,Wed Apr 03 2024 00:00:00 GMT-0600 (Central Standard Time),14,,,MENSAJERO,,Secundaria,,Indistinto,21-40,,,NO,,,135,CASCO,208
+10,4,Wed Apr 03 2024 00:00:00 GMT-0600 (Central Standard Time),14,,SIN ESPECIFICAR,EJECUTVO (A),,Preparatoria,,Indistinto,21-35,,,NO,SERVICIO CLIENTES,,135,CASCO,207
+10,4,Wed Apr 03 2024 00:00:00 GMT-0600 (Central Standard Time),14,,SIN ESPECIFICAR,MENSAJERO,,Secundaria,,Indistinto,21-40,,,NO,,,135,CASCO,208
 10,5,Thu May 02 2024 00:00:00 GMT-0600 (Central Standard Time),19,,GUADALUPE,AYUDANTE GENERAL,,Primaria,,Masculino,18-55,,,NO,,,47,PROMMONT,209
-10,5,Thu May 02 2024 00:00:00 GMT-0600 (Central Standard Time),19,,,GUARDIA,,Primaria,,Masculino,,,,,,,47,PROMMONT,210
-10,5,Thu May 02 2024 00:00:00 GMT-0600 (Central Standard Time),19,,,CHOFER,,Primaria,,Masculino,,,,,,,47,PROMMONT,211
-10,5,Thu May 02 2024 00:00:00 GMT-0600 (Central Standard Time),19,,,SUPERVISORES,,Preparatoria/Técnica,,Masculino,22-55,,,,,,47,PROMMONT,212
+10,5,Thu May 02 2024 00:00:00 GMT-0600 (Central Standard Time),19,,SIN ESPECIFICAR,GUARDIA,,Primaria,,Masculino,,,,,,,47,PROMMONT,210
+10,5,Thu May 02 2024 00:00:00 GMT-0600 (Central Standard Time),19,,SIN ESPECIFICAR,CHOFER,,Primaria,,Masculino,,,,,,,47,PROMMONT,211
+10,5,Thu May 02 2024 00:00:00 GMT-0600 (Central Standard Time),19,,SIN ESPECIFICAR,SUPERVISORES,,Preparatoria/Técnica,,Masculino,22-55,,,,,,47,PROMMONT,212
 10,6,Mon Jun 03 2024 00:00:00 GMT-0600 (Central Standard Time),23,,GUADALUPE,AYUDANTE GENERAL,DE 7 A 4.30,Primaria,,Indistinto,18-50,,,NO,,,88,INDUSTRIAS VERMONT,213
-10,6,Mon Jun 03 2024 00:00:00 GMT-0600 (Central Standard Time),23,,,LIMPIEZA,,Primaria,,Femenino,18-50,,,,,,88,INDUSTRIAS VERMONT,214
-10,6,Mon Jun 03 2024 00:00:00 GMT-0600 (Central Standard Time),23,,,MANTENIMIENTO,,Preparatoria/Técnica,,Masculino,25-50,,,,,,88,INDUSTRIAS VERMONT,215
-10,6,Mon Jun 03 2024 00:00:00 GMT-0600 (Central Standard Time),23,,,COCINERO (A),DE 8.30 A 6,Primaria,,Femenino,20-50,,,,,,88,INDUSTRIAS VERMONT,216
-10,6,Mon Jun 03 2024 00:00:00 GMT-0600 (Central Standard Time),23,,,OPERARIO DE CORRUGADO,,Secundaria,,Masculino,20-50,,,,,,88,INDUSTRIAS VERMONT,217
+10,6,Mon Jun 03 2024 00:00:00 GMT-0600 (Central Standard Time),23,,SIN ESPECIFICAR,LIMPIEZA,,Primaria,,Femenino,18-50,,,,,,88,INDUSTRIAS VERMONT,214
+10,6,Mon Jun 03 2024 00:00:00 GMT-0600 (Central Standard Time),23,,SIN ESPECIFICAR,MANTENIMIENTO,,Preparatoria/Técnica,,Masculino,25-50,,,,,,88,INDUSTRIAS VERMONT,215
+10,6,Mon Jun 03 2024 00:00:00 GMT-0600 (Central Standard Time),23,,SIN ESPECIFICAR,COCINERO (A),DE 8.30 A 6,Primaria,,Femenino,20-50,,,,,,88,INDUSTRIAS VERMONT,216
+10,6,Mon Jun 03 2024 00:00:00 GMT-0600 (Central Standard Time),23,,SIN ESPECIFICAR,OPERARIO DE CORRUGADO,,Secundaria,,Masculino,20-50,,,,,,88,INDUSTRIAS VERMONT,217
 10,7,Mon Jul 01 2024 00:00:00 GMT-0600 (Central Standard Time),27,,APODACA,AYUDANTE GENERAL,DE 6-2 DE 2.30-10.30 Y DE 10.30-6,Secundaria,,Indistinto,18-60,,,SI,,,355,PAPELES Y COMVERCIONES DE MX,218
 10,7,Mon Jul 01 2024 00:00:00 GMT-0600 (Central Standard Time),27,,APODACA,MONTACARGUISTA,,Secundaria,,Masculino,18-60,,,SI,,,355,PAPELES Y COMVERCIONES DE MX,219
 10,7,Mon Jul 01 2024 00:00:00 GMT-0600 (Central Standard Time),27,,APODACA,ALMACENISTA,,Secundaria,,Masculino,18-60,,,SI,,,355,PAPELES Y COMVERCIONES DE MX,220
@@ -238,15 +238,15 @@
 11,3,Fri Mar 01 2024 00:00:00 GMT-0600 (Central Standard Time),,,PESQUERIA,AYUDANTE GENERAL,,Primaria,,Indistinto,18-55,,,SI,,,10,BOEASANA,237
 11,4,Wed Apr 03 2024 00:00:00 GMT-0600 (Central Standard Time),14,,ESCOBEDO,OPERARIO DE TRASPORTE,,Primaria,,Indistinto,23-60,,,,,,137,TRANSPAIS,238
 11,5,Thu May 02 2024 00:00:00 GMT-0600 (Central Standard Time),19,,JUAREZ,AYUDANTE GENERAL,,Primaria,,Indistinto,18-55,,,SI,,,203,MODULAR,239
-11,6,Mon Jun 03 2024 00:00:00 GMT-0600 (Central Standard Time),23,,SANICOLAS,OPERARIO DE PRODUCCION,12 H ROTATATIVO,Primaria,,Indistinto,18-55,,,SI,,,269,YASAQUI CABLES,240
-11,6,Mon Jun 03 2024 00:00:00 GMT-0600 (Central Standard Time),23,,,ALMACENISTA,,Primaria,,Masculino,18-35,,,,,,269,YASAQUI CABLES,241
-11,6,Mon Jun 03 2024 00:00:00 GMT-0600 (Central Standard Time),23,,,MANTENIMIENTO,,Preparatoria/Técnica,,Masculino,18-35,,,,,,269,YASAQUI CABLES,242
+11,6,Mon Jun 03 2024 00:00:00 GMT-0600 (Central Standard Time),23,,SAN NICOLAS,OPERARIO DE PRODUCCION,12 H ROTATATIVO,Primaria,,Indistinto,18-55,,,SI,,,269,YASAQUI CABLES,240
+11,6,Mon Jun 03 2024 00:00:00 GMT-0600 (Central Standard Time),23,,SIN ESPECIFICAR,ALMACENISTA,,Primaria,,Masculino,18-35,,,,,,269,YASAQUI CABLES,241
+11,6,Mon Jun 03 2024 00:00:00 GMT-0600 (Central Standard Time),23,,SIN ESPECIFICAR,MANTENIMIENTO,,Preparatoria/Técnica,,Masculino,18-35,,,,,,269,YASAQUI CABLES,242
 11,7,Tue Jul 02 2024 00:00:00 GMT-0600 (Central Standard Time),27,,JUAREZ,OPERARIO DE PRODUCCION,12X12 DE 6-6 4X3,Secundaria,,Masculino,18-55,,,SI,,,196,CARRIER,243
 11,8,Thu Aug 01 2024 00:00:00 GMT-0600 (Central Standard Time),32,,APODACA,AYUDANTE GENERAL,Fijo,Secundaria,,Indistinto,18-55,9684,,,FIJO DE 3X5 Y FINES DE SEMANA,,453,MERCADO LIVRE,244
-11,9,Tue Sep 03 2024 00:00:00 GMT-0600 (Central Standard Time),36,,SANPEDRO,AYUDANTE GENERAL,Fijo,Primaria,,Indistinto,18-55,8000,,NO,DE L-V 8.30-6.30 S 8.30-1.30,,432,CLEBER,245
-11,9,Tue Sep 03 2024 00:00:00 GMT-0600 (Central Standard Time),36,,SANPEDRO,HOJALATERO,,Sin especificar,,Indistinto,,13000,,NO,,,432,CLEBER,246
-11,9,Tue Sep 03 2024 00:00:00 GMT-0600 (Central Standard Time),36,,SANPEDRO,PULIDOR,,Sin especificar,,Indistinto,,9000,,NO,,,432,CLEBER,247
-11,9,Tue Sep 03 2024 00:00:00 GMT-0600 (Central Standard Time),36,,SANPEDRO,JEFE DE LINIA,,Preparatoria/Técnica,,Indistinto,,15000,,NO,,,432,CLEBER,248
+11,9,Tue Sep 03 2024 00:00:00 GMT-0600 (Central Standard Time),36,,SAN PEDRO,AYUDANTE GENERAL,Fijo,Primaria,,Indistinto,18-55,8000,,NO,DE L-V 8.30-6.30 S 8.30-1.30,,432,CLEBER,245
+11,9,Tue Sep 03 2024 00:00:00 GMT-0600 (Central Standard Time),36,,SAN PEDRO,HOJALATERO,,Sin especificar,,Indistinto,,13000,,NO,,,432,CLEBER,246
+11,9,Tue Sep 03 2024 00:00:00 GMT-0600 (Central Standard Time),36,,SAN PEDRO,PULIDOR,,Sin especificar,,Indistinto,,9000,,NO,,,432,CLEBER,247
+11,9,Tue Sep 03 2024 00:00:00 GMT-0600 (Central Standard Time),36,,SAN PEDRO,JEFE DE LINIA,,Preparatoria/Técnica,,Indistinto,,15000,,NO,,,432,CLEBER,248
 11,10,Fri Oct 04 2024 00:00:00 GMT-0600 (Central Standard Time),40,,MONTERREY,AYUDANTE GENERAL,Rotativo,Primaria,,Masculino,18-59,10500,35,SI,TURNOS ROTATIVOS DE 8X3,,595,PROLAMSA,249
 11,10,Fri Oct 04 2024 00:00:00 GMT-0600 (Central Standard Time),40,,MONTERREY,TECNICO EN GRUAS,Rotativo,Técnico,,Masculino,18-52,14400,2,SI,TURNOS ROTATIVOS DE 8X3,,595,PROLAMSA,250
 11,10,Fri Oct 04 2024 00:00:00 GMT-0600 (Central Standard Time),40,,MONTERREY,MECANICO AUTOMOTRIZ,Rotativo,Técnico,,Masculino,18-52,14400,1,SI,TURNOS ROTATIVOS DE 8X3,,595,PROLAMSA,251
@@ -255,7 +255,7 @@
 12,3,Fri Mar 01 2024 00:00:00 GMT-0600 (Central Standard Time),,,GUADALUPE,TECNICO EN MANTENIMIENTO,,Técnico,,Masculino,18-60,,,NO,,,11,ASYMEX MONTERREY,254
 12,4,Wed Apr 03 2024 00:00:00 GMT-0600 (Central Standard Time),14,,MONTERREY,GUARDIA,,Secundaria,,Masculino,20-48,,,,,,44,ALLIED UNIVERSAL,255
 12,5,Thu May 02 2024 00:00:00 GMT-0600 (Central Standard Time),19,,GUADALUPE,OPERARIO DE ENSAMBLE,,Sin especificar,,Indistinto,18-60,,,SI,,,204,AMPHEHOL,256
-12,6,Mon Jun 03 2024 00:00:00 GMT-0600 (Central Standard Time),23,,SANICOLAS,AYUDANTE GENERAL,DE 7 A 3.30,Primaria,,Indistinto,18-55,,,SI,,,250,SOLSI,257
+12,6,Mon Jun 03 2024 00:00:00 GMT-0600 (Central Standard Time),23,,SAN NICOLAS,AYUDANTE GENERAL,DE 7 A 3.30,Primaria,,Indistinto,18-55,,,SI,,,250,SOLSI,257
 12,7,Tue Jul 02 2024 00:00:00 GMT-0600 (Central Standard Time),27,,MONTERREY,CAJERO (A),DE 6-3 DE 1.30-10,Preparatoria,,Indistinto,18-55,,,SI,,,39,HBE VALLE ALTO,258
 12,7,Tue Jul 02 2024 00:00:00 GMT-0600 (Central Standard Time),27,,MONTERREY,PREVENCION,,Preparatoria,,Indistinto,18-55,,,SI,,,39,HBE VALLE ALTO,259
 12,7,Tue Jul 02 2024 00:00:00 GMT-0600 (Central Standard Time),27,,MONTERREY,AUXILIAR,,Secundaria,,Indistinto,18-55,,,SI,,,39,HBE VALLE ALTO,260
@@ -272,10 +272,10 @@
 13,3,Fri Mar 01 2024 00:00:00 GMT-0600 (Central Standard Time),,,MONTERREY,OPERARIO DE AUTOBUS,,Secundaria,,Indistinto,24-45,,,NO,,,12,OMNIBUS DE MEXICO,271
 13,4,Wed Apr 03 2024 00:00:00 GMT-0600 (Central Standard Time),14,,GUADALUPE,AYUDANTE GENERAL,,Primaria,,Masculino,18-59,,,NO,,,53,LEADEC MEXICO,272
 13,5,Thu May 02 2024 00:00:00 GMT-0600 (Central Standard Time),19,,APODACA,AYUDANTE GENERAL,,Primaria,,Indistinto,18-50,,,SI,,,205,BROMAKE,273
-13,5,Thu May 02 2024 00:00:00 GMT-0600 (Central Standard Time),19,,,ALMACENISTA,,Primaria,,Masculino,,,,,,,205,BROMAKE,274
+13,5,Thu May 02 2024 00:00:00 GMT-0600 (Central Standard Time),19,,SIN ESPECIFICAR,ALMACENISTA,,Primaria,,Masculino,,,,,,,205,BROMAKE,274
 13,6,Tue Jun 04 2024 00:00:00 GMT-0600 (Central Standard Time),23,,JUAREZ,AYUDANTE GENERAL,DE L A V TURNOS ROTATIVOS,Secundaria,,Masculino,18-50,,,,,,272,PORCELANA CORONA,275
-13,6,Tue Jun 04 2024 00:00:00 GMT-0600 (Central Standard Time),23,,,MANTENIMIENTO,,Preparatoria/Técnica,,Masculino,,,,,,,272,PORCELANA CORONA,276
-13,6,Tue Jun 04 2024 00:00:00 GMT-0600 (Central Standard Time),23,,,MONTACARGUISTA,,Primaria,,Masculino,,,,,,,272,PORCELANA CORONA,277
+13,6,Tue Jun 04 2024 00:00:00 GMT-0600 (Central Standard Time),23,,SIN ESPECIFICAR,MANTENIMIENTO,,Preparatoria/Técnica,,Masculino,,,,,,,272,PORCELANA CORONA,276
+13,6,Tue Jun 04 2024 00:00:00 GMT-0600 (Central Standard Time),23,,SIN ESPECIFICAR,MONTACARGUISTA,,Primaria,,Masculino,,,,,,,272,PORCELANA CORONA,277
 13,7,Tue Jul 02 2024 00:00:00 GMT-0600 (Central Standard Time),27,,MONTERREY,AYUDANTE GENERAL,,Primaria,,Indistinto,18-55,,,SI,Rotativos,,360,HUMAN RESQURCE,278
 13,8,Thu Aug 01 2024 00:00:00 GMT-0600 (Central Standard Time),32,,APODACA,GUARDIA,Fijo,Primaria,,Indistinto,18-55,10400,,SI,DE 8-8 1 MES DE DIA 1 DE NOCHE,,346,SPC SEGURIDAD,279
 13,9,Tue Sep 03 2024 00:00:00 GMT-0600 (Central Standard Time),36,,GUADALUPE,CHOFER,Fijo,Secundaria,,Masculino,27-50,,,X,DE 7-4,,-1,COMERCIALIZADORA SPC,280
@@ -289,23 +289,23 @@
 13,10,Fri Oct 04 2024 00:00:00 GMT-0600 (Central Standard Time),40,,JUAREZ,INSPECTOR DE CALIDAD,Fijo,Técnico,,Indistinto,20-40,2140,10,SI,DE L-V DE 8-5.30,,203,MODULAR,288
 14,3,Fri Mar 01 2024 00:00:00 GMT-0600 (Central Standard Time),,,SAN NICOLAS,OPERARIO DE RABON,,Secundaria,,Masculino,23-58,,,SI,,,13,AUTO EXPRESS VILLAGON,289
 14,4,Thu Apr 04 2024 00:00:00 GMT-0600 (Central Standard Time),14,,APODACA,AYUDANTE GENERAL,,Primaria,,Masculino,18-55,,,,,,73,REGIO PITSA,290
-14,4,Thu Apr 04 2024 00:00:00 GMT-0600 (Central Standard Time),14,,,TECNICO ELECTRONICO,,Preparatoria/Técnica,,Masculino,18-30,,,,,,73,REGIO PITSA,291
-14,4,Thu Apr 04 2024 00:00:00 GMT-0600 (Central Standard Time),14,,,INSPECTOR DE CALIDAD,,Preparatoria,,Masculino,18-55,,,,,,73,REGIO PITSA,292
-14,4,Thu Apr 04 2024 00:00:00 GMT-0600 (Central Standard Time),14,,,TECNICO CNC,,Preparatoria/Técnica,,Masculino,18-55,,,,,,73,REGIO PITSA,293
-14,4,Thu Apr 04 2024 00:00:00 GMT-0600 (Central Standard Time),14,,,LIMPIEZA,,Primaria,,Indistinto,18-55,,,,,,73,REGIO PITSA,294
-14,5,Thu May 02 2024 00:00:00 GMT-0600 (Central Standard Time),19,,GUDALUPE,MECANICO DIESEL,,Preparatoria,,Masculino,20-55,,,NO,,,207,GEPP PEPSI,295
-14,5,Thu May 02 2024 00:00:00 GMT-0600 (Central Standard Time),19,,,ALMACENISTA,,Secundaria,,Indistinto,,,,,,,207,GEPP PEPSI,296
-14,5,Thu May 02 2024 00:00:00 GMT-0600 (Central Standard Time),19,,,CHECADOR DE CAMION,,Preparatoria,,Indistinto,,,,,,,207,GEPP PEPSI,297
-14,5,Thu May 02 2024 00:00:00 GMT-0600 (Central Standard Time),19,,,VENDEDOR (A),,Preparatoria,,Indistinto,,,,,VTAS CON MOTO,,207,GEPP PEPSI,298
-14,5,Thu May 02 2024 00:00:00 GMT-0600 (Central Standard Time),19,,,CHOFER,,Secundaria,,Masculino,,,,,,,207,GEPP PEPSI,299
+14,4,Thu Apr 04 2024 00:00:00 GMT-0600 (Central Standard Time),14,,SIN ESPECIFICAR,TECNICO ELECTRONICO,,Preparatoria/Técnica,,Masculino,18-30,,,,,,73,REGIO PITSA,291
+14,4,Thu Apr 04 2024 00:00:00 GMT-0600 (Central Standard Time),14,,SIN ESPECIFICAR,INSPECTOR DE CALIDAD,,Preparatoria,,Masculino,18-55,,,,,,73,REGIO PITSA,292
+14,4,Thu Apr 04 2024 00:00:00 GMT-0600 (Central Standard Time),14,,SIN ESPECIFICAR,TECNICO CNC,,Preparatoria/Técnica,,Masculino,18-55,,,,,,73,REGIO PITSA,293
+14,4,Thu Apr 04 2024 00:00:00 GMT-0600 (Central Standard Time),14,,SIN ESPECIFICAR,LIMPIEZA,,Primaria,,Indistinto,18-55,,,,,,73,REGIO PITSA,294
+14,5,Thu May 02 2024 00:00:00 GMT-0600 (Central Standard Time),19,,GUADALUPE,MECANICO DIESEL,,Preparatoria,,Masculino,20-55,,,NO,,,207,GEPP PEPSI,295
+14,5,Thu May 02 2024 00:00:00 GMT-0600 (Central Standard Time),19,,SIN ESPECIFICAR,ALMACENISTA,,Secundaria,,Indistinto,,,,,,,207,GEPP PEPSI,296
+14,5,Thu May 02 2024 00:00:00 GMT-0600 (Central Standard Time),19,,SIN ESPECIFICAR,CHECADOR DE CAMION,,Preparatoria,,Indistinto,,,,,,,207,GEPP PEPSI,297
+14,5,Thu May 02 2024 00:00:00 GMT-0600 (Central Standard Time),19,,SIN ESPECIFICAR,VENDEDOR (A),,Preparatoria,,Indistinto,,,,,VTAS CON MOTO,,207,GEPP PEPSI,298
+14,5,Thu May 02 2024 00:00:00 GMT-0600 (Central Standard Time),19,,SIN ESPECIFICAR,CHOFER,,Secundaria,,Masculino,,,,,,,207,GEPP PEPSI,299
 14,6,Wed Jun 05 2024 00:00:00 GMT-0600 (Central Standard Time),23,,GUADALUPE,AYUDANTE GENERAL,ROTATIVOS DIA Y NOCHE,Secundaria,,Indistinto,20-55,,,NO,,,83,BIG COLA,300
-14,6,Wed Jun 05 2024 00:00:00 GMT-0600 (Central Standard Time),23,,,OPERARI0 (A),,Preparatoria/Técnica,,Indistinto,,,,,,,83,BIG COLA,301
-14,6,Wed Jun 05 2024 00:00:00 GMT-0600 (Central Standard Time),23,,,MONTACARGUISTA,,Secundaria,,Indistinto,,,,,,,83,BIG COLA,302
-14,6,Wed Jun 05 2024 00:00:00 GMT-0600 (Central Standard Time),23,,,ELECTRONICO,,Preparatoria/Técnica,,Indistinto,,,,,,,83,BIG COLA,303
+14,6,Wed Jun 05 2024 00:00:00 GMT-0600 (Central Standard Time),23,,SIN ESPECIFICAR,OPERARI0 (A),,Preparatoria/Técnica,,Indistinto,,,,,,,83,BIG COLA,301
+14,6,Wed Jun 05 2024 00:00:00 GMT-0600 (Central Standard Time),23,,SIN ESPECIFICAR,MONTACARGUISTA,,Secundaria,,Indistinto,,,,,,,83,BIG COLA,302
+14,6,Wed Jun 05 2024 00:00:00 GMT-0600 (Central Standard Time),23,,SIN ESPECIFICAR,ELECTRONICO,,Preparatoria/Técnica,,Indistinto,,,,,,,83,BIG COLA,303
 14,7,Tue Jul 02 2024 00:00:00 GMT-0600 (Central Standard Time),27,,JUAREZ,AYUDANTE GENERAL,DE L-V DE 8-5.30,Primaria,,Indistinto,18-55,,,SI,,,203,MODULAR,304
-14,8,Thu Aug 01 2024 00:00:00 GMT-0600 (Central Standard Time),32,,SANICOLAS,AYUDANTE GENERAL,Fijo o Rotativo,Primaria,,Indistinto,18-55,9000,,SI,ROTATIVOS O FIJO NOCHE,,380,YASAKI,305
-14,8,Thu Aug 01 2024 00:00:00 GMT-0600 (Central Standard Time),32,,SANICOLAS,PRACTICANTE COMPRAS,Fijo,Licenciatura,,Indistinto,21-35,27500,,SI,DE 8-5.30  y Pago de 24000 a 31000,,380,YASAKI,306
-14,8,Thu Aug 01 2024 00:00:00 GMT-0600 (Central Standard Time),32,,SANICOLAS,EXPEDITOR,,Licenciatura,,Indistinto,24-45,,,SI,,,380,YASAKI,307
+14,8,Thu Aug 01 2024 00:00:00 GMT-0600 (Central Standard Time),32,,SAN NICOLAS,AYUDANTE GENERAL,Fijo o Rotativo,Primaria,,Indistinto,18-55,9000,,SI,ROTATIVOS O FIJO NOCHE,,380,YASAKI,305
+14,8,Thu Aug 01 2024 00:00:00 GMT-0600 (Central Standard Time),32,,SAN NICOLAS,PRACTICANTE COMPRAS,Fijo,Licenciatura,,Indistinto,21-35,27500,,SI,DE 8-5.30  y Pago de 24000 a 31000,,380,YASAKI,306
+14,8,Thu Aug 01 2024 00:00:00 GMT-0600 (Central Standard Time),32,,SAN NICOLAS,EXPEDITOR,,Licenciatura,,Indistinto,24-45,,,SI,,,380,YASAKI,307
 14,9,Tue Sep 03 2024 00:00:00 GMT-0600 (Central Standard Time),36,,MONTERREY,INSTALADOR,Fijo,Secundaria,,Masculino,20-45,7911,,NO,DE 8-6,,276,VIXO MEDIA,308
 14,10,Mon Oct 07 2024 00:00:00 GMT-0600 (Central Standard Time),41,,GUADALUPE,AYUDANTE GENERAL,Rotativo,Primaria,,Indistinto,18-55,Sat Aug 10 2024 00:00:00 GMT-0600 (Central Standard Time),50,SI,TURNOS ROTATIVOS DE 8X3,,508,NIPPON SEIKI,309
 14,10,Mon Oct 07 2024 00:00:00 GMT-0600 (Central Standard Time),41,,GUADALUPE,MANTENIMIENTO,Fijo,Preparatoria/Técnica,,Indistinto,18-55,Mon Oct 14 2024 00:00:00 GMT-0600 (Central Standard Time),5,SI,FIJO DE NOCHE,,508,NIPPON SEIKI,310
@@ -318,11 +318,11 @@
 15,3,Fri Mar 01 2024 00:00:00 GMT-0600 (Central Standard Time),,,GUADALUPE,RECLUTADOR,,Preparatoria,,Indistinto,18-30,,,SI,,,14,GRUPO SECURITAS,317
 15,3,Fri Mar 01 2024 00:00:00 GMT-0600 (Central Standard Time),,,GUADALUPE,COORDINADOR BOLINÜE,,Preparatoria,,Indistinto,20-45,,,SI,,,14,GRUPO SECURITAS,318
 15,4,Thu Apr 04 2024 00:00:00 GMT-0600 (Central Standard Time),14,,GUADALUPE,AYUDANTE GENERAL,,Secundaria,,Masculino,18-50,,,SI,,,19,PICSA DE MEXICO,319
-15,4,Thu Apr 04 2024 00:00:00 GMT-0600 (Central Standard Time),14,,,MONTACARGUISTA,,Secundaria,,Masculino,18-45,,,,,,19,PICSA DE MEXICO,320
-15,4,Thu Apr 04 2024 00:00:00 GMT-0600 (Central Standard Time),14,,,TECNICO EN MANTENIMIENTO,,Preparatoria/Técnica,,Masculino,25-50,,,,,,19,PICSA DE MEXICO,321
-15,4,Thu Apr 04 2024 00:00:00 GMT-0600 (Central Standard Time),14,,,LIMPIEZA,,Primaria,,Indistinto,18-58,,,,,,19,PICSA DE MEXICO,322
+15,4,Thu Apr 04 2024 00:00:00 GMT-0600 (Central Standard Time),14,,SIN ESPECIFICAR,MONTACARGUISTA,,Secundaria,,Masculino,18-45,,,,,,19,PICSA DE MEXICO,320
+15,4,Thu Apr 04 2024 00:00:00 GMT-0600 (Central Standard Time),14,,SIN ESPECIFICAR,TECNICO EN MANTENIMIENTO,,Preparatoria/Técnica,,Masculino,25-50,,,,,,19,PICSA DE MEXICO,321
+15,4,Thu Apr 04 2024 00:00:00 GMT-0600 (Central Standard Time),14,,SIN ESPECIFICAR,LIMPIEZA,,Primaria,,Indistinto,18-58,,,,,,19,PICSA DE MEXICO,322
 15,5,Thu May 02 2024 00:00:00 GMT-0600 (Central Standard Time),19,,JUAREZ,AYUDANTE GENERAL,,Sin especificar,,Indistinto,18-X,,,,,,209,HIM PEOPLE,323
-15,5,Thu May 02 2024 00:00:00 GMT-0600 (Central Standard Time),19,,,TECNICO (A),,Preparatoria/Técnica,,Masculino,,,,,,,209,HIM PEOPLE,324
+15,5,Thu May 02 2024 00:00:00 GMT-0600 (Central Standard Time),19,,SIN ESPECIFICAR,TECNICO (A),,Preparatoria/Técnica,,Masculino,,,,,,,209,HIM PEOPLE,324
 15,6,Wed Jun 05 2024 00:00:00 GMT-0600 (Central Standard Time),23,,MONTERREY,INSTALADOR,DE 8-6 DE L-S,Secundaria,,Masculino,25-45,,,NO,,,276,VIXO MEDIA,325
 15,7,Tue Jul 02 2024 00:00:00 GMT-0600 (Central Standard Time),27,,GUADALUPE,AYUDANTE GENERAL,DE 7-3 DE 3-10.30 Y DE 10.30-7,Primaria,,Indistinto,18-60,13800,,SI,,,362,ROTOPLAS,326
 15,8,Thu Aug 01 2024 00:00:00 GMT-0600 (Central Standard Time),32,,PESQUERIA,AYUDANTE GENERAL,Rotativo,Primaria,,Masculino,18-58,9580,,SI,ROTATIVOS 3 TURNOS DE 8H,,342,ACUMULADORES OMEGA,327
@@ -336,15 +336,15 @@
 16,3,Fri Mar 01 2024 00:00:00 GMT-0600 (Central Standard Time),,,MONTERREY,ALMACENISTA,,Sin especificar,,Indistinto,18-65,,,NO,,,15,QUIMICOS Y PAPELES DEL NORTE (55),335
 16,3,Fri Mar 01 2024 00:00:00 GMT-0600 (Central Standard Time),,,MONTERREY,CHOFER,,Sin especificar,,Masculino,19-40,,,NO,,,15,QUIMICOS Y PAPELES DEL NORTE (55),336
 16,3,Fri Mar 01 2024 00:00:00 GMT-0600 (Central Standard Time),,,MONTERREY,AYUDANTE GENERAL,,Sin especificar,,Indistinto,18-65,,,NO,,,15,QUIMICOS Y PAPELES DEL NORTE (55),337
-16,5,Fri May 03 2024 00:00:00 GMT-0600 (Central Standard Time),19,,,GUARDIA,,Secundaria,,Masculino,25-50,,,,,,114,UNPACO,338
+16,5,Fri May 03 2024 00:00:00 GMT-0600 (Central Standard Time),19,,SIN ESPECIFICAR,GUARDIA,,Secundaria,,Masculino,25-50,,,,,,114,UNPACO,338
 16,4,Thu Apr 04 2024 00:00:00 GMT-0600 (Central Standard Time),14,,MONTERREY,TABLAJERO (A),,Sin especificar,,Indistinto,20-50,,,NO,,,144,DENES,339
-16,4,Thu Apr 04 2024 00:00:00 GMT-0600 (Central Standard Time),14,,,AYUDANTE GENERAL,,Sin especificar,,Indistinto,18-55,,,,,,144,DENES,340
-16,4,Thu Apr 04 2024 00:00:00 GMT-0600 (Central Standard Time),14,,,AYUDANTE DE CHOFER,,Sin especificar,,Masculino,20-40,,,,,,144,DENES,341
-16,4,Thu Apr 04 2024 00:00:00 GMT-0600 (Central Standard Time),14,,,GUARDIA,,Sin especificar,,Masculino,25-35,,,,,,144,DENES,342
-16,4,Thu Apr 04 2024 00:00:00 GMT-0600 (Central Standard Time),14,,,MONTACARGUISTA,,Sin especificar,,Masculino,20-40,,,,,,144,DENES,343
-16,6,Wed Jun 05 2024 00:00:00 GMT-0600 (Central Standard Time),23,,,AYUDANTE GENERAL,,Primaria,,Masculino,,,,,,,189,EL OFERTON DE CANTU,344
-16,6,Wed Jun 05 2024 00:00:00 GMT-0600 (Central Standard Time),23,,,TABLAJEROS,,Primaria,,Masculino,24-55,,,,,,189,EL OFERTON DE CANTU,345
-16,6,Wed Jun 05 2024 00:00:00 GMT-0600 (Central Standard Time),23,,,LIMPIEZA,,Primaria,,Indistinto,18-55,,,,,,189,EL OFERTON DE CANTU,346
+16,4,Thu Apr 04 2024 00:00:00 GMT-0600 (Central Standard Time),14,,SIN ESPECIFICAR,AYUDANTE GENERAL,,Sin especificar,,Indistinto,18-55,,,,,,144,DENES,340
+16,4,Thu Apr 04 2024 00:00:00 GMT-0600 (Central Standard Time),14,,SIN ESPECIFICAR,AYUDANTE DE CHOFER,,Sin especificar,,Masculino,20-40,,,,,,144,DENES,341
+16,4,Thu Apr 04 2024 00:00:00 GMT-0600 (Central Standard Time),14,,SIN ESPECIFICAR,GUARDIA,,Sin especificar,,Masculino,25-35,,,,,,144,DENES,342
+16,4,Thu Apr 04 2024 00:00:00 GMT-0600 (Central Standard Time),14,,SIN ESPECIFICAR,MONTACARGUISTA,,Sin especificar,,Masculino,20-40,,,,,,144,DENES,343
+16,6,Wed Jun 05 2024 00:00:00 GMT-0600 (Central Standard Time),23,,SIN ESPECIFICAR,AYUDANTE GENERAL,,Primaria,,Masculino,,,,,,,189,EL OFERTON DE CANTU,344
+16,6,Wed Jun 05 2024 00:00:00 GMT-0600 (Central Standard Time),23,,SIN ESPECIFICAR,TABLAJEROS,,Primaria,,Masculino,24-55,,,,,,189,EL OFERTON DE CANTU,345
+16,6,Wed Jun 05 2024 00:00:00 GMT-0600 (Central Standard Time),23,,SIN ESPECIFICAR,LIMPIEZA,,Primaria,,Indistinto,18-55,,,,,,189,EL OFERTON DE CANTU,346
 16,5,Fri May 03 2024 00:00:00 GMT-0600 (Central Standard Time),19,,GUADALUPE,AYUDANTE GENERAL,,Secundaria,,Indistinto,18-50,,,NO,,,114,UNPACO,347
 16,6,Wed Jun 05 2024 00:00:00 GMT-0600 (Central Standard Time),23,,JUAREZ,CAJERO (A),DE 7-3.30 Y DE 12-8.30,Primaria,,Femenino,18-55,,,NO,,,189,EL OFERTON DE CANTU,348
 16,7,Tue Jul 02 2024 00:00:00 GMT-0600 (Central Standard Time),27,,APODACA,AYUDANTE GENERAL,TURNOS DE 8H,Secundaria,,Indistinto,18-55,10400,,SI,,,363,BOSTIK,349
@@ -358,10 +358,10 @@
 16,10,Mon Oct 07 2024 00:00:00 GMT-0600 (Central Standard Time),41,,PESQUERIA,AYUDANTE GENERAL,Fijo,Primaria,,Masculino,18-55,9000,8,SI,DE L-V 8-6,,505,PRODIESA ESPEJOS,357
 17,3,Fri Mar 01 2024 00:00:00 GMT-0600 (Central Standard Time),,,APODACA,AYUDANTE GENERAL,,Primaria,,Indistinto,19-45,,,SI,,,16,DENSO,358
 17,4,Thu Apr 04 2024 00:00:00 GMT-0600 (Central Standard Time),14,,GUADALUPE,SUSPENSIÓN Y ALEADOR,,Secundaria,,Masculino,23-50,,,NO,,,146,TLE,359
-17,4,Thu Apr 04 2024 00:00:00 GMT-0600 (Central Standard Time),14,,,MECANICO DIESEL,,Secundaria,,Masculino,23-50,,,,,,146,TLE,360
-17,4,Thu Apr 04 2024 00:00:00 GMT-0600 (Central Standard Time),14,,,SOLDADOR CARROCERO,,Secundaria,,Masculino,23-50,,,,,,146,TLE,361
-17,4,Thu Apr 04 2024 00:00:00 GMT-0600 (Central Standard Time),14,,,MECANICO DE AIRE,,Preparatoria/Técnica,,Masculino,23-50,,,,,,146,TLE,362
-17,4,Thu Apr 04 2024 00:00:00 GMT-0600 (Central Standard Time),14,,,AYUDANTE DE MECANICO,,Secundaria,,Masculino,23-50,,,,,,146,TLE,363
+17,4,Thu Apr 04 2024 00:00:00 GMT-0600 (Central Standard Time),14,,SIN ESPECIFICAR,MECANICO DIESEL,,Secundaria,,Masculino,23-50,,,,,,146,TLE,360
+17,4,Thu Apr 04 2024 00:00:00 GMT-0600 (Central Standard Time),14,,SIN ESPECIFICAR,SOLDADOR CARROCERO,,Secundaria,,Masculino,23-50,,,,,,146,TLE,361
+17,4,Thu Apr 04 2024 00:00:00 GMT-0600 (Central Standard Time),14,,SIN ESPECIFICAR,MECANICO DE AIRE,,Preparatoria/Técnica,,Masculino,23-50,,,,,,146,TLE,362
+17,4,Thu Apr 04 2024 00:00:00 GMT-0600 (Central Standard Time),14,,SIN ESPECIFICAR,AYUDANTE DE MECANICO,,Secundaria,,Masculino,23-50,,,,,,146,TLE,363
 17,5,Mon May 06 2024 00:00:00 GMT-0600 (Central Standard Time),19,,APODACA,AYUDANTE GENERAL,,Primaria,,Indistinto,20-50,,,SI,,,212,MR Y ASOCIADOS,364
 17,6,Wed Jun 05 2024 00:00:00 GMT-0600 (Central Standard Time),23,,MONTERREY,SALCHICHONERIA,ROTATIVOS DIA Y TARDE,Secundaria,,Indistinto,18-55,,,SI,,,39,HBE VALLE ALTO,365
 17,7,Tue Jul 02 2024 00:00:00 GMT-0600 (Central Standard Time),27,,GUADALUPE,OPERARIO DE PRODUCCION,DE 8-5.36 DE L-V,Primaria,,Indistinto,18-60,9000,,SI,Pago de 8000 A 9000,,364,DSBJ MEXICO,366
@@ -383,14 +383,14 @@
 18,3,Fri Mar 01 2024 00:00:00 GMT-0600 (Central Standard Time),,,CADEREYTA,AUXILIAR DE TRAFICO,,Licenciatura,,Femenino,25-55,,,NO,,,17,FLETES 4003,382
 18,3,Fri Mar 01 2024 00:00:00 GMT-0600 (Central Standard Time),,,CADEREYTA,MONITORISTA,,Licenciatura,,Masculino,25-55,,,NO,,,17,FLETES 4003,383
 18,3,Fri Mar 01 2024 00:00:00 GMT-0600 (Central Standard Time),,,CADEREYTA,CHOFER TIPO E,,Secundaria,,Masculino,25-55,,,NO,,,17,FLETES 4003,384
-18,4,Fri Apr 05 2024 00:00:00 GMT-0600 (Central Standard Time),14,,SANICOLAS,AYUDANTE GENERAL,,Primaria,,Indistinto,18-58,,,SI,,,148,QUALTIA ALIMENTOS,385
+18,4,Fri Apr 05 2024 00:00:00 GMT-0600 (Central Standard Time),14,,SAN NICOLAS,AYUDANTE GENERAL,,Primaria,,Indistinto,18-58,,,SI,,,148,QUALTIA ALIMENTOS,385
 18,5,Mon May 06 2024 00:00:00 GMT-0600 (Central Standard Time),19,,MONTERREY,GUARDIA,,Primaria,,Indistinto,18-60,,,NO,,,101,GEEA,386
 18,6,Wed Jun 05 2024 00:00:00 GMT-0600 (Central Standard Time),23,,CADEREYTA,SOLDADOR,DE 8-6 DE L-V  S 8-1,Sin especificar,,Masculino,18-X,,,SI,,,279,ADL,387
-18,6,Wed Jun 05 2024 00:00:00 GMT-0600 (Central Standard Time),23,,,CHOFER 5a RUEDA,,Sin especificar,,Indistinto,,,,,,,279,ADL,388
-18,6,Wed Jun 05 2024 00:00:00 GMT-0600 (Central Standard Time),23,,,ARMADOR,,Sin especificar,,Indistinto,,,,,,,279,ADL,389
-18,6,Wed Jun 05 2024 00:00:00 GMT-0600 (Central Standard Time),23,,,MECANICOS,,Sin especificar,,Indistinto,,,,,,,279,ADL,390
-18,7,Tue Jul 02 2024 00:00:00 GMT-0600 (Central Standard Time),27,,SANICOLAS,EMPACADOR DE ROLLOS,DE 7-7 5X2,Primaria,,Masculino,21-45,,,SI,,,365,CONCORD PACKAGING,391
-18,7,Tue Jul 02 2024 00:00:00 GMT-0600 (Central Standard Time),27,,SANICOLAS,CHOFER ESTAQUITAS,,Primaria,,Masculino,25-35,14500,,SI,,,365,CONCORD PACKAGING,392
+18,6,Wed Jun 05 2024 00:00:00 GMT-0600 (Central Standard Time),23,,SIN ESPECIFICAR,CHOFER 5a RUEDA,,Sin especificar,,Indistinto,,,,,,,279,ADL,388
+18,6,Wed Jun 05 2024 00:00:00 GMT-0600 (Central Standard Time),23,,SIN ESPECIFICAR,ARMADOR,,Sin especificar,,Indistinto,,,,,,,279,ADL,389
+18,6,Wed Jun 05 2024 00:00:00 GMT-0600 (Central Standard Time),23,,SIN ESPECIFICAR,MECANICOS,,Sin especificar,,Indistinto,,,,,,,279,ADL,390
+18,7,Tue Jul 02 2024 00:00:00 GMT-0600 (Central Standard Time),27,,SAN NICOLAS,EMPACADOR DE ROLLOS,DE 7-7 5X2,Primaria,,Masculino,21-45,,,SI,,,365,CONCORD PACKAGING,391
+18,7,Tue Jul 02 2024 00:00:00 GMT-0600 (Central Standard Time),27,,SAN NICOLAS,CHOFER ESTAQUITAS,,Primaria,,Masculino,25-35,14500,,SI,,,365,CONCORD PACKAGING,392
 18,8,Thu Aug 01 2024 00:00:00 GMT-0600 (Central Standard Time),32,,GUADALUPE,GUARDIA,Fijo,Primaria,,Indistinto,20-65,11800,,NO,DE7 A 7,,306,SEGURIDAD IND CANTUTTI,393
 18,9,Fri Sep 06 2024 00:00:00 GMT-0600 (Central Standard Time),36,,GUADALUPE,AYUDANTE GENERAL,Fijo o Rotativo,Secundaria,,Masculino,18-50,9930,,SI,DE L-V 8 -6.20 Y DE L-S 3-10.30 Y ROT 12H,,19,PICSA DE MEXICO,394
 18,9,Fri Sep 06 2024 00:00:00 GMT-0600 (Central Standard Time),36,,GUADALUPE,MONTACARGUISTA,,Secundaria,,Masculino,20-45,9900,,SI,,,19,PICSA DE MEXICO,395
@@ -405,18 +405,18 @@
 19,7,Tue Jul 02 2024 00:00:00 GMT-0600 (Central Standard Time),27,,GUADALUPE,MONTACARGUISTA,,Secundaria,,Masculino,20-50,9950,,SI,,,19,PICSA DE MEXICO,404
 19,7,Tue Jul 02 2024 00:00:00 GMT-0600 (Central Standard Time),27,,GUADALUPE,MANTENIMIENTO,,Técnico,,Masculino,25-50,12000,,SI,,,19,PICSA DE MEXICO,405
 19,4,Fri Apr 05 2024 00:00:00 GMT-0600 (Central Standard Time),14,,GUADALUPE,AYUDANTE GENERAL,,Secundaria,,Masculino,16-59,,,,,,-1,COMERCIALIZADORA SPC,406
-19,4,Fri Apr 05 2024 00:00:00 GMT-0600 (Central Standard Time),14,,,MANTENIMIENTO,,Secundaria,,Masculino,16-59,,,,,,-1,COMERCIALIZADORA SPC,407
-19,4,Fri Apr 05 2024 00:00:00 GMT-0600 (Central Standard Time),14,,,COBRANZA CAMBACEO,,Secundaria,,Indistinto,16-59,,,,,,-1,COMERCIALIZADORA SPC,408
-19,4,Fri Apr 05 2024 00:00:00 GMT-0600 (Central Standard Time),14,,,VENDEDOR (A),,Secundaria,,Indistinto,16-59,,,,,,-1,COMERCIALIZADORA SPC,409
-19,4,Fri Apr 05 2024 00:00:00 GMT-0600 (Central Standard Time),14,,,CAJERO (A),,Secundaria,,Indistinto,16-59,,,,,,-1,COMERCIALIZADORA SPC,410
-19,4,Fri Apr 05 2024 00:00:00 GMT-0600 (Central Standard Time),14,,,VIGILANTE,,Secundaria,,Indistinto,16-59,,,,,,-1,COMERCIALIZADORA SPC,411
+19,4,Fri Apr 05 2024 00:00:00 GMT-0600 (Central Standard Time),14,,SIN ESPECIFICAR,MANTENIMIENTO,,Secundaria,,Masculino,16-59,,,,,,-1,COMERCIALIZADORA SPC,407
+19,4,Fri Apr 05 2024 00:00:00 GMT-0600 (Central Standard Time),14,,SIN ESPECIFICAR,COBRANZA CAMBACEO,,Secundaria,,Indistinto,16-59,,,,,,-1,COMERCIALIZADORA SPC,408
+19,4,Fri Apr 05 2024 00:00:00 GMT-0600 (Central Standard Time),14,,SIN ESPECIFICAR,VENDEDOR (A),,Secundaria,,Indistinto,16-59,,,,,,-1,COMERCIALIZADORA SPC,409
+19,4,Fri Apr 05 2024 00:00:00 GMT-0600 (Central Standard Time),14,,SIN ESPECIFICAR,CAJERO (A),,Secundaria,,Indistinto,16-59,,,,,,-1,COMERCIALIZADORA SPC,410
+19,4,Fri Apr 05 2024 00:00:00 GMT-0600 (Central Standard Time),14,,SIN ESPECIFICAR,VIGILANTE,,Secundaria,,Indistinto,16-59,,,,,,-1,COMERCIALIZADORA SPC,411
 19,5,Mon May 06 2024 00:00:00 GMT-0600 (Central Standard Time),19,,MONTERREY,LIMPIEZA,,Sin especificar,,Indistinto,21-57,,,SI,,,214,ARAMARK DE MEXICO,412
-19,5,Mon May 06 2024 00:00:00 GMT-0600 (Central Standard Time),19,,,CHOFER BARREDORA,,Sin especificar,,Masculino,,,,,,,214,ARAMARK DE MEXICO,413
+19,5,Mon May 06 2024 00:00:00 GMT-0600 (Central Standard Time),19,,SIN ESPECIFICAR,CHOFER BARREDORA,,Sin especificar,,Masculino,,,,,,,214,ARAMARK DE MEXICO,413
 19,6,Wed Jun 05 2024 00:00:00 GMT-0600 (Central Standard Time),23,,CADEREYTA,SOLDADOR,DE L-V  8-6,Sin especificar,,Masculino,18-X,,,SI,,,281,TANQUES Y DICEÑOS,414
-19,6,Wed Jun 05 2024 00:00:00 GMT-0600 (Central Standard Time),23,,,ARMADOR,,Sin especificar,,Indistinto,,,,,,,281,TANQUES Y DICEÑOS,415
-19,6,Wed Jun 05 2024 00:00:00 GMT-0600 (Central Standard Time),23,,,AYUDANTE GENERAL,,Sin especificar,,Indistinto,,,,,,,281,TANQUES Y DICEÑOS,416
-19,6,Wed Jun 05 2024 00:00:00 GMT-0600 (Central Standard Time),23,,,INSTALADOR,,Sin especificar,,Indistinto,,,,,,,281,TANQUES Y DICEÑOS,417
-19,6,Wed Jun 05 2024 00:00:00 GMT-0600 (Central Standard Time),23,,,SANBLASTEO,,Sin especificar,,Indistinto,,,,,,,281,TANQUES Y DICEÑOS,418
+19,6,Wed Jun 05 2024 00:00:00 GMT-0600 (Central Standard Time),23,,SIN ESPECIFICAR,ARMADOR,,Sin especificar,,Indistinto,,,,,,,281,TANQUES Y DICEÑOS,415
+19,6,Wed Jun 05 2024 00:00:00 GMT-0600 (Central Standard Time),23,,SIN ESPECIFICAR,AYUDANTE GENERAL,,Sin especificar,,Indistinto,,,,,,,281,TANQUES Y DICEÑOS,416
+19,6,Wed Jun 05 2024 00:00:00 GMT-0600 (Central Standard Time),23,,SIN ESPECIFICAR,INSTALADOR,,Sin especificar,,Indistinto,,,,,,,281,TANQUES Y DICEÑOS,417
+19,6,Wed Jun 05 2024 00:00:00 GMT-0600 (Central Standard Time),23,,SIN ESPECIFICAR,SANBLASTEO,,Sin especificar,,Indistinto,,,,,,,281,TANQUES Y DICEÑOS,418
 19,7,Tue Jul 02 2024 00:00:00 GMT-0600 (Central Standard Time),27,,GUADALUPE,AYUDANTE GENERAL,FIJO DE 8-6.20 L-V ROTATIVO 7-7 L-S,Secundaria,,Masculino,18-50,9930,,SI,,,19,PICSA DE MEXICO,419
 19,8,Thu Aug 01 2024 00:00:00 GMT-0600 (Central Standard Time),32,,MONTERREY,CAJERO (A),Fijo,Preparatoria,,Indistinto,18-55,10000,,SI,DE 6-3 Y 1.30-10,,39,HBE VALLE ALTO,420
 19,8,Thu Aug 01 2024 00:00:00 GMT-0600 (Central Standard Time),32,,MONTERREY,AUXILIAR,,Secundaria,,Indistinto,,9000,,SI,PREVENCION,,39,HBE VALLE ALTO,421
@@ -439,31 +439,31 @@
 20,3,Fri Mar 01 2024 00:00:00 GMT-0600 (Central Standard Time),,,GUADALUPE,AUXILIAR DE LIMPIEZA,,Secundaria,,Indistinto,18-55,,,SI,,,19,PICSA DE MEXICO,438
 20,3,Fri Mar 01 2024 00:00:00 GMT-0600 (Central Standard Time),,,GUADALUPE,MONTACARGUISTA,,Secundaria,,Masculino,22-55,,,SI,,,19,PICSA DE MEXICO,439
 20,4,Tue Apr 09 2024 00:00:00 GMT-0600 (Central Standard Time),15,,JUAREZ,AYUDANTE GENERAL,,Primaria,,Indistinto,18-52,,,SI,,,151,MODULAR VANITY,440
-20,4,Tue Apr 09 2024 00:00:00 GMT-0600 (Central Standard Time),15,,,INSPECTOR DE CALIDAD,,Secundaria,,Indistinto,22-45,,,,,,151,MODULAR VANITY,441
+20,4,Tue Apr 09 2024 00:00:00 GMT-0600 (Central Standard Time),15,,SIN ESPECIFICAR,INSPECTOR DE CALIDAD,,Secundaria,,Indistinto,22-45,,,,,,151,MODULAR VANITY,441
 20,5,Mon May 06 2024 00:00:00 GMT-0600 (Central Standard Time),19,,CADEREYTA,TECNICO EN MANTENIMIENTO,,Preparatoria/Técnica,,Masculino,25-56,,,SI,,,216,GRUPO STAR,442
-20,5,Mon May 06 2024 00:00:00 GMT-0600 (Central Standard Time),19,,,CHOFER,,Secundaria,,Masculino,18-56,,,,,,216,GRUPO STAR,443
-20,5,Mon May 06 2024 00:00:00 GMT-0600 (Central Standard Time),19,,,AUXILIAR DE CHOFER,,Secundaria,,Masculino,18-56,,,,,,216,GRUPO STAR,444
-20,5,Mon May 06 2024 00:00:00 GMT-0600 (Central Standard Time),19,,,AUXILIAR DE PRODUCCION,,Secundaria,,Indistinto,,,,,,,216,GRUPO STAR,445
+20,5,Mon May 06 2024 00:00:00 GMT-0600 (Central Standard Time),19,,SIN ESPECIFICAR,CHOFER,,Secundaria,,Masculino,18-56,,,,,,216,GRUPO STAR,443
+20,5,Mon May 06 2024 00:00:00 GMT-0600 (Central Standard Time),19,,SIN ESPECIFICAR,AUXILIAR DE CHOFER,,Secundaria,,Masculino,18-56,,,,,,216,GRUPO STAR,444
+20,5,Mon May 06 2024 00:00:00 GMT-0600 (Central Standard Time),19,,SIN ESPECIFICAR,AUXILIAR DE PRODUCCION,,Secundaria,,Indistinto,,,,,,,216,GRUPO STAR,445
 20,6,Thu Jun 06 2024 00:00:00 GMT-0600 (Central Standard Time),23,,CADEREYTA,PROMOTOR,DE 9-7 L-V  S 9-2,Preparatoria,,Indistinto,23-50,,,,,,283,B HERMANOS,446
-20,6,Thu Jun 06 2024 00:00:00 GMT-0600 (Central Standard Time),23,,,COBRANZA,,Sin especificar,,Indistinto,,,,,,,283,B HERMANOS,447
+20,6,Thu Jun 06 2024 00:00:00 GMT-0600 (Central Standard Time),23,,SIN ESPECIFICAR,COBRANZA,,Sin especificar,,Indistinto,,,,,,,283,B HERMANOS,447
 20,7,Tue Jul 02 2024 00:00:00 GMT-0600 (Central Standard Time),27,,GUADALUPE,VENDEDOR (A),DE 6-6,Secundaria,,Indistinto,30-50,,,NO,,,90,BOKADOS,448
 20,7,Tue Jul 02 2024 00:00:00 GMT-0600 (Central Standard Time),27,,GUADALUPE,ALMACENISTA,DE 10-7,Secundaria,,Indistinto,20-50,,,NO,,,90,BOKADOS,449
-20,8,Thu Aug 01 2024 00:00:00 GMT-0600 (Central Standard Time),32,,SANPEDRO,AYUDANTE GENERAL,Fijo,Sin especificar,,Masculino,18-50,8000,,NO,DE L-V DE 8.30-6.30 Y S 8.30-3,,432,CLEBER,450
-20,8,Thu Aug 01 2024 00:00:00 GMT-0600 (Central Standard Time),32,,SANPEDRO,HOJALATERO,,Sin especificar,,Indistinto,,8500,,NO,,,432,CLEBER,451
-20,8,Thu Aug 01 2024 00:00:00 GMT-0600 (Central Standard Time),32,,SANPEDRO,PULIDOR,,Sin especificar,,Indistinto,,8000,,NO,,,432,CLEBER,452
-20,8,Thu Aug 01 2024 00:00:00 GMT-0600 (Central Standard Time),32,,SANPEDRO,ARMADOR,,Sin especificar,,Indistinto,,9800,,NO,,,432,CLEBER,453
+20,8,Thu Aug 01 2024 00:00:00 GMT-0600 (Central Standard Time),32,,SAN PEDRO,AYUDANTE GENERAL,Fijo,Sin especificar,,Masculino,18-50,8000,,NO,DE L-V DE 8.30-6.30 Y S 8.30-3,,432,CLEBER,450
+20,8,Thu Aug 01 2024 00:00:00 GMT-0600 (Central Standard Time),32,,SAN PEDRO,HOJALATERO,,Sin especificar,,Indistinto,,8500,,NO,,,432,CLEBER,451
+20,8,Thu Aug 01 2024 00:00:00 GMT-0600 (Central Standard Time),32,,SAN PEDRO,PULIDOR,,Sin especificar,,Indistinto,,8000,,NO,,,432,CLEBER,452
+20,8,Thu Aug 01 2024 00:00:00 GMT-0600 (Central Standard Time),32,,SAN PEDRO,ARMADOR,,Sin especificar,,Indistinto,,9800,,NO,,,432,CLEBER,453
 20,9,Mon Sep 09 2024 00:00:00 GMT-0600 (Central Standard Time),37,,JUAREZ,AYUDANTE GENERAL,Fijo,Primaria,,Indistinto,18-55,2140,,SI,DE 8.5.30,,203,MODULAR,454
 20,10,Thu Oct 10 2024 00:00:00 GMT-0600 (Central Standard Time),41,,MONTERREY,CAJERO (A),ROTATIVOS MAÑANA Y TARDE,Secundaria,,Indistinto,18-X,10429,3,SI,,,631,HEB TEC,455
 20,10,Thu Oct 10 2024 00:00:00 GMT-0600 (Central Standard Time),41,,MONTERREY,SURTIDORES,TURNO FIJO DE 10PM-6AM,Primaria,,Indistinto,18-X,9500,3,SI,,,631,HEB TEC,456
 20,10,Thu Oct 10 2024 00:00:00 GMT-0600 (Central Standard Time),41,,MONTERREY,AUXILIAR VENTAS DE PISO,TURNOS ROTATIVOS 3X8,Primaria,,Indistinto,18-X,8500,5,SI,,,631,HEB TEC,457
 21,3,Fri Mar 01 2024 00:00:00 GMT-0600 (Central Standard Time),,,CADEREYTA,AYUDANTE GENERAL,,Secundaria,,Indistinto,18-56,,,SI,,,20,STAR JUICE,458
 21,4,Tue Apr 09 2024 00:00:00 GMT-0600 (Central Standard Time),15,,APODACA,POERADOR GENERAL,,Primaria,,Indistinto,18-55,,,,,,128,LINKING CORP,459
-21,5,Tue May 07 2024 00:00:00 GMT-0600 (Central Standard Time),19,,SANICOLAS,CHOFER EJECUTIVO,,Primaria,,Indistinto,25-62,,,SI,,,97,GOLDEN,460
+21,5,Tue May 07 2024 00:00:00 GMT-0600 (Central Standard Time),19,,SAN NICOLAS,CHOFER EJECUTIVO,,Primaria,,Indistinto,25-62,,,SI,,,97,GOLDEN,460
 21,6,Thu Jun 06 2024 00:00:00 GMT-0600 (Central Standard Time),23,,GUADALUPE,AYUDANTE GENERAL,DE L-V 8-5  S 8-1,Secundaria,,Masculino,18-45,,,NO,,,65,WTSCO,461
-21,6,Thu Jun 06 2024 00:00:00 GMT-0600 (Central Standard Time),23,,,OPERARI0 (A),,Secundaria,,Femenino,18-45,,,,,,65,WTSCO,462
-21,6,Thu Jun 06 2024 00:00:00 GMT-0600 (Central Standard Time),23,,,CHOFER,,Secundaria,,Masculino,,,,,,,65,WTSCO,463
-21,6,Thu Jun 06 2024 00:00:00 GMT-0600 (Central Standard Time),23,,,ALMACENISTA,,Secundaria,,Masculino,,,,,,,65,WTSCO,464
-21,6,Thu Jun 06 2024 00:00:00 GMT-0600 (Central Standard Time),23,,,CALIDAD,,Preparatoria,,Masculino,19-40,,,,,,65,WTSCO,465
+21,6,Thu Jun 06 2024 00:00:00 GMT-0600 (Central Standard Time),23,,SIN ESPECIFICAR,OPERARI0 (A),,Secundaria,,Femenino,18-45,,,,,,65,WTSCO,462
+21,6,Thu Jun 06 2024 00:00:00 GMT-0600 (Central Standard Time),23,,SIN ESPECIFICAR,CHOFER,,Secundaria,,Masculino,,,,,,,65,WTSCO,463
+21,6,Thu Jun 06 2024 00:00:00 GMT-0600 (Central Standard Time),23,,SIN ESPECIFICAR,ALMACENISTA,,Secundaria,,Masculino,,,,,,,65,WTSCO,464
+21,6,Thu Jun 06 2024 00:00:00 GMT-0600 (Central Standard Time),23,,SIN ESPECIFICAR,CALIDAD,,Preparatoria,,Masculino,19-40,,,,,,65,WTSCO,465
 21,7,Wed Jul 03 2024 00:00:00 GMT-0600 (Central Standard Time),27,,GUADALUPE,AYUDANTE GENERAL,DE 8-4 O DE 10-6,Secundaria,,Indistinto,18-30,,,NO,,,370,CEDIS DEL SOL,466
 21,7,Wed Jul 03 2024 00:00:00 GMT-0600 (Central Standard Time),27,,GUADALUPE,SURTIDORES,,Secundaria,,Masculino,18-30,,,NO,,,370,CEDIS DEL SOL,467
 21,8,Fri Aug 02 2024 00:00:00 GMT-0600 (Central Standard Time),32,,MONTERREY,AYUDANTE GENERAL,Fijo,Secundaria,,Indistinto,18-50,11112,,NO,DE L-V 6.40-4.45,,68,SIMMA,468
@@ -477,18 +477,18 @@
 21,9,Mon Sep 09 2024 00:00:00 GMT-0600 (Central Standard Time),37,,APODACA,CALIDAD,,Secundaria,,Indistinto,,10000,,SI,,,561,WHIRPOOL,476
 21,9,Mon Sep 09 2024 00:00:00 GMT-0600 (Central Standard Time),37,,APODACA,MONTACARGUISTA,,Secundaria,,Masculino,,12000,,SI,,,561,WHIRPOOL,477
 21,10,Thu Oct 10 2024 00:00:00 GMT-0600 (Central Standard Time),41,,APODACA,AUXILIAR DE ALMACEN,3X8 TURNOS FIJOS,Secundaria,,Indistinto,18-53,9684,200,SI,,,453,MERCADO LIVRE,478
-21,10,Thu Oct 10 2024 00:00:00 GMT-0600 (Central Standard Time),41,,,AYUDANTE GENERAL,3X8 TURNOS FIJOS,Secundaria,,Indistinto,18-53,9684,80,SI,,,453,MERCADO LIVRE,479
+21,10,Thu Oct 10 2024 00:00:00 GMT-0600 (Central Standard Time),41,,SIN ESPECIFICAR,AYUDANTE GENERAL,3X8 TURNOS FIJOS,Secundaria,,Indistinto,18-53,9684,80,SI,,,453,MERCADO LIVRE,479
 21,10,Thu Oct 10 2024 00:00:00 GMT-0600 (Central Standard Time),41,,APODACA,MONTACARGUISTA,DE 3X8 TURNOS FIJOS,Secundaria,,Indistinto,18-53,13000,30,SI,,,453,MERCADO LIVRE,480
 22,3,Fri Mar 01 2024 00:00:00 GMT-0600 (Central Standard Time),,,CADEREYTA,AUXILIAR DE CHOFER,,Secundaria,,Masculino,,,,SI,,,21,GARZA ELIZONDO COMPAÑÍA,481
 22,4,Wed Apr 10 2024 00:00:00 GMT-0600 (Central Standard Time),15,,GUADALUPE,OPERARIO DE ENSAMBLE,,Secundaria,,Indistinto,18-45,,,NO,,,154,WTS,482
-22,4,Wed Apr 10 2024 00:00:00 GMT-0600 (Central Standard Time),15,,,AYUDANTE GENERAL,,Secundaria,,Masculino,18-40,,,,,,154,WTS,483
-22,4,Wed Apr 10 2024 00:00:00 GMT-0600 (Central Standard Time),15,,,INSPECTOR DE CALIDAD,,Preparatoria,,Masculino,18-40,,,,,,154,WTS,484
-22,4,Wed Apr 10 2024 00:00:00 GMT-0600 (Central Standard Time),15,,,CHOER ALMACENISTA,,Secundaria,,Masculino,18-45,,,,,,154,WTS,485
-22,6,Thu Jun 06 2024 00:00:00 GMT-0600 (Central Standard Time),23,,,CALIDAD,,Secundaria,,Indistinto,18-50,,,,,,205,BROMAKE,486
-22,6,Thu Jun 06 2024 00:00:00 GMT-0600 (Central Standard Time),23,,,ALMACENISTA,DE L-V 7.30-5,Primaria,,Masculino,18-40,,,,,,205,BROMAKE,487
+22,4,Wed Apr 10 2024 00:00:00 GMT-0600 (Central Standard Time),15,,SIN ESPECIFICAR,AYUDANTE GENERAL,,Secundaria,,Masculino,18-40,,,,,,154,WTS,483
+22,4,Wed Apr 10 2024 00:00:00 GMT-0600 (Central Standard Time),15,,SIN ESPECIFICAR,INSPECTOR DE CALIDAD,,Preparatoria,,Masculino,18-40,,,,,,154,WTS,484
+22,4,Wed Apr 10 2024 00:00:00 GMT-0600 (Central Standard Time),15,,SIN ESPECIFICAR,CHOER ALMACENISTA,,Secundaria,,Masculino,18-45,,,,,,154,WTS,485
+22,6,Thu Jun 06 2024 00:00:00 GMT-0600 (Central Standard Time),23,,SIN ESPECIFICAR,CALIDAD,,Secundaria,,Indistinto,18-50,,,,,,205,BROMAKE,486
+22,6,Thu Jun 06 2024 00:00:00 GMT-0600 (Central Standard Time),23,,SIN ESPECIFICAR,ALMACENISTA,DE L-V 7.30-5,Primaria,,Masculino,18-40,,,,,,205,BROMAKE,487
 22,5,Tue May 07 2024 00:00:00 GMT-0600 (Central Standard Time),19,,APODACA,LIMPIEZA,,Primaria,,Indistinto,18-50,,,SI,,,219,LANGSTON,488
-22,5,Tue May 07 2024 00:00:00 GMT-0600 (Central Standard Time),19,,,AYUDANTE GENERAL,,Primaria,,Indistinto,,,,,,,219,LANGSTON,489
-22,5,Tue May 07 2024 00:00:00 GMT-0600 (Central Standard Time),19,,,COSTURERA,,Primaria,,Indistinto,18-60,,,,,,219,LANGSTON,490
+22,5,Tue May 07 2024 00:00:00 GMT-0600 (Central Standard Time),19,,SIN ESPECIFICAR,AYUDANTE GENERAL,,Primaria,,Indistinto,,,,,,,219,LANGSTON,489
+22,5,Tue May 07 2024 00:00:00 GMT-0600 (Central Standard Time),19,,SIN ESPECIFICAR,COSTURERA,,Primaria,,Indistinto,18-60,,,,,,219,LANGSTON,490
 22,6,Thu Jun 06 2024 00:00:00 GMT-0600 (Central Standard Time),23,,APODACA,AYUDANTE GENERAL,DE L-S 7.30-7.30,Primaria,,Indistinto,18-55,,,SI,,,205,BROMAKE,491
 22,7,Wed Jul 03 2024 00:00:00 GMT-0600 (Central Standard Time),27,,GUADALUPE,OPERARIO GENERAL,DE 6-2.30 DE 3.30-10 Y DE 10-6 DE L-S,Secundaria,,Indistinto,18-50,9167,,NO,,,372,COCA COLA,492
 22,7,Wed Jul 03 2024 00:00:00 GMT-0600 (Central Standard Time),27,,GUADALUPE,ALMACENISTA,,Secundaria,,Indistinto,,,,NO,,,372,COCA COLA,493
@@ -507,23 +507,23 @@
 23,3,Fri Mar 01 2024 00:00:00 GMT-0600 (Central Standard Time),,,CADEREYTA,AYUDANTE GENERAL,,Primaria,,Indistinto,,,,NO,,,22,JOB SOLUTIONS,506
 23,3,Fri Mar 01 2024 00:00:00 GMT-0600 (Central Standard Time),,,CADEREYTA,SOLDADOR MICROALAMBRE,,Primaria,,Masculino,,,,NO,,,22,JOB SOLUTIONS,507
 23,5,Tue May 07 2024 00:00:00 GMT-0600 (Central Standard Time),19,,GUADALUPE,AYUDANTE GENERAL,,Secundaria,,Masculino,18-50,,,SI,,,19,PICSA DE MEXICO,508
-23,5,Tue May 07 2024 00:00:00 GMT-0600 (Central Standard Time),19,,,LIMPIEZA,,Sin especificar,,Indistinto,18-59,,,,,,19,PICSA DE MEXICO,509
-23,5,Tue May 07 2024 00:00:00 GMT-0600 (Central Standard Time),19,,,MONTACARGUISTA,,Secundaria,,Masculino,20-45,,,,,,19,PICSA DE MEXICO,510
+23,5,Tue May 07 2024 00:00:00 GMT-0600 (Central Standard Time),19,,SIN ESPECIFICAR,LIMPIEZA,,Sin especificar,,Indistinto,18-59,,,,,,19,PICSA DE MEXICO,509
+23,5,Tue May 07 2024 00:00:00 GMT-0600 (Central Standard Time),19,,SIN ESPECIFICAR,MONTACARGUISTA,,Secundaria,,Masculino,20-45,,,,,,19,PICSA DE MEXICO,510
 23,7,Wed Jul 03 2024 00:00:00 GMT-0600 (Central Standard Time),27,,GUADALUPE,AYUDANTE GENERAL,DE 7-3.30,Secundaria,,Masculino,16-59,9350,,SI,,,-1,COMERCIALIZADORA SPC,511
 23,7,Wed Jul 03 2024 00:00:00 GMT-0600 (Central Standard Time),27,,GUADALUPE,VENTAS,DE 10-8,Secundaria,,Indistinto,16-59,,,SI,,,-1,COMERCIALIZADORA SPC,512
 23,7,Wed Jul 03 2024 00:00:00 GMT-0600 (Central Standard Time),27,,GUADALUPE,CAJERO (A),DE 10-8,Secundaria,,Indistinto,16-59,,,SI,,,-1,COMERCIALIZADORA SPC,513
 23,7,Wed Jul 03 2024 00:00:00 GMT-0600 (Central Standard Time),27,,GUADALUPE,BANQUERO (A),,Preparatoria,,Indistinto,18-59,,,SI,,,-1,COMERCIALIZADORA SPC,514
 23,7,Wed Jul 03 2024 00:00:00 GMT-0600 (Central Standard Time),27,,GUADALUPE,COBRANZA,,Secundaria,,Indistinto,16-59,,,SI,,,-1,COMERCIALIZADORA SPC,515
 23,4,Wed Apr 10 2024 00:00:00 GMT-0600 (Central Standard Time),15,,PESQUERIA,AYUDANTE GENERAL,,Primaria,,Masculino,18-X,,,SI,,,100,HEBEL,516
-23,4,Wed Apr 10 2024 00:00:00 GMT-0600 (Central Standard Time),15,,,MONTACARGUISTA,,Primaria,,Masculino,18-X,,,,,,100,HEBEL,517
+23,4,Wed Apr 10 2024 00:00:00 GMT-0600 (Central Standard Time),15,,SIN ESPECIFICAR,MONTACARGUISTA,,Primaria,,Masculino,18-X,,,,,,100,HEBEL,517
 23,6,Thu Jun 06 2024 00:00:00 GMT-0600 (Central Standard Time),23,,GUADALUPE,AYUDANTE GENERAL,DE L-V  8-6.30  L-S 7--3.30,Secundaria,,Masculino,18-50,,,SI,,,288,PICSA DE MEX,518
-23,6,Thu Jun 06 2024 00:00:00 GMT-0600 (Central Standard Time),23,,,MONTACARGUISTA,,Secundaria,,Masculino,20-45,,,,,,288,PICSA DE MEX,519
-23,6,Thu Jun 06 2024 00:00:00 GMT-0600 (Central Standard Time),23,,,OPERARIO DE MAQUINAS,,Secundaria,,Masculino,20-50,,,,,,288,PICSA DE MEX,520
-23,6,Thu Jun 06 2024 00:00:00 GMT-0600 (Central Standard Time),23,,,LIMPIEZA,,Secundaria,,Masculino,18-59,,,,,,288,PICSA DE MEX,521
-23,6,Thu Jun 06 2024 00:00:00 GMT-0600 (Central Standard Time),23,,,MANTENIMIENTO,,Preparatoria/Técnica,,Masculino,25-45,,,,,,288,PICSA DE MEX,522
+23,6,Thu Jun 06 2024 00:00:00 GMT-0600 (Central Standard Time),23,,SIN ESPECIFICAR,MONTACARGUISTA,,Secundaria,,Masculino,20-45,,,,,,288,PICSA DE MEX,519
+23,6,Thu Jun 06 2024 00:00:00 GMT-0600 (Central Standard Time),23,,SIN ESPECIFICAR,OPERARIO DE MAQUINAS,,Secundaria,,Masculino,20-50,,,,,,288,PICSA DE MEX,520
+23,6,Thu Jun 06 2024 00:00:00 GMT-0600 (Central Standard Time),23,,SIN ESPECIFICAR,LIMPIEZA,,Secundaria,,Masculino,18-59,,,,,,288,PICSA DE MEX,521
+23,6,Thu Jun 06 2024 00:00:00 GMT-0600 (Central Standard Time),23,,SIN ESPECIFICAR,MANTENIMIENTO,,Preparatoria/Técnica,,Masculino,25-45,,,,,,288,PICSA DE MEX,522
 23,7,Wed Jul 03 2024 00:00:00 GMT-0600 (Central Standard Time),27,,GUADALUPE,CHOFER,DE 8-4,Secundaria,,Masculino,26-50,12400,,SI,,,-1,COMERCIALIZADORA SPC,523
 23,8,Fri Aug 02 2024 00:00:00 GMT-0600 (Central Standard Time),32,,APODACA,AYUDANTE GENERAL,Varios,Primaria,,Indistinto,18-55,9800,,SI,VARIOS y Pago de 7500 a 9800,,469,HUMAN RESOVICE,524
-23,9,Mon Sep 09 2024 00:00:00 GMT-0600 (Central Standard Time),37,,SANICOLAS,ALMACENISTA,,Primaria,,Masculino,18-40,10000,,SI,,,269,YASAQUI CABLES,525
+23,9,Mon Sep 09 2024 00:00:00 GMT-0600 (Central Standard Time),37,,SAN NICOLAS,ALMACENISTA,,Primaria,,Masculino,18-40,10000,,SI,,,269,YASAQUI CABLES,525
 23,10,Thu Oct 10 2024 00:00:00 GMT-0600 (Central Standard Time),41,,MONTERREY,ASESOR DE VENTAS,FLEXIBLE,Secundaria,,Indistinto,25-70,COMICION,15,NO,,,386,GUPO MARTINEZ,526
 24,3,Fri Mar 01 2024 00:00:00 GMT-0600 (Central Standard Time),,,APODACA,AYUDANTE GENERAL,,Secundaria,,Indistinto,18-50,,,SI,,,23,BEST WORK FORCE SOLUTIONS,527
 24,3,Fri Mar 01 2024 00:00:00 GMT-0600 (Central Standard Time),,,APODACA,AYUDANTE GENERAL,,Secundaria,,Indistinto,20-49,,,SI,,,23,BEST WORK FORCE SOLUTIONS,528
@@ -532,11 +532,11 @@
 80,3,Fri Mar 01 2024 00:00:00 GMT-0600 (Central Standard Time),,,PESQUERIA,INSPECTOR DE CALIDAD,,Sin especificar,,Indistinto,18-55,,,SI,,,24,PODIESA,531
 80,3,Fri Mar 01 2024 00:00:00 GMT-0600 (Central Standard Time),,,PESQUERIA,MONTACARGUISTA,,Sin especificar,,Indistinto,18-55,,,SI,,,24,PODIESA,532
 24,4,Thu Apr 11 2024 00:00:00 GMT-0600 (Central Standard Time),15,,MONTERREY,LIMPIEZA,,Primaria,,Indistinto,18-55,,,NO,,,158,RADIA SERVICIOS GLOBALES,533
-24,6,Thu Jun 06 2024 00:00:00 GMT-0600 (Central Standard Time),23,,,COSTURERA,,Primaria,,Indistinto,,,,,,,219,LANGSTON,534
-24,6,Thu Jun 06 2024 00:00:00 GMT-0600 (Central Standard Time),23,,,ELECTRONICO,,Preparatoria/Técnica,,Masculino,25-45,,,,,,219,LANGSTON,535
+24,6,Thu Jun 06 2024 00:00:00 GMT-0600 (Central Standard Time),23,,SIN ESPECIFICAR,COSTURERA,,Primaria,,Indistinto,,,,,,,219,LANGSTON,534
+24,6,Thu Jun 06 2024 00:00:00 GMT-0600 (Central Standard Time),23,,SIN ESPECIFICAR,ELECTRONICO,,Preparatoria/Técnica,,Masculino,25-45,,,,,,219,LANGSTON,535
 24,7,Thu Jul 04 2024 00:00:00 GMT-0600 (Central Standard Time),27,,APODACA,AYUDANTE GENERAL,,Sin especificar,,Indistinto,18-54,9400,,SI,,,219,LANGSTON,536
 24,5,Tue May 07 2024 00:00:00 GMT-0600 (Central Standard Time),19,,JUAREZ,AYUDANTE GENERAL,,Primaria,,Masculino,18-60,,,NO,,,221,PASTO LA ESCONDIDA,537
-24,5,Tue May 07 2024 00:00:00 GMT-0600 (Central Standard Time),19,,,CHOFER CARGADOR,,Secundaria,,Masculino,21-60,,,,,,221,PASTO LA ESCONDIDA,538
+24,5,Tue May 07 2024 00:00:00 GMT-0600 (Central Standard Time),19,,SIN ESPECIFICAR,CHOFER CARGADOR,,Secundaria,,Masculino,21-60,,,,,,221,PASTO LA ESCONDIDA,538
 24,6,Thu Jun 06 2024 00:00:00 GMT-0600 (Central Standard Time),23,,APODACA,AYUDANTE GENERAL,TURNOS FIJOS O ROT 12 H,Primaria,,Indistinto,18-60,,,SI,,,219,LANGSTON,539
 24,7,Thu Jul 04 2024 00:00:00 GMT-0600 (Central Standard Time),27,,APODACA,COSTURERA,DE 8-8 D-N,Primaria,,Indistinto,18-54,9400,,SI,,,219,LANGSTON,540
 24,8,Fri Aug 02 2024 00:00:00 GMT-0600 (Central Standard Time),32,,MONTERREY,ALMACENISTA,Fijo,Secundaria,,Indistinto,18-53,12000,,SI,8HHS,,470,RANDSTAD,541
@@ -567,14 +567,14 @@
 25,10,Fri Oct 11 2024 00:00:00 GMT-0600 (Central Standard Time),41,,GUADALUPE,OPERARIO DE PRODUCCION,DE 12X2 ROTATIVOS,Primaria,,Masculino,20-53,8000,5,SI,,,639,LAERDAL MEDICAL,566
 26,3,Fri Mar 01 2024 00:00:00 GMT-0600 (Central Standard Time),,,GUADALUPE,GUARDIA,,Secundaria,,Indistinto,18-53,,,NO,,,25,CIESA,567
 26,4,Mon Apr 15 2024 00:00:00 GMT-0600 (Central Standard Time),16,,APODACA,AYUDANTE GENERAL,,Secundaria,,Indistinto,18-59,,,SI,,,160,CELESTICA,568
-26,4,Mon Apr 15 2024 00:00:00 GMT-0600 (Central Standard Time),16,,,MATERIALISTA,,Secundaria,,Indistinto,18-59,,,,,,160,CELESTICA,569
-26,4,Mon Apr 15 2024 00:00:00 GMT-0600 (Central Standard Time),16,,,OPERADOR DE ARIA MEDICA,,Preparatoria,,Indistinto,18-59,,,,,,160,CELESTICA,570
+26,4,Mon Apr 15 2024 00:00:00 GMT-0600 (Central Standard Time),16,,SIN ESPECIFICAR,MATERIALISTA,,Secundaria,,Indistinto,18-59,,,,,,160,CELESTICA,569
+26,4,Mon Apr 15 2024 00:00:00 GMT-0600 (Central Standard Time),16,,SIN ESPECIFICAR,OPERADOR DE ARIA MEDICA,,Preparatoria,,Indistinto,18-59,,,,,,160,CELESTICA,570
 26,5,Thu May 09 2024 00:00:00 GMT-0600 (Central Standard Time),19,,APODACA,AYUDANTE GENERAL,,Primaria,,Indistinto,18-58,,,SI,,,224,GRUPO ABX STEEL SOLUTIONS,571
-26,5,Thu May 09 2024 00:00:00 GMT-0600 (Central Standard Time),19,,,INSPECTOR DE CALIDAD,,Primaria,,Indistinto,18-58,,,,,,224,GRUPO ABX STEEL SOLUTIONS,572
-26,5,Thu May 09 2024 00:00:00 GMT-0600 (Central Standard Time),19,,,ELECTROMECANICO,,Preparatoria/Técnica,,Masculino,,,,,,,224,GRUPO ABX STEEL SOLUTIONS,573
+26,5,Thu May 09 2024 00:00:00 GMT-0600 (Central Standard Time),19,,SIN ESPECIFICAR,INSPECTOR DE CALIDAD,,Primaria,,Indistinto,18-58,,,,,,224,GRUPO ABX STEEL SOLUTIONS,572
+26,5,Thu May 09 2024 00:00:00 GMT-0600 (Central Standard Time),19,,SIN ESPECIFICAR,ELECTROMECANICO,,Preparatoria/Técnica,,Masculino,,,,,,,224,GRUPO ABX STEEL SOLUTIONS,573
 26,6,Fri Jun 07 2024 00:00:00 GMT-0600 (Central Standard Time),23,,MONTERREY,ALMACENISTA,DE  L-S  9-6,Primaria,,Masculino,18-45,,,NO,,,22,JOB SOLUTIONS,574
-26,6,Fri Jun 07 2024 00:00:00 GMT-0600 (Central Standard Time),23,,,VENDEDOR,,Secundaria,,Indistinto,18-65,,,NO,,,22,JOB SOLUTIONS,575
-26,6,Fri Jun 07 2024 00:00:00 GMT-0600 (Central Standard Time),23,,,AYUDANTE DE COSTURA,,Secundaria,,Indistinto,18-55,,,,,,22,JOB SOLUTIONS,576
+26,6,Fri Jun 07 2024 00:00:00 GMT-0600 (Central Standard Time),23,,SIN ESPECIFICAR,VENDEDOR,,Secundaria,,Indistinto,18-65,,,NO,,,22,JOB SOLUTIONS,575
+26,6,Fri Jun 07 2024 00:00:00 GMT-0600 (Central Standard Time),23,,SIN ESPECIFICAR,AYUDANTE DE COSTURA,,Secundaria,,Indistinto,18-55,,,,,,22,JOB SOLUTIONS,576
 26,7,Thu Jul 04 2024 00:00:00 GMT-0600 (Central Standard Time),27,,GUADALUPE,ALMACENISTA,DE 9-6 Y DE 8.30-7 PM,Secundaria,,Indistinto,18-57,9170,,SI,,,377,GRINGER,577
 26,8,Fri Aug 02 2024 00:00:00 GMT-0600 (Central Standard Time),32,,GUADALUPE,AYUDANTE GENERAL,Rotativo,Primaria,,Indistinto,18-60,2338,,SI,ROTATIVOS DE 8H,,474,PAPEL Y EMPAQUE,578
 26,8,Fri Aug 02 2024 00:00:00 GMT-0600 (Central Standard Time),32,,GUADALUPE,MONTACARGUISTA,Rotativo,Primaria,,Masculino,18-40,2885,,SI,ROTATIVOS DE 8H,,474,PAPEL Y EMPAQUE,579
@@ -587,8 +587,8 @@
 27,3,Fri Mar 01 2024 00:00:00 GMT-0600 (Central Standard Time),,,APODACA,OPERARIO DE PRODUCCION,,Secundaria,,Indistinto,18-55,,,SI,,,26,ASPCIADOS HR CONSULTING,586
 27,3,Fri Mar 01 2024 00:00:00 GMT-0600 (Central Standard Time),,,APODACA,AUXILIAR DE ALMACEN,,Preparatoria,,Indistinto,18-55,,,SI,,,26,ASPCIADOS HR CONSULTING,587
 27,4,Wed Apr 17 2024 00:00:00 GMT-0600 (Central Standard Time),16,,MONTERREY,OFICIAL ELECTRICO,,Secundaria,,Masculino,18-65,,,,,,162,AMI ENERGY,588
-27,4,Wed Apr 17 2024 00:00:00 GMT-0600 (Central Standard Time),16,,,AYUDANTE ELECTRICO,,Secundaria,,Masculino,18-65,,,,,,162,AMI ENERGY,589
-27,4,Wed Apr 17 2024 00:00:00 GMT-0600 (Central Standard Time),16,,,AYUDANTE GENERAL,,Secundaria,,Masculino,18-65,,,,,,162,AMI ENERGY,590
+27,4,Wed Apr 17 2024 00:00:00 GMT-0600 (Central Standard Time),16,,SIN ESPECIFICAR,AYUDANTE ELECTRICO,,Secundaria,,Masculino,18-65,,,,,,162,AMI ENERGY,589
+27,4,Wed Apr 17 2024 00:00:00 GMT-0600 (Central Standard Time),16,,SIN ESPECIFICAR,AYUDANTE GENERAL,,Secundaria,,Masculino,18-65,,,,,,162,AMI ENERGY,590
 27,5,Fri May 10 2024 00:00:00 GMT-0600 (Central Standard Time),19,,GUADALUPE,AYUDANTE GENERAL,,Primaria,,Indistinto,18-49,,,SI,,,226,OBJETIVO HUMANO,591
 27,6,Mon Jun 10 2024 00:00:00 GMT-0600 (Central Standard Time),24,,GUADALUPE,AYUDANTE GENERAL,DE L A V  7-5,Primaria,,Masculino,18-55,,,SI,,,51,EMPAQUES RIO GRANDE,592
 27,7,Thu Jul 04 2024 00:00:00 GMT-0600 (Central Standard Time),27,,APODACA,AYUDANTE GENERAL,DE 7.30 AM A 7.30 PM DE L-V,Primaria,,Indistinto,18-55,9000,,SI,,,205,BROMAKE,593
@@ -603,18 +603,18 @@
 27,10,Fri Oct 11 2024 00:00:00 GMT-0600 (Central Standard Time),41,,JUAREZ,MATERIALISTA,,Sin especificar,,Indistinto,,,10,SI,,,299,CADREX,602
 27,10,Fri Oct 11 2024 00:00:00 GMT-0600 (Central Standard Time),41,,JUAREZ,MONTACARGUISTA,,Sin especificar,,Indistinto,,,15,SI,,,299,CADREX,603
 28,3,Fri Mar 01 2024 00:00:00 GMT-0600 (Central Standard Time),,,GUADALUPE,AYUDANTE GENERAL,,Secundaria,,Indistinto,18-55,,,NO,,,27,SKX,604
-28,4,Thu Apr 18 2024 00:00:00 GMT-0600 (Central Standard Time),16,,,CAPTURISTA,,Secundaria,,Femenino,18-45,,,,,,114,UNPACO,605
-28,4,Thu Apr 18 2024 00:00:00 GMT-0600 (Central Standard Time),16,,,AYUDANTE GENERAL,,Secundaria,,Masculino,18-50,,,,,,114,UNPACO,606
-28,4,Thu Apr 18 2024 00:00:00 GMT-0600 (Central Standard Time),16,,,CAJERO (A),,Preparatoria,,Femenino,25-45,,,,,,114,UNPACO,607
+28,4,Thu Apr 18 2024 00:00:00 GMT-0600 (Central Standard Time),16,,SIN ESPECIFICAR,CAPTURISTA,,Secundaria,,Femenino,18-45,,,,,,114,UNPACO,605
+28,4,Thu Apr 18 2024 00:00:00 GMT-0600 (Central Standard Time),16,,SIN ESPECIFICAR,AYUDANTE GENERAL,,Secundaria,,Masculino,18-50,,,,,,114,UNPACO,606
+28,4,Thu Apr 18 2024 00:00:00 GMT-0600 (Central Standard Time),16,,SIN ESPECIFICAR,CAJERO (A),,Preparatoria,,Femenino,25-45,,,,,,114,UNPACO,607
 28,4,Thu Apr 18 2024 00:00:00 GMT-0600 (Central Standard Time),16,,GUADALUPE,GUARDIA,,Secundaria,,Masculino,25-55,,,NO,,,114,UNPACO,608
 28,5,Fri May 10 2024 00:00:00 GMT-0600 (Central Standard Time),19,,APODACA,OPERARIO DE PRODUCCION,,Primaria,,Indistinto,18-54,,,SI,,,227,EQUIPO AUTOMOTRIZ,609
 28,6,Mon Jun 10 2024 00:00:00 GMT-0600 (Central Standard Time),24,,MARIN,SLODADOR,DE  L-V 7.30-5.06,Secundaria,,Indistinto,18-55,,,SI,,,295,LGMG DE MEX,610
-28,6,Mon Jun 10 2024 00:00:00 GMT-0600 (Central Standard Time),24,,,ENSAMBLE,,Secundaria,,Indistinto,,,,,,,295,LGMG DE MEX,611
-28,6,Mon Jun 10 2024 00:00:00 GMT-0600 (Central Standard Time),24,,,PINTOR,,Secundaria,,Masculino,,,,,,,295,LGMG DE MEX,612
-28,6,Mon Jun 10 2024 00:00:00 GMT-0600 (Central Standard Time),24,,,AYUDANTE GENERAL,,Secundaria,,Indistinto,,,,,,,295,LGMG DE MEX,613
-28,6,Mon Jun 10 2024 00:00:00 GMT-0600 (Central Standard Time),24,,,MONTACARGUISTA,,Secundaria,,Masculino,,,,,,,295,LGMG DE MEX,614
-28,7,Thu Jul 04 2024 00:00:00 GMT-0600 (Central Standard Time),27,,SANICOLAS,OPERARIO DE PRODUCCION,TURNOS ROTATIVOS DE 12H,Primaria,,Indistinto,18-55,10000,,SI,,,380,YASAKI,615
-28,7,Thu Jul 04 2024 00:00:00 GMT-0600 (Central Standard Time),27,,SANICOLAS,ALMACENISTA,,Primaria,,Masculino,18-40,,,SI,,,380,YASAKI,616
+28,6,Mon Jun 10 2024 00:00:00 GMT-0600 (Central Standard Time),24,,SIN ESPECIFICAR,ENSAMBLE,,Secundaria,,Indistinto,,,,,,,295,LGMG DE MEX,611
+28,6,Mon Jun 10 2024 00:00:00 GMT-0600 (Central Standard Time),24,,SIN ESPECIFICAR,PINTOR,,Secundaria,,Masculino,,,,,,,295,LGMG DE MEX,612
+28,6,Mon Jun 10 2024 00:00:00 GMT-0600 (Central Standard Time),24,,SIN ESPECIFICAR,AYUDANTE GENERAL,,Secundaria,,Indistinto,,,,,,,295,LGMG DE MEX,613
+28,6,Mon Jun 10 2024 00:00:00 GMT-0600 (Central Standard Time),24,,SIN ESPECIFICAR,MONTACARGUISTA,,Secundaria,,Masculino,,,,,,,295,LGMG DE MEX,614
+28,7,Thu Jul 04 2024 00:00:00 GMT-0600 (Central Standard Time),27,,SAN NICOLAS,OPERARIO DE PRODUCCION,TURNOS ROTATIVOS DE 12H,Primaria,,Indistinto,18-55,10000,,SI,,,380,YASAKI,615
+28,7,Thu Jul 04 2024 00:00:00 GMT-0600 (Central Standard Time),27,,SAN NICOLAS,ALMACENISTA,,Primaria,,Masculino,18-40,,,SI,,,380,YASAKI,616
 28,8,Fri Aug 02 2024 00:00:00 GMT-0600 (Central Standard Time),32,,GUADALUPE,AYUDANTE GENERAL,Fijo,Sin especificar,,Masculino,18-30,10000,,NO,DE 6-2 Y DE 1-8,,370,CEDIS DEL SOL,617
 28,9,Wed Sep 11 2024 00:00:00 GMT-0600 (Central Standard Time),37,,MONTERREY,AYUDANTE GENERAL,Rotativo,Sin especificar,,Indistinto,X,,,SI,TRES TURNOS ROTATIVOS,,568,IQEST,618
 28,9,Wed Sep 11 2024 00:00:00 GMT-0600 (Central Standard Time),37,,MONTERREY,SOLDADORES,,Sin especificar,,Indistinto,X,,,SI,,,568,IQEST,619
@@ -625,16 +625,16 @@
 29,3,Fri Mar 01 2024 00:00:00 GMT-0600 (Central Standard Time),,,PESQUERIA,SOLDADOR,,Secundaria,,Masculino,18-55,,,SI,,,28,MARROKING,624
 29,3,Fri Mar 01 2024 00:00:00 GMT-0600 (Central Standard Time),,,PESQUERIA,ARMADOR,,Secundaria,,Masculino,18-55,,,SI,,,28,MARROKING,625
 29,4,Thu Apr 18 2024 00:00:00 GMT-0600 (Central Standard Time),16,,JUAREZ,SURTIDOR (A),,Primaria,,Indistinto,18-50,,,,,,165,SUPERMERCADOS SMART,626
-29,4,Thu Apr 18 2024 00:00:00 GMT-0600 (Central Standard Time),16,,,ACOMODO DE MERCANCIA,,Primaria,,Indistinto,18-50,,,,,,165,SUPERMERCADOS SMART,627
-29,4,Thu Apr 18 2024 00:00:00 GMT-0600 (Central Standard Time),16,,,MANTENIMIENTO,,Preparatoria/Técnica,,Masculino,18-50,,,,,,165,SUPERMERCADOS SMART,628
-29,4,Thu Apr 18 2024 00:00:00 GMT-0600 (Central Standard Time),16,,,LIMPIEZA,,Primaria,,Indistinto,18-55,,,,,,165,SUPERMERCADOS SMART,629
+29,4,Thu Apr 18 2024 00:00:00 GMT-0600 (Central Standard Time),16,,SIN ESPECIFICAR,ACOMODO DE MERCANCIA,,Primaria,,Indistinto,18-50,,,,,,165,SUPERMERCADOS SMART,627
+29,4,Thu Apr 18 2024 00:00:00 GMT-0600 (Central Standard Time),16,,SIN ESPECIFICAR,MANTENIMIENTO,,Preparatoria/Técnica,,Masculino,18-50,,,,,,165,SUPERMERCADOS SMART,628
+29,4,Thu Apr 18 2024 00:00:00 GMT-0600 (Central Standard Time),16,,SIN ESPECIFICAR,LIMPIEZA,,Primaria,,Indistinto,18-55,,,,,,165,SUPERMERCADOS SMART,629
 29,5,Wed May 15 2024 00:00:00 GMT-0600 (Central Standard Time),20,,MONTERREY,INSTALADOR,,Preparatoria/Técnica,,Masculino,18-X,,,,,,228,ADT,630
-29,5,Wed May 15 2024 00:00:00 GMT-0600 (Central Standard Time),20,,,MESA DE CONTROL,,Preparatoria,,Masculino,18-X,,,,,,228,ADT,631
-29,5,Wed May 15 2024 00:00:00 GMT-0600 (Central Standard Time),20,,,VENDEDOR (A),,Preparatoria,,Indistinto,18-X,,,,,,228,ADT,632
+29,5,Wed May 15 2024 00:00:00 GMT-0600 (Central Standard Time),20,,SIN ESPECIFICAR,MESA DE CONTROL,,Preparatoria,,Masculino,18-X,,,,,,228,ADT,631
+29,5,Wed May 15 2024 00:00:00 GMT-0600 (Central Standard Time),20,,SIN ESPECIFICAR,VENDEDOR (A),,Preparatoria,,Indistinto,18-X,,,,,,228,ADT,632
 29,6,Tue Jun 11 2024 00:00:00 GMT-0600 (Central Standard Time),24,,GUADALUPE,CAJERO (A),DE  7 - 4  Y 11- 8 L-V,Secundaria,,Femenino,18-45,,,NO,,,114,UNPACO,633
-29,6,Tue Jun 11 2024 00:00:00 GMT-0600 (Central Standard Time),24,,,GUARDIA,,Secundaria,,Masculino,22-40,,,,,,114,UNPACO,634
-29,6,Tue Jun 11 2024 00:00:00 GMT-0600 (Central Standard Time),24,,,AYUDANTE GENERAL,,Secundaria,,Indistinto,18-40,,,,,,114,UNPACO,635
-29,6,Tue Jun 11 2024 00:00:00 GMT-0600 (Central Standard Time),24,,,CAPTURISTA,,Secundaria,,Femenino,18-45,,,,,,114,UNPACO,636
+29,6,Tue Jun 11 2024 00:00:00 GMT-0600 (Central Standard Time),24,,SIN ESPECIFICAR,GUARDIA,,Secundaria,,Masculino,22-40,,,,,,114,UNPACO,634
+29,6,Tue Jun 11 2024 00:00:00 GMT-0600 (Central Standard Time),24,,SIN ESPECIFICAR,AYUDANTE GENERAL,,Secundaria,,Indistinto,18-40,,,,,,114,UNPACO,635
+29,6,Tue Jun 11 2024 00:00:00 GMT-0600 (Central Standard Time),24,,SIN ESPECIFICAR,CAPTURISTA,,Secundaria,,Femenino,18-45,,,,,,114,UNPACO,636
 29,7,Thu Jul 04 2024 00:00:00 GMT-0600 (Central Standard Time),27,,APODACA,LIMPIEZA,DE 7-7,Sin especificar,,Indistinto,18-62,1812,,SI,Pago por Semana,,382,HOLTMONT SERVICES,637
 29,8,Fri Aug 02 2024 00:00:00 GMT-0600 (Central Standard Time),32,,GUADALUPE,MANTENIMIENTO,Fijo,Preparatoria/Técnica,,Masculino,20-55,17000,,SI,DE L-V 7.30-5.36,,478,ONEAL STEEL DE MEX,638
 29,8,Fri Aug 02 2024 00:00:00 GMT-0600 (Central Standard Time),32,,GUADALUPE,OPERADOR CNC,,Preparatoria/Técnica,,Masculino,20-45,16000,,SI,,,478,ONEAL STEEL DE MEX,639
@@ -656,14 +656,14 @@
 30,3,Fri Mar 01 2024 00:00:00 GMT-0600 (Central Standard Time),,,JUAREZ,AYUDANTE GENERAL,,Secundaria,,Indistinto,17-58,,,NO,,,29,TOSTADAS DELICIAS,655
 30,3,Fri Mar 01 2024 00:00:00 GMT-0600 (Central Standard Time),,,JUAREZ,COMEDOR,,Secundaria,,Indistinto,40,,,NO,,,29,TOSTADAS DELICIAS,656
 30,4,Fri Apr 19 2024 00:00:00 GMT-0600 (Central Standard Time),16,,MONTERREY,ASESOR MODULO,,Secundaria,,Indistinto,18-60,,,,,,167,IZZI TELECOM,657
-30,4,Fri Apr 19 2024 00:00:00 GMT-0600 (Central Standard Time),16,,,ASESOR CAMBACEO,,Secundaria,,Indistinto,18-60,,,,,,167,IZZI TELECOM,658
-30,4,Fri Apr 19 2024 00:00:00 GMT-0600 (Central Standard Time),16,,,PROMOTOR VENTAS,,Secundaria,,Indistinto,18-60,,,,,,167,IZZI TELECOM,659
-30,4,Fri Apr 19 2024 00:00:00 GMT-0600 (Central Standard Time),16,,,ATENCION A CLIENTES,,Secundaria,,Indistinto,18-50,,,,,,167,IZZI TELECOM,660
+30,4,Fri Apr 19 2024 00:00:00 GMT-0600 (Central Standard Time),16,,SIN ESPECIFICAR,ASESOR CAMBACEO,,Secundaria,,Indistinto,18-60,,,,,,167,IZZI TELECOM,658
+30,4,Fri Apr 19 2024 00:00:00 GMT-0600 (Central Standard Time),16,,SIN ESPECIFICAR,PROMOTOR VENTAS,,Secundaria,,Indistinto,18-60,,,,,,167,IZZI TELECOM,659
+30,4,Fri Apr 19 2024 00:00:00 GMT-0600 (Central Standard Time),16,,SIN ESPECIFICAR,ATENCION A CLIENTES,,Secundaria,,Indistinto,18-50,,,,,,167,IZZI TELECOM,660
 30,5,Wed May 15 2024 00:00:00 GMT-0600 (Central Standard Time),20,,GUADALUPE,GUARDIA,,Primaria,,Masculino,22-55,,,NO,,,230,VAZMOR SEGURIDAD,661
 30,7,Fri Jul 05 2024 00:00:00 GMT-0600 (Central Standard Time),27,,GUADALUPE,MONTACARGUISTA,,Secundaria,,Indistinto,18-55,10350,,NO,,,83,BIG COLA,662
 30,7,Fri Jul 05 2024 00:00:00 GMT-0600 (Central Standard Time),27,,GUADALUPE,CALIDAD,,Licenciatura,Ingeniero Químico,Indistinto,22-35,11500,,NO,,,83,BIG COLA,663
 30,6,Wed Jun 12 2024 00:00:00 GMT-0600 (Central Standard Time),24,,JUAREZ,AYUDANTE GENERAL,12 H 4 DIAS,Primaria,,Indistinto,18-57,,,SI,,,299,CADREX,664
-30,6,Wed Jun 12 2024 00:00:00 GMT-0600 (Central Standard Time),24,,,SURTIDOR,,Primaria,,Masculino,18-50,,,,,,299,CADREX,665
+30,6,Wed Jun 12 2024 00:00:00 GMT-0600 (Central Standard Time),24,,SIN ESPECIFICAR,SURTIDOR,,Primaria,,Masculino,18-50,,,,,,299,CADREX,665
 30,7,Fri Jul 05 2024 00:00:00 GMT-0600 (Central Standard Time),27,,GUADALUPE,AYUDANTE GENERAL,TURNOS ROTATIVOS DIA TARDE NOCHE,Secundaria,,Indistinto,18-55,7929,,NO,,,83,BIG COLA,666
 30,8,Fri Aug 02 2024 00:00:00 GMT-0600 (Central Standard Time),32,,APODACA,AYUDANTE GENERAL,Fijo,Primaria,,Indistinto,18-65,10000,,SI,12H 4X3,,301,WOLVERINE,667
 30,9,Thu Sep 12 2024 00:00:00 GMT-0600 (Central Standard Time),37,,PESQUERIA,OPERARI0 (A),Fijo o Rotativo,Primaria,,Indistinto,18-50,10416,,SI,6X3 ROTATIVOS Y FIJOS,,572,SUNGWOO HITECH,668
@@ -673,14 +673,14 @@
 31,3,Fri Mar 01 2024 00:00:00 GMT-0600 (Central Standard Time),,,PESQUERIA,AYUDANTE GENERAL,,Primaria,,Indistinto,18-55,,,SI,,,30,DONGWON MEXICO,672
 31,3,Fri Mar 01 2024 00:00:00 GMT-0600 (Central Standard Time),,,PESQUERIA,INSPECTOR DE CALIDAD,,Primaria,,Indistinto,18-55,,,SI,,,30,DONGWON MEXICO,673
 31,4,Fri Apr 19 2024 00:00:00 GMT-0600 (Central Standard Time),16,,APODACA,AYUDANTE GENERAL,,Primaria,,Indistinto,18-55,,,NO,,,148,QUALTIA ALIMENTOS,674
-31,4,Fri Apr 19 2024 00:00:00 GMT-0600 (Central Standard Time),16,,,ALMACENISTA,,Primaria,,Masculino,18-40,,,,,,148,QUALTIA ALIMENTOS,675
-31,4,Fri Apr 19 2024 00:00:00 GMT-0600 (Central Standard Time),16,,,CALIDAD,,Licenciatura,,Indistinto,22-40,,,,,,148,QUALTIA ALIMENTOS,676
+31,4,Fri Apr 19 2024 00:00:00 GMT-0600 (Central Standard Time),16,,SIN ESPECIFICAR,ALMACENISTA,,Primaria,,Masculino,18-40,,,,,,148,QUALTIA ALIMENTOS,675
+31,4,Fri Apr 19 2024 00:00:00 GMT-0600 (Central Standard Time),16,,SIN ESPECIFICAR,CALIDAD,,Licenciatura,,Indistinto,22-40,,,,,,148,QUALTIA ALIMENTOS,676
 31,5,Wed May 15 2024 00:00:00 GMT-0600 (Central Standard Time),20,,MONTERREY,RECIBO,,Secundaria,,Indistinto,18-55,,,SI,,,231,HEB,677
-31,5,Wed May 15 2024 00:00:00 GMT-0600 (Central Standard Time),20,,,ACOMODO DE MERCANCIA,,Secundaria,,Indistinto,,,,,,,231,HEB,678
-31,5,Wed May 15 2024 00:00:00 GMT-0600 (Central Standard Time),20,,,PREVENCION,,Secundaria,,Indistinto,,,,,,,231,HEB,679
-31,5,Wed May 15 2024 00:00:00 GMT-0600 (Central Standard Time),20,,,SALCHICHONERIA,,Secundaria,,Indistinto,,,,,,,231,HEB,680
+31,5,Wed May 15 2024 00:00:00 GMT-0600 (Central Standard Time),20,,SIN ESPECIFICAR,ACOMODO DE MERCANCIA,,Secundaria,,Indistinto,,,,,,,231,HEB,678
+31,5,Wed May 15 2024 00:00:00 GMT-0600 (Central Standard Time),20,,SIN ESPECIFICAR,PREVENCION,,Secundaria,,Indistinto,,,,,,,231,HEB,679
+31,5,Wed May 15 2024 00:00:00 GMT-0600 (Central Standard Time),20,,SIN ESPECIFICAR,SALCHICHONERIA,,Secundaria,,Indistinto,,,,,,,231,HEB,680
 31,6,Wed Jun 12 2024 00:00:00 GMT-0600 (Central Standard Time),24,,APODACA,AYUDANTE GENERAL,4X3 DE 7-7,Primaria,,Indistinto,18-65,,,SI,,,301,WOLVERINE,681
-31,6,Wed Jun 12 2024 00:00:00 GMT-0600 (Central Standard Time),24,,,CALIDAD,,Secundaria,,Indistinto,,,,,,,301,WOLVERINE,682
+31,6,Wed Jun 12 2024 00:00:00 GMT-0600 (Central Standard Time),24,,SIN ESPECIFICAR,CALIDAD,,Secundaria,,Indistinto,,,,,,,301,WOLVERINE,682
 31,7,Fri Jul 05 2024 00:00:00 GMT-0600 (Central Standard Time),27,,GUADALUPE,GUARDIA,ROTATIVOS DE 12H,Secundaria,,Indistinto,20-58,10500,,SI,,,14,GRUPO SECURITAS,683
 31,7,Fri Jul 05 2024 00:00:00 GMT-0600 (Central Standard Time),27,,GUADALUPE,JEFE DE TURNO,,Preparatoria,,Indistinto,20-58,12500,,SI,,,14,GRUPO SECURITAS,684
 31,8,Fri Aug 02 2024 00:00:00 GMT-0600 (Central Standard Time),32,,MONTERREY,AYUDANTE GENERAL,Rotativo,Primaria,,Indistinto,18-58,7780,,NO,3 TURNOS ROTATIVOS,,481,SOLUCIONES EN REC,685
@@ -694,10 +694,10 @@
 32,3,Fri Mar 01 2024 00:00:00 GMT-0600 (Central Standard Time),,,MONTERREY,GUARDIA,,Primaria,,Indistinto,18-55,,,NO,,,31,ORGANIZACIÓN INTEGRAL DE ALARMAS,693
 32,4,Fri Apr 19 2024 00:00:00 GMT-0600 (Central Standard Time),16,,GUADALUPE,OPERARIO DE PRODUCCION,,Primaria,,Indistinto,18-55,,,SI,,,95,AMPHENOL ADRONICS,694
 32,5,Wed May 15 2024 00:00:00 GMT-0600 (Central Standard Time),20,,JUAREZ,CAPTURISTA,,Secundaria,,Femenino,18-45,,,SI,,,233,MNA,695
-32,5,Wed May 15 2024 00:00:00 GMT-0600 (Central Standard Time),20,,,SOLDADOR,,Secundaria,,Masculino,18-55,,,,,,233,MNA,696
-32,5,Wed May 15 2024 00:00:00 GMT-0600 (Central Standard Time),20,,,GUARDIA,,Secundaria,,Indistinto,18-55,,,,,,233,MNA,697
-32,5,Wed May 15 2024 00:00:00 GMT-0600 (Central Standard Time),20,,,ELECTRICO,,Preparatoria/Técnica,,Indistinto,25-45,,,,,,233,MNA,698
-32,5,Wed May 15 2024 00:00:00 GMT-0600 (Central Standard Time),20,,,MECANICO DE PISO,,Preparatoria/Técnica,,Masculino,25-45,,,,,,233,MNA,699
+32,5,Wed May 15 2024 00:00:00 GMT-0600 (Central Standard Time),20,,SIN ESPECIFICAR,SOLDADOR,,Secundaria,,Masculino,18-55,,,,,,233,MNA,696
+32,5,Wed May 15 2024 00:00:00 GMT-0600 (Central Standard Time),20,,SIN ESPECIFICAR,GUARDIA,,Secundaria,,Indistinto,18-55,,,,,,233,MNA,697
+32,5,Wed May 15 2024 00:00:00 GMT-0600 (Central Standard Time),20,,SIN ESPECIFICAR,ELECTRICO,,Preparatoria/Técnica,,Indistinto,25-45,,,,,,233,MNA,698
+32,5,Wed May 15 2024 00:00:00 GMT-0600 (Central Standard Time),20,,SIN ESPECIFICAR,MECANICO DE PISO,,Preparatoria/Técnica,,Masculino,25-45,,,,,,233,MNA,699
 32,6,Wed Jun 12 2024 00:00:00 GMT-0600 (Central Standard Time),24,,GUADALUPE,GUARDIA,12 H 5X2,Secundaria,,Indistinto,20-58,,,SI,,,66,SEGURITAS,700
 32,7,Fri Jul 05 2024 00:00:00 GMT-0600 (Central Standard Time),27,,MONTERREY,ASESOR DE VENTAS,FLEXIBLE,Secundaria,,Indistinto,23-75,,,NO,Pago VARIABLE,,386,GUPO MARTINEZ,701
 32,8,Fri Aug 02 2024 00:00:00 GMT-0600 (Central Standard Time),32,,GUADALUPE,MANTENIMIENTO,,Secundaria,,Masculino,16-59,,,SI,,,-1,COMERCIALIZADORA SPC,702
@@ -724,17 +724,17 @@
 32,10,Mon Oct 14 2024 00:00:00 GMT-0600 (Central Standard Time),42,,JUAREZ,SOLDADOR,,Primaria,,Masculino,18-55,14700,5,SI,,,649,MNA DE MEXICO,723
 33,3,Fri Mar 01 2024 00:00:00 GMT-0600 (Central Standard Time),,,GUADALUPE,AYUDANTE GENERAL,,Secundaria,,Indistinto,,,,NO,,,32,FRANCISCO RAMIREZ HERNANDEZ,724
 33,4,Fri Apr 19 2024 00:00:00 GMT-0600 (Central Standard Time),16,,GUADALUPE,OPERARIO DE REPARTO,,Secundaria,,Indistinto,23-50,,,NO,,,172,FEMSA PROXMIDS,725
-33,4,Fri Apr 19 2024 00:00:00 GMT-0600 (Central Standard Time),16,,,AYUDANTE DE REPARTO,,Secundaria,,Masculino,18-48,,,,,,172,FEMSA PROXMIDS,726
+33,4,Fri Apr 19 2024 00:00:00 GMT-0600 (Central Standard Time),16,,SIN ESPECIFICAR,AYUDANTE DE REPARTO,,Secundaria,,Masculino,18-48,,,,,,172,FEMSA PROXMIDS,726
 33,7,Fri Jul 05 2024 00:00:00 GMT-0600 (Central Standard Time),27,,CADEREYTA,MANTENIMIENTO,DE 7-7,Técnico,,Masculino,18-56,12000,,SI,,,216,GRUPO STAR,727
 33,7,Fri Jul 05 2024 00:00:00 GMT-0600 (Central Standard Time),27,,CADEREYTA,JEFE DE MANTENIMIENTO,DE 7-7,Licenciatura,Ingeniero,Masculino,20-56,25000,,SI,Pago de 20000 A 25000,,216,GRUPO STAR,728
 33,7,Fri Jul 05 2024 00:00:00 GMT-0600 (Central Standard Time),27,,CADEREYTA,CHOFER RAMPA,,Secundaria,,Masculino,20-56,,,SI,,,216,GRUPO STAR,729
 33,5,Thu May 16 2024 00:00:00 GMT-0600 (Central Standard Time),20,,JUAREZ,JEFE DE TALLER,,Licenciatura,Ingeniero,Masculino,30-55,,,NO,,,235,HYDRI EQUIPOS Y SIST DE AGUA,730
-33,5,Thu May 16 2024 00:00:00 GMT-0600 (Central Standard Time),20,,,INGENIERIA DE TALLER,,Licenciatura,Ingeniero,Masculino,25-65,,,,,,235,HYDRI EQUIPOS Y SIST DE AGUA,731
-33,5,Thu May 16 2024 00:00:00 GMT-0600 (Central Standard Time),20,,,PANTOGRAFO PLASMA,,Sin especificar,,Masculino,25-65,,,,,,235,HYDRI EQUIPOS Y SIST DE AGUA,732
+33,5,Thu May 16 2024 00:00:00 GMT-0600 (Central Standard Time),20,,SIN ESPECIFICAR,INGENIERIA DE TALLER,,Licenciatura,Ingeniero,Masculino,25-65,,,,,,235,HYDRI EQUIPOS Y SIST DE AGUA,731
+33,5,Thu May 16 2024 00:00:00 GMT-0600 (Central Standard Time),20,,SIN ESPECIFICAR,PANTOGRAFO PLASMA,,Sin especificar,,Masculino,25-65,,,,,,235,HYDRI EQUIPOS Y SIST DE AGUA,732
 33,6,Wed Jun 12 2024 00:00:00 GMT-0600 (Central Standard Time),24,,CADEREYTA,SOLDADOR,DE 7-5,Sin especificar,,Indistinto,18-58,,,SI,,,304,GRUPO ASOCIADOS,733
-33,6,Wed Jun 12 2024 00:00:00 GMT-0600 (Central Standard Time),24,,,AYUDANTE GENERAL,,Sin especificar,,Indistinto,,,,,,,304,GRUPO ASOCIADOS,734
-33,6,Wed Jun 12 2024 00:00:00 GMT-0600 (Central Standard Time),24,,,ARMADOR,,Sin especificar,,Indistinto,,,,,,,304,GRUPO ASOCIADOS,735
-33,6,Wed Jun 12 2024 00:00:00 GMT-0600 (Central Standard Time),24,,,AYUDANTE SOLDADOR,,Sin especificar,,Indistinto,,,,,,,304,GRUPO ASOCIADOS,736
+33,6,Wed Jun 12 2024 00:00:00 GMT-0600 (Central Standard Time),24,,SIN ESPECIFICAR,AYUDANTE GENERAL,,Sin especificar,,Indistinto,,,,,,,304,GRUPO ASOCIADOS,734
+33,6,Wed Jun 12 2024 00:00:00 GMT-0600 (Central Standard Time),24,,SIN ESPECIFICAR,ARMADOR,,Sin especificar,,Indistinto,,,,,,,304,GRUPO ASOCIADOS,735
+33,6,Wed Jun 12 2024 00:00:00 GMT-0600 (Central Standard Time),24,,SIN ESPECIFICAR,AYUDANTE SOLDADOR,,Sin especificar,,Indistinto,,,,,,,304,GRUPO ASOCIADOS,736
 33,7,Fri Jul 05 2024 00:00:00 GMT-0600 (Central Standard Time),27,,CADEREYTA,DEGUSTADOR,,Secundaria,,Femenino,20-35,10000,,SI,,,216,GRUPO STAR,737
 33,8,Fri Aug 02 2024 00:00:00 GMT-0600 (Central Standard Time),32,,PESQUERIA,AYUDANTE GENERAL,Fijo,Primaria,,Indistinto,18-55,,,SI,FIJOS,,209,HIM PEOPLE,738
 33,8,Fri Aug 02 2024 00:00:00 GMT-0600 (Central Standard Time),32,,PESQUERIA,TECNICOS,Fijo o Rotativo,Preparatoria/Técnica,,Indistinto,22-45,,,SI,FIJOS Y ROTATIVOS,,209,HIM PEOPLE,739
@@ -752,9 +752,9 @@
 34,3,Fri Mar 01 2024 00:00:00 GMT-0600 (Central Standard Time),,,GUADALUPE,INSPECTOR DE CALIDAD,,Secundaria,,Indistinto,,,,NO,,,33,KLEIN TOOLS,751
 34,3,Fri Mar 01 2024 00:00:00 GMT-0600 (Central Standard Time),,,GUADALUPE,CAPACITADOR,,Licenciatura,,Masculino,23-30,,,NO,,,33,KLEIN TOOLS,752
 34,4,Mon Apr 22 2024 00:00:00 GMT-0600 (Central Standard Time),17,,GUADALUPE,AYUDANTE GENERAL,,Secundaria,,Indistinto,21-40,,,SI,,,174,RECLUTECK,753
-34,4,Mon Apr 22 2024 00:00:00 GMT-0600 (Central Standard Time),17,,,EVENTUAL,,Secundaria,,Indistinto,18-55,,,,ESTADIO DE RALLADOS,,174,RECLUTECK,754
+34,4,Mon Apr 22 2024 00:00:00 GMT-0600 (Central Standard Time),17,,SIN ESPECIFICAR,EVENTUAL,,Secundaria,,Indistinto,18-55,,,,ESTADIO DE RALLADOS,,174,RECLUTECK,754
 34,5,Thu May 16 2024 00:00:00 GMT-0600 (Central Standard Time),20,,JUAREZ,ADMINISTRATIVO,,Preparatoria/Técnica,,Femenino,18-35,,,NO,,,237,SIDRON,755
-34,5,Thu May 16 2024 00:00:00 GMT-0600 (Central Standard Time),20,,,ELECTROMECANICO,,Preparatoria/Técnica,,Masculino,18-45,,,,,,237,SIDRON,756
+34,5,Thu May 16 2024 00:00:00 GMT-0600 (Central Standard Time),20,,SIN ESPECIFICAR,ELECTROMECANICO,,Preparatoria/Técnica,,Masculino,18-45,,,,,,237,SIDRON,756
 34,6,Wed Jun 12 2024 00:00:00 GMT-0600 (Central Standard Time),24,,GUADALUPE,GUARDIA,12 X 12 DE 7 - 7,Primaria,,Indistinto,20-70,,,NO,,,306,SEGURIDAD IND CANTUTTI,757
 34,7,Fri Jul 05 2024 00:00:00 GMT-0600 (Central Standard Time),27,,ESCOBEDO,AYUDANTE GENERAL,TURNOS ROTATIVOS DE 8H,Secundaria,,Indistinto,20-50,9000,,SI,,,388,TENACITY,758
 34,7,Fri Jul 05 2024 00:00:00 GMT-0600 (Central Standard Time),27,,ESCOBEDO,OPERARI0 (A),,Secundaria,,Indistinto,20-50,10000,,SI,,,388,TENACITY,759
@@ -762,19 +762,19 @@
 34,8,Fri Aug 02 2024 00:00:00 GMT-0600 (Central Standard Time),32,,GUADALUPE,AYUDANTE GENERAL,Fijo,Primaria,,Indistinto,18-55,8281,,SI,DIA 6-3.36 TARDE 3.41-12.41,,58,CEMMMEX,761
 34,8,Fri Aug 02 2024 00:00:00 GMT-0600 (Central Standard Time),32,,GUADALUPE,MATERIALISTA,,Primaria,,Masculino,18-55,8571,,SI,,,58,CEMMMEX,762
 34,9,Fri Sep 13 2024 00:00:00 GMT-0600 (Central Standard Time),37,,MONTERREY,VENTAS,Flexible,Secundaria,,Indistinto,23-70,,,NO,FLEXIBLE y Pago Variable,,386,GUPO MARTINEZ,763
-34,10,Tue Oct 15 2024 00:00:00 GMT-0600 (Central Standard Time),42,,Dr GONZALEZ,AYUDANTE GENERAL,TURNOS ROTATIVOS DE 12X2,Primaria,,Masculino,18-55,9390,8,SI,,,654,OMEGA,764
-34,10,Tue Oct 15 2024 00:00:00 GMT-0600 (Central Standard Time),42,,Dr GONZALEZ,ELECTROMECANICO,,Preparatoria/Técnica,,Masculino,25-55,18-24,2,SI,,,654,OMEGA,765
+34,10,Tue Oct 15 2024 00:00:00 GMT-0600 (Central Standard Time),42,,DR GONZALEZ,AYUDANTE GENERAL,TURNOS ROTATIVOS DE 12X2,Primaria,,Masculino,18-55,9390,8,SI,,,654,OMEGA,764
+34,10,Tue Oct 15 2024 00:00:00 GMT-0600 (Central Standard Time),42,,DR GONZALEZ,ELECTROMECANICO,,Preparatoria/Técnica,,Masculino,25-55,18-24,2,SI,,,654,OMEGA,765
 35,3,Fri Mar 01 2024 00:00:00 GMT-0600 (Central Standard Time),,,SAN NICOLAS,AYUDANTE GENERAL,,Primaria,,Indistinto,18-65,,,SI,,,34,GREENPAPER,766
 35,3,Fri Mar 01 2024 00:00:00 GMT-0600 (Central Standard Time),,,SAN NICOLAS,TEC. MANTENIMIENTO,,Técnico,,Indistinto,20-65,,,SI,,,34,GREENPAPER,767
 35,4,Mon Apr 22 2024 00:00:00 GMT-0600 (Central Standard Time),17,,CADEREYTA,OPERARIO DE FULL,,Sin especificar,,Indistinto,23,,,NO,,,176,TRSPORTES ARIOS,768
-35,4,Mon Apr 22 2024 00:00:00 GMT-0600 (Central Standard Time),17,,,ELECTROMECANICO,,Sin especificar,,Masculino,23,,,,,,176,TRSPORTES ARIOS,769
-35,4,Mon Apr 22 2024 00:00:00 GMT-0600 (Central Standard Time),17,,,MECANICO A B,,Sin especificar,,Masculino,23,,,,,,176,TRSPORTES ARIOS,770
+35,4,Mon Apr 22 2024 00:00:00 GMT-0600 (Central Standard Time),17,,SIN ESPECIFICAR,ELECTROMECANICO,,Sin especificar,,Masculino,23,,,,,,176,TRSPORTES ARIOS,769
+35,4,Mon Apr 22 2024 00:00:00 GMT-0600 (Central Standard Time),17,,SIN ESPECIFICAR,MECANICO A B,,Sin especificar,,Masculino,23,,,,,,176,TRSPORTES ARIOS,770
 35,5,Thu May 16 2024 00:00:00 GMT-0600 (Central Standard Time),20,,MARIN,OPERARIO DE ENSAMBLE,,Secundaria,,Indistinto,18-X,,,SI,,,239,LGMG DE MEXICO,771
-35,5,Thu May 16 2024 00:00:00 GMT-0600 (Central Standard Time),20,,,AUXILIAR DE PINTOR,,Secundaria,,Indistinto,,,,,,,239,LGMG DE MEXICO,772
-35,5,Thu May 16 2024 00:00:00 GMT-0600 (Central Standard Time),20,,,SOLDADOR,,Sin especificar,,Indistinto,,,,,,,239,LGMG DE MEXICO,773
-35,5,Thu May 16 2024 00:00:00 GMT-0600 (Central Standard Time),20,,,AYUDANTE GENERAL,,Sin especificar,,Indistinto,,,,,,,239,LGMG DE MEXICO,774
+35,5,Thu May 16 2024 00:00:00 GMT-0600 (Central Standard Time),20,,SIN ESPECIFICAR,AUXILIAR DE PINTOR,,Secundaria,,Indistinto,,,,,,,239,LGMG DE MEXICO,772
+35,5,Thu May 16 2024 00:00:00 GMT-0600 (Central Standard Time),20,,SIN ESPECIFICAR,SOLDADOR,,Sin especificar,,Indistinto,,,,,,,239,LGMG DE MEXICO,773
+35,5,Thu May 16 2024 00:00:00 GMT-0600 (Central Standard Time),20,,SIN ESPECIFICAR,AYUDANTE GENERAL,,Sin especificar,,Indistinto,,,,,,,239,LGMG DE MEXICO,774
 35,6,Wed Jun 12 2024 00:00:00 GMT-0600 (Central Standard Time),24,,APODACA,AYUDANTE GENERAL,ROTATIVOS DE 8 H,Secundaria,,Masculino,18-50,,,SI,,,307,DBG TREEWARK,775
-35,6,Wed Jun 12 2024 00:00:00 GMT-0600 (Central Standard Time),24,,,PRENSISTA,,Sin especificar,,Indistinto,,,,,,,307,DBG TREEWARK,776
+35,6,Wed Jun 12 2024 00:00:00 GMT-0600 (Central Standard Time),24,,SIN ESPECIFICAR,PRENSISTA,,Sin especificar,,Indistinto,,,,,,,307,DBG TREEWARK,776
 35,7,Fri Jul 05 2024 00:00:00 GMT-0600 (Central Standard Time),27,,GUADALUPE,AYUDANTE GENERAL,TURNOS ROTATIVOS DE 8H,Sin especificar,,Indistinto,18-X,7000,,NO,,,94,EFFORM,777
 35,7,Fri Jul 05 2024 00:00:00 GMT-0600 (Central Standard Time),27,,GUADALUPE,AYUDANTE DE MAQUINAS,,Sin especificar,,Masculino,18-X,9000,,NO,,,94,EFFORM,778
 35,7,Fri Jul 05 2024 00:00:00 GMT-0600 (Central Standard Time),27,,GUADALUPE,OPERADOR,,Sin especificar,,Masculino,18-X,12000,,NO,,,94,EFFORM,779
@@ -787,13 +787,13 @@
 35,9,Fri Sep 13 2024 00:00:00 GMT-0600 (Central Standard Time),37,,MONTERREY,LIMPIEZA,,Secundaria,,Indistinto,18-55,8500,,SI,,,39,HBE VALLE ALTO,786
 35,10,Wed Oct 16 2024 00:00:00 GMT-0600 (Central Standard Time),42,,APODACA,AYUDANTE GENERAL,TURNOS FIJOS DE 3X8,Secundaria,,Indistinto,18-53,2259,200,SI,,,532,MAN POWER,787
 36,3,Fri Mar 01 2024 00:00:00 GMT-0600 (Central Standard Time),,,APODACA,AYUDANTE GENERAL,,Primaria,,Indistinto,18-48,,,SI,,,35,NIDEC,788
-36,4,Mon Apr 22 2024 00:00:00 GMT-0600 (Central Standard Time),17,,SANTACATARINA,AYUDANTE GENERAL,,Primaria,,Masculino,18-59,,,,,,178,ESTAMPADOS MONTERREY,789
-36,4,Mon Apr 22 2024 00:00:00 GMT-0600 (Central Standard Time),17,,,ELECTRONICOS,,Preparatoria/Técnica,,Masculino,22-50,,,,,,178,ESTAMPADOS MONTERREY,790
-36,4,Mon Apr 22 2024 00:00:00 GMT-0600 (Central Standard Time),17,,,INSPECTOR DE CALIDAD,,Preparatoria/Técnica,,Indistinto,22-59,,,,,,178,ESTAMPADOS MONTERREY,791
-36,4,Mon Apr 22 2024 00:00:00 GMT-0600 (Central Standard Time),17,,,TECNICO MANTENIMIENT Y HERR,,Preparatoria/Técnica,,Masculino,22-59,,,,,,178,ESTAMPADOS MONTERREY,792
+36,4,Mon Apr 22 2024 00:00:00 GMT-0600 (Central Standard Time),17,,SANTA CATARINA,AYUDANTE GENERAL,,Primaria,,Masculino,18-59,,,,,,178,ESTAMPADOS MONTERREY,789
+36,4,Mon Apr 22 2024 00:00:00 GMT-0600 (Central Standard Time),17,,SIN ESPECIFICAR,ELECTRONICOS,,Preparatoria/Técnica,,Masculino,22-50,,,,,,178,ESTAMPADOS MONTERREY,790
+36,4,Mon Apr 22 2024 00:00:00 GMT-0600 (Central Standard Time),17,,SIN ESPECIFICAR,INSPECTOR DE CALIDAD,,Preparatoria/Técnica,,Indistinto,22-59,,,,,,178,ESTAMPADOS MONTERREY,791
+36,4,Mon Apr 22 2024 00:00:00 GMT-0600 (Central Standard Time),17,,SIN ESPECIFICAR,TECNICO MANTENIMIENT Y HERR,,Preparatoria/Técnica,,Masculino,22-59,,,,,,178,ESTAMPADOS MONTERREY,792
 36,5,Thu May 16 2024 00:00:00 GMT-0600 (Central Standard Time),20,,JUAREZ,AUXILIAR DE COCINA,,Secundaria,,Indistinto,20-45,,,NO,,,241,SEMINARIO DE MONTERREY,793
-36,5,Thu May 16 2024 00:00:00 GMT-0600 (Central Standard Time),20,,,MANTENIMIENTO,,Preparatoria,,Masculino,20-50,,,,,,241,SEMINARIO DE MONTERREY,794
-36,6,Wed Jun 12 2024 00:00:00 GMT-0600 (Central Standard Time),24,,,AYUDANTE GENERAL,ROTATIVOS DE 8H,Secundaria,,Masculino,18-45,,,,,,309,TYG TREEWARK,795
+36,5,Thu May 16 2024 00:00:00 GMT-0600 (Central Standard Time),20,,SIN ESPECIFICAR,MANTENIMIENTO,,Preparatoria,,Masculino,20-50,,,,,,241,SEMINARIO DE MONTERREY,794
+36,6,Wed Jun 12 2024 00:00:00 GMT-0600 (Central Standard Time),24,,SIN ESPECIFICAR,AYUDANTE GENERAL,ROTATIVOS DE 8H,Secundaria,,Masculino,18-45,,,,,,309,TYG TREEWARK,795
 36,7,Fri Jul 05 2024 00:00:00 GMT-0600 (Central Standard Time),27,,MONTERREY,INSTALADOR,DE L-S 8-6,Técnico,,Masculino,20-45,7911,,NO,,,276,VIXO MEDIA,796
 36,8,Fri Aug 02 2024 00:00:00 GMT-0600 (Central Standard Time),32,,GUADALUPE,OPERADOR,Rotativo,Secundaria,,Indistinto,18-55,10000,,SI,ROTATIVO,,487,BYDSA,797
 36,8,Fri Aug 02 2024 00:00:00 GMT-0600 (Central Standard Time),32,,GUADALUPE,ALMACENISTA,Rotativo,Preparatoria,,Indistinto,18-55,10700,,SI,ROTATIVO,,487,BYDSA,798
@@ -809,10 +809,10 @@
 37,3,Fri Mar 01 2024 00:00:00 GMT-0600 (Central Standard Time),,,APODACA,INSPECTOR DE CALIDAD,,Secundaria,,Indistinto,18-55,,,SI,,,36,CEVA LOGISTICS,808
 37,3,Fri Mar 01 2024 00:00:00 GMT-0600 (Central Standard Time),,,APODACA,MONTACARGUISTA,,Secundaria,,Indistinto,18-55,,,SI,,,36,CEVA LOGISTICS,809
 37,5,Thu May 16 2024 00:00:00 GMT-0600 (Central Standard Time),20,,APODACA,AYUDANTE GENERAL,,Primaria,,Indistinto,18-59,,,,,,243,ECONOCLIMAS,810
-37,5,Thu May 16 2024 00:00:00 GMT-0600 (Central Standard Time),20,,,PINTOR,,Primaria,,Masculino,,,,,,,243,ECONOCLIMAS,811
-37,5,Thu May 16 2024 00:00:00 GMT-0600 (Central Standard Time),20,,,CHOFER,,Secundaria,,Indistinto,,,,,,,243,ECONOCLIMAS,812
-37,5,Thu May 16 2024 00:00:00 GMT-0600 (Central Standard Time),20,,,PRENSISTA,,Primaria,,Indistinto,,,,,,,243,ECONOCLIMAS,813
-37,6,Wed Jun 12 2024 00:00:00 GMT-0600 (Central Standard Time),24,,,AYUDANTE GENERAL,FIJO 8H,Secundaria,,Indistinto,18-60,,,SI,,,310,METODE TREEWARK,814
+37,5,Thu May 16 2024 00:00:00 GMT-0600 (Central Standard Time),20,,SIN ESPECIFICAR,PINTOR,,Primaria,,Masculino,,,,,,,243,ECONOCLIMAS,811
+37,5,Thu May 16 2024 00:00:00 GMT-0600 (Central Standard Time),20,,SIN ESPECIFICAR,CHOFER,,Secundaria,,Indistinto,,,,,,,243,ECONOCLIMAS,812
+37,5,Thu May 16 2024 00:00:00 GMT-0600 (Central Standard Time),20,,SIN ESPECIFICAR,PRENSISTA,,Primaria,,Indistinto,,,,,,,243,ECONOCLIMAS,813
+37,6,Wed Jun 12 2024 00:00:00 GMT-0600 (Central Standard Time),24,,SIN ESPECIFICAR,AYUDANTE GENERAL,FIJO 8H,Secundaria,,Indistinto,18-60,,,SI,,,310,METODE TREEWARK,814
 37,7,Mon Jul 08 2024 00:00:00 GMT-0600 (Central Standard Time),28,,PESQUERIA,PROCCIMACION CNC,DE L-V DE 7-7,Licenciatura,Ingeniero,Masculino,20-35,18000,,SI,Pago de  10000 A 18000,,394,TAEHWA MEXICO,815
 37,7,Mon Jul 08 2024 00:00:00 GMT-0600 (Central Standard Time),28,,PESQUERIA,QUIMICO,,Técnico,,Masculino,25-35,15000,,SI,Pago de  10000 A 15000,,394,TAEHWA MEXICO,816
 37,7,Mon Jul 08 2024 00:00:00 GMT-0600 (Central Standard Time),28,,PESQUERIA,MANTENIMIENTO,,Técnico,,Masculino,20-45,18000,,SI,Pago de  10000 A 18000,,394,TAEHWA MEXICO,817
@@ -829,14 +829,14 @@
 37,10,Thu Oct 17 2024 00:00:00 GMT-0600 (Central Standard Time),42,,APODACA,TORNERO,TURNOS ROTATIVOS DE 3X8,Secundaria,,Masculino,18-55,2480,3,SI,,,73,REGIO PITSA,828
 38,3,Fri Mar 01 2024 00:00:00 GMT-0600 (Central Standard Time),,,SAN NICOLAS,AYUDANTE GENERAL,,Primaria,,Indistinto,18-45,,,SI,,,37,YAZAKI DIVICIONES,829
 38,4,Tue Apr 23 2024 00:00:00 GMT-0600 (Central Standard Time),17,,GUADALUPE,AYUDANTE GENERAL,,Primaria,,Indistinto,18-50,,,NO,,,180,ENVASES UNIVERSALES,830
-38,4,Tue Apr 23 2024 00:00:00 GMT-0600 (Central Standard Time),17,,,MECANICO OPERADOR,,Preparatoria/Técnica,,Masculino,18-50,,,,,,180,ENVASES UNIVERSALES,831
-38,4,Tue Apr 23 2024 00:00:00 GMT-0600 (Central Standard Time),17,,,MONTACARGUISTA,,Primaria,,Indistinto,18-50,,,,,,180,ENVASES UNIVERSALES,832
-38,4,Tue Apr 23 2024 00:00:00 GMT-0600 (Central Standard Time),17,,,INSPECTOR DE CALIDAD,,Preparatoria/Técnica,,Indistinto,18-50,,,,,,180,ENVASES UNIVERSALES,833
+38,4,Tue Apr 23 2024 00:00:00 GMT-0600 (Central Standard Time),17,,SIN ESPECIFICAR,MECANICO OPERADOR,,Preparatoria/Técnica,,Masculino,18-50,,,,,,180,ENVASES UNIVERSALES,831
+38,4,Tue Apr 23 2024 00:00:00 GMT-0600 (Central Standard Time),17,,SIN ESPECIFICAR,MONTACARGUISTA,,Primaria,,Indistinto,18-50,,,,,,180,ENVASES UNIVERSALES,832
+38,4,Tue Apr 23 2024 00:00:00 GMT-0600 (Central Standard Time),17,,SIN ESPECIFICAR,INSPECTOR DE CALIDAD,,Preparatoria/Técnica,,Indistinto,18-50,,,,,,180,ENVASES UNIVERSALES,833
 38,5,Thu May 16 2024 00:00:00 GMT-0600 (Central Standard Time),20,,GUADALUPE,OPERARI0 (A),,Secundaria,,Femenino,16-55,,,SI,,,245,WINSTON DATA,834
-38,5,Thu May 16 2024 00:00:00 GMT-0600 (Central Standard Time),20,,,OPERARI0 (A),,Secundaria,,Masculino,16-25,,,,,,245,WINSTON DATA,835
+38,5,Thu May 16 2024 00:00:00 GMT-0600 (Central Standard Time),20,,SIN ESPECIFICAR,OPERARI0 (A),,Secundaria,,Masculino,16-25,,,,,,245,WINSTON DATA,835
 38,7,Mon Jul 08 2024 00:00:00 GMT-0600 (Central Standard Time),28,,APODACA,CALIDAD,,Secundaria,,Indistinto,18-62,10000,,SI,,,301,WOLVERINE,836
-38,6,Wed Jun 12 2024 00:00:00 GMT-0600 (Central Standard Time),24,,,AYUDANTE GENERAL,FIJO 8H,Secundaria,,Masculino,18-45,,,SI,,,311,ENERSYS TREEWARK,837
-38,6,Wed Jun 12 2024 00:00:00 GMT-0600 (Central Standard Time),24,,,SOLDADOR,,Sin especificar,,Indistinto,,,,,,,311,ENERSYS TREEWARK,838
+38,6,Wed Jun 12 2024 00:00:00 GMT-0600 (Central Standard Time),24,,SIN ESPECIFICAR,AYUDANTE GENERAL,FIJO 8H,Secundaria,,Masculino,18-45,,,SI,,,311,ENERSYS TREEWARK,837
+38,6,Wed Jun 12 2024 00:00:00 GMT-0600 (Central Standard Time),24,,SIN ESPECIFICAR,SOLDADOR,,Sin especificar,,Indistinto,,,,,,,311,ENERSYS TREEWARK,838
 38,7,Mon Jul 08 2024 00:00:00 GMT-0600 (Central Standard Time),28,,APODACA,AYUDANTE GENERAL,FIJOS Y ROTATIVOS,Primaria,,Indistinto,18-62,9300,,SI,,,301,WOLVERINE,839
 38,8,Fri Aug 02 2024 00:00:00 GMT-0600 (Central Standard Time),32,,MONTERREY,OPERARI0 (A),,Primaria,,Indistinto,20-68,2000,,SI,,,491,SENDA,840
 38,8,Fri Aug 02 2024 00:00:00 GMT-0600 (Central Standard Time),32,,MONTERREY,MECANICO DIESEL A B C,,Sin especificar,,Masculino,20-55,,,SI,,,491,SENDA,841
@@ -855,16 +855,16 @@
 39,7,Mon Jul 08 2024 00:00:00 GMT-0600 (Central Standard Time),28,,MARIN,AYUDANTE GENERAL,,Secundaria,,Indistinto,18-55,9800,,SI,,,239,LGMG DE MEXICO,854
 39,7,Mon Jul 08 2024 00:00:00 GMT-0600 (Central Standard Time),28,,MARIN,ENSAMBLE,,Secundaria,,Indistinto,18-55,9800,,SI,,,239,LGMG DE MEXICO,855
 39,5,Thu May 16 2024 00:00:00 GMT-0600 (Central Standard Time),20,,GUADALUPE,AYUDANTE GENERAL,,Primaria,,Indistinto,18-60,,,SI,,,247,WESTROK,856
-39,5,Thu May 16 2024 00:00:00 GMT-0600 (Central Standard Time),20,,,CALIDAD,,Secundaria,,Indistinto,18-40,,,,,,247,WESTROK,857
-39,5,Thu May 16 2024 00:00:00 GMT-0600 (Central Standard Time),20,,,MONTACARGUISTA,,Primaria,,Masculino,18-60,,,,,,247,WESTROK,858
-39,6,Wed Jun 12 2024 00:00:00 GMT-0600 (Central Standard Time),24,,,AYUDANTE GENERAL,ROTATIVOS 8H,Secundaria,,Masculino,18-50,,,SI,,,312,CAMER TREEWARK,859
+39,5,Thu May 16 2024 00:00:00 GMT-0600 (Central Standard Time),20,,SIN ESPECIFICAR,CALIDAD,,Secundaria,,Indistinto,18-40,,,,,,247,WESTROK,857
+39,5,Thu May 16 2024 00:00:00 GMT-0600 (Central Standard Time),20,,SIN ESPECIFICAR,MONTACARGUISTA,,Primaria,,Masculino,18-60,,,,,,247,WESTROK,858
+39,6,Wed Jun 12 2024 00:00:00 GMT-0600 (Central Standard Time),24,,SIN ESPECIFICAR,AYUDANTE GENERAL,ROTATIVOS 8H,Secundaria,,Masculino,18-50,,,SI,,,312,CAMER TREEWARK,859
 39,7,Mon Jul 08 2024 00:00:00 GMT-0600 (Central Standard Time),28,,MARIN,SOLDADOR,DE L-V 7.30-5.06,Secundaria,,Masculino,18-55,15700,,SI,,,239,LGMG DE MEXICO,860
 39,8,Mon Aug 05 2024 00:00:00 GMT-0600 (Central Standard Time),32,,GUADALUPE,GUARDIA,Fijo,Secundaria,,Indistinto,19-59,12000,,SI,12 H,,66,SEGURITAS,861
 39,8,Mon Aug 05 2024 00:00:00 GMT-0600 (Central Standard Time),32,,GUADALUPE,CAPACITADOR,,Licenciatura,,Indistinto,23-45,12000,,SI,,,66,SEGURITAS,862
 39,8,Mon Aug 05 2024 00:00:00 GMT-0600 (Central Standard Time),32,,GUADALUPE,SUPERVISOR,,Licenciatura,,Indistinto,25-45,14000,,SI,,,66,SEGURITAS,863
-39,9,Wed Sep 18 2024 00:00:00 GMT-0600 (Central Standard Time),38,,SANPEDRO,VENTAS,Fijo,Secundaria,,Indistinto,18-55,8000,,SI,DE 11AM-9PM,,118,LIVERPOOL,864
-39,9,Wed Sep 18 2024 00:00:00 GMT-0600 (Central Standard Time),38,,SANPEDRO,SEGURIDAD,Fijo,Secundaria,,Indistinto,18-55,11000,,SI,DIA Y NOCHE,,118,LIVERPOOL,865
-39,9,Wed Sep 18 2024 00:00:00 GMT-0600 (Central Standard Time),38,,SANPEDRO,ALMACENISTA,Fijo,Secundaria,,Indistinto,18-55,9000,,SI,DIA Y NOCHE,,118,LIVERPOOL,866
+39,9,Wed Sep 18 2024 00:00:00 GMT-0600 (Central Standard Time),38,,SAN PEDRO,VENTAS,Fijo,Secundaria,,Indistinto,18-55,8000,,SI,DE 11AM-9PM,,118,LIVERPOOL,864
+39,9,Wed Sep 18 2024 00:00:00 GMT-0600 (Central Standard Time),38,,SAN PEDRO,SEGURIDAD,Fijo,Secundaria,,Indistinto,18-55,11000,,SI,DIA Y NOCHE,,118,LIVERPOOL,865
+39,9,Wed Sep 18 2024 00:00:00 GMT-0600 (Central Standard Time),38,,SAN PEDRO,ALMACENISTA,Fijo,Secundaria,,Indistinto,18-55,9000,,SI,DIA Y NOCHE,,118,LIVERPOOL,866
 39,10,Mon Oct 21 2024 00:00:00 GMT-0600 (Central Standard Time),43,,GUADALUPE,AYUDANTE GENERAL,DE 6.30-3 Y DE 10AM-6PM DE 11PM-6AM,Sin especificar,,Femenino,18-60,8000,15,NO,,,331,ESTAMPER,867
 39,10,Mon Oct 21 2024 00:00:00 GMT-0600 (Central Standard Time),43,,GUADALUPE,OPERARIO DE MAQUINA,DE 6.30-3 Y DE 10AM-6PM DE 11PM-6AM,Sin especificar,,Indistinto,18-60,8000,15,NO,,,331,ESTAMPER,868
 39,10,Mon Oct 21 2024 00:00:00 GMT-0600 (Central Standard Time),43,,GUADALUPE,INSPECTOR DE CALIDAD,DE 6.30-3,Secundaria,,Indistinto,18-60,8000,3,NO,,,331,ESTAMPER,869
@@ -877,8 +877,8 @@
 40,3,Fri Mar 01 2024 00:00:00 GMT-0600 (Central Standard Time),,,MONTERREY,AUXILIAR SURTIDO,,Secundaria,,Indistinto,18-50,,,SI,,,39,HBE VALLE ALTO,876
 40,3,Fri Mar 01 2024 00:00:00 GMT-0600 (Central Standard Time),,,MONTERREY,AUXILIAR DE COMIDAS,,Secundaria,,Indistinto,18-50,,,SI,,,39,HBE VALLE ALTO,877
 40,4,Wed Apr 24 2024 00:00:00 GMT-0600 (Central Standard Time),17,,GUADALUPE,AYUDANTE GENERAL,,Sin especificar,,Indistinto,,,,,,,183,ARMA,878
-40,4,Wed Apr 24 2024 00:00:00 GMT-0600 (Central Standard Time),17,,,INSPECTOR DE CALIDAD,,Licenciatura,,Indistinto,20-45,,,,,,183,ARMA,879
-40,4,Wed Apr 24 2024 00:00:00 GMT-0600 (Central Standard Time),17,,,INGENIERO SISTEMAS,,Licenciatura,Ingeniero,Indistinto,20-50,,,,,,183,ARMA,880
+40,4,Wed Apr 24 2024 00:00:00 GMT-0600 (Central Standard Time),17,,SIN ESPECIFICAR,INSPECTOR DE CALIDAD,,Licenciatura,,Indistinto,20-45,,,,,,183,ARMA,879
+40,4,Wed Apr 24 2024 00:00:00 GMT-0600 (Central Standard Time),17,,SIN ESPECIFICAR,INGENIERO SISTEMAS,,Licenciatura,Ingeniero,Indistinto,20-50,,,,,,183,ARMA,880
 40,5,Fri May 17 2024 00:00:00 GMT-0600 (Central Standard Time),20,,MONTERREY,GUARDIA,,Secundaria,,Masculino,20-48,,,NO,,,44,ALLIED UNIVERSAL,881
 40,6,Thu Jun 13 2024 00:00:00 GMT-0600 (Central Standard Time),24,,GUADALUPE,AIRE ACONDICIONADO,DE L-V 8-5.30 S 8-1,Preparatoria/Técnica,,Masculino,24-45,,,,,,313,CYVSA MANTENIMIENTO,882
 40,7,Mon Jul 08 2024 00:00:00 GMT-0600 (Central Standard Time),28,,APODACA,AYUDANTE GENERAL,12H,Primaria,,Indistinto,17-57,12000,,SI,,,398,CHEONG WOON,883
@@ -891,12 +891,12 @@
 40,8,Mon Aug 05 2024 00:00:00 GMT-0600 (Central Standard Time),32,,GUADALUPE,AYUDANTE GENERAL,,Secundaria,,Masculino,18-55,9000,,NO,,,114,UNPACO,890
 40,8,Mon Aug 05 2024 00:00:00 GMT-0600 (Central Standard Time),32,,GUADALUPE,GUARDIA,Rotativo,Secundaria,,Masculino,25-50,12000,,NO,ROTATIVOS 3 TURNOS DE 8H,,114,UNPACO,891
 40,9,Wed Sep 18 2024 00:00:00 GMT-0600 (Central Standard Time),38,,MONTERREY,OPERARI0 (A),Fijo,Primaria,,Indistinto,21-55,4400,,SI,ACICNADO y Pago de 2.800 a 6000,,585,KONECT,892
-40,10,Tue Oct 22 2024 00:00:00 GMT-0600 (Central Standard Time),43,,SANICOLAS,AYUDANTE GENERAL,ROTATIVOS 3X8,Primaria,,Indistinto,18-55,,40,SI,,,662,ABTUBE,893
-40,10,Tue Oct 22 2024 00:00:00 GMT-0600 (Central Standard Time),43,,SANICOLAS,MONTACARGUISTA,ROTATIVOS 3X8,Primaria,,Indistinto,18-55,,4,SI,,,662,ABTUBE,894
+40,10,Tue Oct 22 2024 00:00:00 GMT-0600 (Central Standard Time),43,,SAN NICOLAS,AYUDANTE GENERAL,ROTATIVOS 3X8,Primaria,,Indistinto,18-55,,40,SI,,,662,ABTUBE,893
+40,10,Tue Oct 22 2024 00:00:00 GMT-0600 (Central Standard Time),43,,SAN NICOLAS,MONTACARGUISTA,ROTATIVOS 3X8,Primaria,,Indistinto,18-55,,4,SI,,,662,ABTUBE,894
 41,3,Fri Mar 01 2024 00:00:00 GMT-0600 (Central Standard Time),,,GUADALUPE,AYUDANTE GENERAL,,Primaria,,Indistinto,18-55,,,SI,,,40,CAPA SERVICIOS DE RH INTEGRALES,895
 41,3,Fri Mar 01 2024 00:00:00 GMT-0600 (Central Standard Time),,,GUADALUPE,PULIDOR,,Primaria,,Indistinto,18-55,,,SI,,,40,CAPA SERVICIOS DE RH INTEGRALES,896
 41,3,Fri Mar 01 2024 00:00:00 GMT-0600 (Central Standard Time),,,GUADALUPE,OPERADOR,,Primaria,,Indistinto,18-55,,,SI,,,40,CAPA SERVICIOS DE RH INTEGRALES,897
-41,5,Mon May 20 2024 00:00:00 GMT-0600 (Central Standard Time),21,,SANICOLAS,LIMPIEZA,,Sin especificar,,Indistinto,18-55,,,SI,,,250,SOLSI,898
+41,5,Mon May 20 2024 00:00:00 GMT-0600 (Central Standard Time),21,,SAN NICOLAS,LIMPIEZA,,Sin especificar,,Indistinto,18-55,,,SI,,,250,SOLSI,898
 41,7,Mon Jul 08 2024 00:00:00 GMT-0600 (Central Standard Time),28,,GUADALUPE,AYUDANTE GENERAL,DE 7-4.30 O DE 8.30-6,Primaria,,Indistinto,18-49,1882,,NO,Pago por Semana,,88,INDUSTRIAS VERMONT,899
 41,7,Mon Jul 08 2024 00:00:00 GMT-0600 (Central Standard Time),28,,GUADALUPE,AYUDANTE DE COCINA,DE 7-4.30,Técnico,,Indistinto,18-40,2305,,NO,Pago por Semana,,88,INDUSTRIAS VERMONT,900
 41,7,Mon Jul 08 2024 00:00:00 GMT-0600 (Central Standard Time),28,,GUADALUPE,MONTACARGUISTA,DE 8.30-6 O DE 12-9,Secundaria,,Masculino,18-49,2696,,NO,Pago por Semana,,88,INDUSTRIAS VERMONT,901
@@ -906,17 +906,17 @@
 41,8,Mon Aug 05 2024 00:00:00 GMT-0600 (Central Standard Time),32,,MONTERREY,VENTAS,Fijo,Secundaria,,Indistinto,18-55,7467,,SI,DE 9.30-6.30,,496,MEGA,905
 41,8,Mon Aug 05 2024 00:00:00 GMT-0600 (Central Standard Time),32,,MONTERREY,MANTENIMIENTO,Fijo,Secundaria,,Masculino,20-45,11000,,SI,12X24,,496,MEGA,906
 41,8,Mon Aug 05 2024 00:00:00 GMT-0600 (Central Standard Time),32,,MONTERREY,CONSTRUCCION,Fijo,Preparatoria,,Masculino,20-45,11000,,SI,DE 8-6 DE L-S,,496,MEGA,907
-41,9,Fri Sep 20 2024 00:00:00 GMT-0600 (Central Standard Time),38,,SANICOLAS,AYUDANTE GENERAL,,Primaria,,Indistinto,18-55,10680,,SI,,,586,YASAKI CAVLES 2,908
+41,9,Fri Sep 20 2024 00:00:00 GMT-0600 (Central Standard Time),38,,SAN NICOLAS,AYUDANTE GENERAL,,Primaria,,Indistinto,18-55,10680,,SI,,,586,YASAKI CAVLES 2,908
 41,10,Tue Oct 22 2024 00:00:00 GMT-0600 (Central Standard Time),43,,GUADALUPE,AYUDANTE GENERAL,DE L-V DE 7-4.30 Y 8.30AM-6PM,Primaria,,Indistinto,18-49,12000,40,NO,,,88,INDUSTRIAS VERMONT,909
 41,10,Tue Oct 22 2024 00:00:00 GMT-0600 (Central Standard Time),43,,GUADALUPE,LIMPIEZA,DE 7-4.30,Primaria,,Femenino,18-49,12000,1,NO,,,88,INDUSTRIAS VERMONT,910
 42,3,Fri Mar 01 2024 00:00:00 GMT-0600 (Central Standard Time),,,GUADALUPE,AYUDANTE GENERAL,,Primaria,,Indistinto,18+,,,SI,,,41,MEGNA MIRROR,911
 42,6,Fri Jun 14 2024 00:00:00 GMT-0600 (Central Standard Time),24,,GUADALUPE,VENDEDOR (A),ROTATIVOS 8-6,Sin especificar,,Indistinto,18-60,,,NO,,,315,CONSTRURAMA BLANQUITA,912
-42,6,Fri Jun 14 2024 00:00:00 GMT-0600 (Central Standard Time),24,,,CHOFER,,Sin especificar,,Indistinto,,,,,,,315,CONSTRURAMA BLANQUITA,913
-42,6,Fri Jun 14 2024 00:00:00 GMT-0600 (Central Standard Time),24,,,AYUDANTE DE CHOFER,,Sin especificar,,Indistinto,,,,,,,315,CONSTRURAMA BLANQUITA,914
-42,6,Fri Jun 14 2024 00:00:00 GMT-0600 (Central Standard Time),24,,,GUARDIA,,Sin especificar,,Indistinto,,,,,,,315,CONSTRURAMA BLANQUITA,915
-42,6,Fri Jun 14 2024 00:00:00 GMT-0600 (Central Standard Time),24,,,AYUDANTE GENERAL,,Sin especificar,,Indistinto,,,,,,,315,CONSTRURAMA BLANQUITA,916
-42,7,Mon Jul 08 2024 00:00:00 GMT-0600 (Central Standard Time),28,,SANICOLAS,CHOFER EJECUTIVO,12H,Primaria,,Indistinto,27-63,12000,,SI,,,97,GOLDEN,917
-42,7,Mon Jul 08 2024 00:00:00 GMT-0600 (Central Standard Time),28,,SANICOLAS,AYUDANTE DE MECANICO,8H,Primaria,,Masculino,18-50,,,SI,,,97,GOLDEN,918
+42,6,Fri Jun 14 2024 00:00:00 GMT-0600 (Central Standard Time),24,,SIN ESPECIFICAR,CHOFER,,Sin especificar,,Indistinto,,,,,,,315,CONSTRURAMA BLANQUITA,913
+42,6,Fri Jun 14 2024 00:00:00 GMT-0600 (Central Standard Time),24,,SIN ESPECIFICAR,AYUDANTE DE CHOFER,,Sin especificar,,Indistinto,,,,,,,315,CONSTRURAMA BLANQUITA,914
+42,6,Fri Jun 14 2024 00:00:00 GMT-0600 (Central Standard Time),24,,SIN ESPECIFICAR,GUARDIA,,Sin especificar,,Indistinto,,,,,,,315,CONSTRURAMA BLANQUITA,915
+42,6,Fri Jun 14 2024 00:00:00 GMT-0600 (Central Standard Time),24,,SIN ESPECIFICAR,AYUDANTE GENERAL,,Sin especificar,,Indistinto,,,,,,,315,CONSTRURAMA BLANQUITA,916
+42,7,Mon Jul 08 2024 00:00:00 GMT-0600 (Central Standard Time),28,,SAN NICOLAS,CHOFER EJECUTIVO,12H,Primaria,,Indistinto,27-63,12000,,SI,,,97,GOLDEN,917
+42,7,Mon Jul 08 2024 00:00:00 GMT-0600 (Central Standard Time),28,,SAN NICOLAS,AYUDANTE DE MECANICO,8H,Primaria,,Masculino,18-50,,,SI,,,97,GOLDEN,918
 42,8,Mon Aug 05 2024 00:00:00 GMT-0600 (Central Standard Time),32,,APODACA,AYUDANTE GENERAL,Rotativo,Primaria,,Masculino,18-55,9660,,SI,ROTATIVOS DE 8H,,498,GRAFTECH,919
 42,8,Mon Aug 05 2024 00:00:00 GMT-0600 (Central Standard Time),32,,APODACA,ELECTROMECANICO,Rotativo,Preparatoria/Técnica,,Masculino,20-55,15000,,SI,ROTATIVOS DE 8H y pago de 12000 a 15000,,498,GRAFTECH,920
 42,9,Fri Sep 20 2024 00:00:00 GMT-0600 (Central Standard Time),38,,APODACA,CHOFER DE CAMIONETA,Fijo,Secundaria,,Masculino,19-55,10000,,SI,DE 8-5 de Día,,587,LIVERPOOL CEDIS,921
@@ -926,12 +926,12 @@
 42,10,Wed Oct 23 2024 00:00:00 GMT-0600 (Central Standard Time),43,,APODACA,ALMACENISTA,ROTATIVOS 2X12,Secundaria,,Indistinto,18-60,324,100,SI,,,160,CELESTICA,925
 42,10,Wed Oct 23 2024 00:00:00 GMT-0600 (Central Standard Time),43,,APODACA,TECNICOS,ROTATIVOS 2X12,Preparatoria,,Indistinto,18-60,638,100,SI,,,160,CELESTICA,926
 43,3,Fri Mar 01 2024 00:00:00 GMT-0600 (Central Standard Time),,,APODACA,AYUDANTE GENERAL,,Primaria,,Indistinto,18-45,,,SI,,,42,JUYOUNG MANUFACTURING MEXICO,927
-43,7,Tue Jul 09 2024 00:00:00 GMT-0600 (Central Standard Time),28,,SANPEDRO,BODEGUERO,,Secundaria,,Indistinto,18-55,8000,,SI,,,118,LIVERPOOL,928
+43,7,Tue Jul 09 2024 00:00:00 GMT-0600 (Central Standard Time),28,,SAN PEDRO,BODEGUERO,,Secundaria,,Indistinto,18-55,8000,,SI,,,118,LIVERPOOL,928
 43,6,Mon Jun 17 2024 00:00:00 GMT-0600 (Central Standard Time),25,,CADEREYTA,OPERADOR 5A RUEDA,DE 8-6 L-V S 8-2,Primaria,,Masculino,23-57,,,NO,,,317,GONGAR,929
-43,6,Mon Jun 17 2024 00:00:00 GMT-0600 (Central Standard Time),25,,,GUARDIA,,Sin especificar,,Masculino,25-57,,,,,,317,GONGAR,930
-43,6,Mon Jun 17 2024 00:00:00 GMT-0600 (Central Standard Time),25,,,AYUDANTE GENERAL,,Sin especificar,,Masculino,21-50,,,,,,317,GONGAR,931
-43,6,Mon Jun 17 2024 00:00:00 GMT-0600 (Central Standard Time),25,,,AYUDANTE GENERAL,,Sin especificar,,Indistinto,,,,,,,317,GONGAR,932
-43,7,Tue Jul 09 2024 00:00:00 GMT-0600 (Central Standard Time),28,,SANPEDRO,VENDEDOR (A),DE 11-9,Secundaria,,Indistinto,18-55,8000,,SI,,,118,LIVERPOOL,933
+43,6,Mon Jun 17 2024 00:00:00 GMT-0600 (Central Standard Time),25,,SIN ESPECIFICAR,GUARDIA,,Sin especificar,,Masculino,25-57,,,,,,317,GONGAR,930
+43,6,Mon Jun 17 2024 00:00:00 GMT-0600 (Central Standard Time),25,,SIN ESPECIFICAR,AYUDANTE GENERAL,,Sin especificar,,Masculino,21-50,,,,,,317,GONGAR,931
+43,6,Mon Jun 17 2024 00:00:00 GMT-0600 (Central Standard Time),25,,SIN ESPECIFICAR,AYUDANTE GENERAL,,Sin especificar,,Indistinto,,,,,,,317,GONGAR,932
+43,7,Tue Jul 09 2024 00:00:00 GMT-0600 (Central Standard Time),28,,SAN PEDRO,VENDEDOR (A),DE 11-9,Secundaria,,Indistinto,18-55,8000,,SI,,,118,LIVERPOOL,933
 43,8,Tue Aug 06 2024 00:00:00 GMT-0600 (Central Standard Time),32,,MONTERREY,VENDEDOR COMISIONISTA,,Primaria,,Indistinto,20-60,,,NO,Pago por Comisión,,500,SKY,934
 43,9,Fri Sep 20 2024 00:00:00 GMT-0600 (Central Standard Time),38,,MONTERREY,AYUDANTE GENERAL,Fijo,Sin especificar,,Masculino,18X,,,SI,DE 8-5.30 y Pago Variable,,589,DESARROLLO LOCSA,935
 43,9,Fri Sep 20 2024 00:00:00 GMT-0600 (Central Standard Time),38,,MONTERREY,OPERARIO DE MAQUINAS,Fijo,Sin especificar,,Masculino,18X,,,SI,DE 8-5.30 y Pago Variable,,589,DESARROLLO LOCSA,936
@@ -944,10 +944,10 @@
 44,3,Fri Mar 01 2024 00:00:00 GMT-0600 (Central Standard Time),,,MONTERREY,VENDEDOR (A),,Preparatoria,,Indistinto,25-50,,,SI,CHATARRA,,43,APERH,943
 44,3,Fri Mar 01 2024 00:00:00 GMT-0600 (Central Standard Time),,,MONTERREY,AUXILIAR DE  INGENIERIA,,Licenciatura,Ingeniero,Masculino,20-30,,,SI,,,43,APERH,944
 44,6,Mon Jun 17 2024 00:00:00 GMT-0600 (Central Standard Time),25,,MONTERREY,AUXILIAR DE ABARROTES,DE 10 PM -06 AM,Secundaria,,Indistinto,18-48,,,SI,,,319,HEB URO,945
-44,6,Mon Jun 17 2024 00:00:00 GMT-0600 (Central Standard Time),25,,,LIMPIEZA,,Primaria,,Indistinto,18-50,,,,,,319,HEB URO,946
-44,6,Mon Jun 17 2024 00:00:00 GMT-0600 (Central Standard Time),25,,,FRUTAS,ROTATIVOS,Secundaria,,Indistinto,18-48,,,,,,319,HEB URO,947
-44,6,Mon Jun 17 2024 00:00:00 GMT-0600 (Central Standard Time),25,,,PANADER0 (A),ROTATIVOS,Primaria,,Indistinto,18-48,,,,,,319,HEB URO,948
-44,6,Mon Jun 17 2024 00:00:00 GMT-0600 (Central Standard Time),25,,,CAJERO (A),ROTATIVOS,Secundaria,,Indistinto,18-48,,,,,,319,HEB URO,949
+44,6,Mon Jun 17 2024 00:00:00 GMT-0600 (Central Standard Time),25,,SIN ESPECIFICAR,LIMPIEZA,,Primaria,,Indistinto,18-50,,,,,,319,HEB URO,946
+44,6,Mon Jun 17 2024 00:00:00 GMT-0600 (Central Standard Time),25,,SIN ESPECIFICAR,FRUTAS,ROTATIVOS,Secundaria,,Indistinto,18-48,,,,,,319,HEB URO,947
+44,6,Mon Jun 17 2024 00:00:00 GMT-0600 (Central Standard Time),25,,SIN ESPECIFICAR,PANADER0 (A),ROTATIVOS,Primaria,,Indistinto,18-48,,,,,,319,HEB URO,948
+44,6,Mon Jun 17 2024 00:00:00 GMT-0600 (Central Standard Time),25,,SIN ESPECIFICAR,CAJERO (A),ROTATIVOS,Secundaria,,Indistinto,18-48,,,,,,319,HEB URO,949
 44,7,Wed Jul 10 2024 00:00:00 GMT-0600 (Central Standard Time),28,,GUADALUPE,OPERARIO DE PRODUCCION,ROTATIVOS DE 8H,Secundaria,,Indistinto,18-55,10000,,SI,Pago de 8000 A 10000,,403,NIPPON SERKI DE MEXICO,950
 44,7,Wed Jul 10 2024 00:00:00 GMT-0600 (Central Standard Time),28,,GUADALUPE,IMPRECION,,Secundaria,,Indistinto,18-55,,,SI,,,403,NIPPON SERKI DE MEXICO,951
 44,8,Tue Aug 06 2024 00:00:00 GMT-0600 (Central Standard Time),32,,GUADALUPE,AYUDANTE GENERAL,Fijo,Secundaria,,Indistinto,17-45,8500,,NO,DE L-V DE 8-5 S 8-1,,65,WTSCO,952
@@ -962,9 +962,9 @@
 138,11,Thu Nov 21 2024 00:00:00 GMT-0600 (Central Standard Time),47,,APODACA,ALMACENISTA,FIJO DED DIA,Preparatoria,,Indistinto,20-55,14400,15,SI,,,641,JABIL MONTERREY,961
 45,3,Fri Mar 01 2024 00:00:00 GMT-0600 (Central Standard Time),,,MONTERREY,GUARDIA,,Secundaria,,Masculino,19-50,,,SI,,,44,ALLIED UNIVERSAL,962
 45,6,Mon Jun 17 2024 00:00:00 GMT-0600 (Central Standard Time),25,,GUADALUPE,SOLDADOR CARROCERO,DE 8-5 Y DE 12-8,Secundaria,,Masculino,20-43,,,SI,,,321,TRASPORTES TLE,963
-45,6,Mon Jun 17 2024 00:00:00 GMT-0600 (Central Standard Time),25,,,MECANICO DIESEL,,Secundaria,,Masculino,,,,,,,321,TRASPORTES TLE,964
-45,6,Mon Jun 17 2024 00:00:00 GMT-0600 (Central Standard Time),25,,,PULIDOR,,Secundaria,,Masculino,,,,,,,321,TRASPORTES TLE,965
-45,6,Mon Jun 17 2024 00:00:00 GMT-0600 (Central Standard Time),25,,,MONITORISTA,,Preparatoria,,Masculino,,,,,,,321,TRASPORTES TLE,966
+45,6,Mon Jun 17 2024 00:00:00 GMT-0600 (Central Standard Time),25,,SIN ESPECIFICAR,MECANICO DIESEL,,Secundaria,,Masculino,,,,,,,321,TRASPORTES TLE,964
+45,6,Mon Jun 17 2024 00:00:00 GMT-0600 (Central Standard Time),25,,SIN ESPECIFICAR,PULIDOR,,Secundaria,,Masculino,,,,,,,321,TRASPORTES TLE,965
+45,6,Mon Jun 17 2024 00:00:00 GMT-0600 (Central Standard Time),25,,SIN ESPECIFICAR,MONITORISTA,,Preparatoria,,Masculino,,,,,,,321,TRASPORTES TLE,966
 45,7,Wed Jul 10 2024 00:00:00 GMT-0600 (Central Standard Time),28,,APODACA,OPERARIO DE PRODUCCION,ROTATIVOS DE 8H,Primaria,,Indistinto,18-57,9800,,SI,,,405,BART ACUITY BRANT,967
 45,8,Tue Aug 06 2024 00:00:00 GMT-0600 (Central Standard Time),32,,JUAREZ,MONTACARGUISTA,Rotativo,Secundaria,,Indistinto,18-50,11852,,SI,ROTATIVOS TARDE Y NOCHE,,502,DHL,968
 45,8,Tue Aug 06 2024 00:00:00 GMT-0600 (Central Standard Time),32,,JUAREZ,AYUDANTE GENERAL,,Secundaria,,Masculino,18-50,7803,,SI,,,502,DHL,969
@@ -980,7 +980,7 @@
 46,3,Fri Mar 01 2024 00:00:00 GMT-0600 (Central Standard Time),,,APODACA,OPERARIO DE PRODUCCION,,Secundaria,,Indistinto,18-50,,,SI,,,45,MANPOWER GROUP,979
 46,3,Fri Mar 01 2024 00:00:00 GMT-0600 (Central Standard Time),,,APODACA,INSPECTOR DE CALIDAD,,Secundaria,,Indistinto,18-55,,,SI,,,45,MANPOWER GROUP,980
 46,6,Mon Jun 17 2024 00:00:00 GMT-0600 (Central Standard Time),25,,GUADALUPE,GUARDIA,12X12,Primaria,,Masculino,25-55,,,NO,,,323,TRANSFORMACION CARNCA,981
-46,6,Mon Jun 17 2024 00:00:00 GMT-0600 (Central Standard Time),25,,,MANTENIMIENTO,,Preparatoria/Técnica,,Masculino,,,,,,,323,TRANSFORMACION CARNCA,982
+46,6,Mon Jun 17 2024 00:00:00 GMT-0600 (Central Standard Time),25,,SIN ESPECIFICAR,MANTENIMIENTO,,Preparatoria/Técnica,,Masculino,,,,,,,323,TRANSFORMACION CARNCA,982
 46,7,Wed Jul 10 2024 00:00:00 GMT-0600 (Central Standard Time),28,,GUADALUPE,TOQUELADOR,ROTATIVOS DE 8H L-V,Primaria,,Indistinto,18-55,18000,,SI,,,406,BART SMUIFIT KAPPA,983
 46,7,Wed Jul 10 2024 00:00:00 GMT-0600 (Central Standard Time),28,,GUADALUPE,AYUDANTE GENERAL,,Primaria,,Indistinto,18-50,9000,,SI,,,406,BART SMUIFIT KAPPA,984
 46,8,Tue Aug 06 2024 00:00:00 GMT-0600 (Central Standard Time),32,,MONTERREY,INSTALADOR,Fijo,Secundaria,,Masculino,20-45,7911,,NO,DE 8-6,,276,VIXO MEDIA,985
@@ -990,7 +990,7 @@
 46,10,Fri Oct 25 2024 00:00:00 GMT-0600 (Central Standard Time),46,,APODACA,AYUDANTE GENERAL,DE 3X8 ROTATIVOS,Primaria,,Indistinto,18-50,10710,10,SI,,,673,MANPOWER EVERTIS,989
 47,3,Fri Mar 01 2024 00:00:00 GMT-0600 (Central Standard Time),,,JUAREZ,OPERADOR 5A RUEDA,,Sin especificar,,Masculino,25-55,,,NO,,,46,SMART,990
 47,3,Fri Mar 01 2024 00:00:00 GMT-0600 (Central Standard Time),,,JUAREZ,AUXILIAR,,Sin especificar,,Masculino,25-55,,,NO,,,46,SMART,991
-47,6,Mon Jun 17 2024 00:00:00 GMT-0600 (Central Standard Time),25,,SANICOLAS,CHOFER EJECUTIVO,12H,Primaria,,Indistinto,27-60,,,SI,,,97,GOLDEN,992
+47,6,Mon Jun 17 2024 00:00:00 GMT-0600 (Central Standard Time),25,,SAN NICOLAS,CHOFER EJECUTIVO,12H,Primaria,,Indistinto,27-60,,,SI,,,97,GOLDEN,992
 47,7,Wed Jul 10 2024 00:00:00 GMT-0600 (Central Standard Time),28,,GUADALUPE,AUXILIAR CONTABLE,DE L-V 8.30-6,Preparatoria,,Indistinto,22-45,12000,,NO,,,408,RENTAL DEPOT,993
 47,7,Wed Jul 10 2024 00:00:00 GMT-0600 (Central Standard Time),28,,GUADALUPE,MECANICO,,Técnico,,Indistinto,25-50,25000,,NO,Pago de 15000 A 25000,,408,RENTAL DEPOT,994
 47,7,Wed Jul 10 2024 00:00:00 GMT-0600 (Central Standard Time),28,,GUADALUPE,CHOFER,,Secundaria,,Indistinto,25-50,8300,,NO,,,408,RENTAL DEPOT,995
@@ -1006,8 +1006,8 @@
 48,3,Fri Mar 01 2024 00:00:00 GMT-0600 (Central Standard Time),,,GUADALUPE,SUPERVISOR DE PRODUCCION,,Preparatoria,,Masculino,25-40,,,NO,,,47,PROMMONT,1005
 48,3,Fri Mar 01 2024 00:00:00 GMT-0600 (Central Standard Time),,,GUADALUPE,AYUDANTE GENERAL,,Primaria,,Masculino,18-55,,,NO,,,47,PROMMONT,1006
 48,6,Mon Jun 17 2024 00:00:00 GMT-0600 (Central Standard Time),25,,JUAREZ,VENDEDOR (A),10AM-6PM  1PM-9PM,Secundaria,,Indistinto,20-55,,,NO,,,325,MUEBLERIAS VILLARIAL,1007
-48,6,Mon Jun 17 2024 00:00:00 GMT-0600 (Central Standard Time),25,,,AUXILIAR ADMINISTRATIVO,,Preparatoria,,Femenino,,,,,,,325,MUEBLERIAS VILLARIAL,1008
-48,6,Mon Jun 17 2024 00:00:00 GMT-0600 (Central Standard Time),25,,,GESTOR DOMICILIARIO,,Secundaria,,Indistinto,,,,,,,325,MUEBLERIAS VILLARIAL,1009
+48,6,Mon Jun 17 2024 00:00:00 GMT-0600 (Central Standard Time),25,,SIN ESPECIFICAR,AUXILIAR ADMINISTRATIVO,,Preparatoria,,Femenino,,,,,,,325,MUEBLERIAS VILLARIAL,1008
+48,6,Mon Jun 17 2024 00:00:00 GMT-0600 (Central Standard Time),25,,SIN ESPECIFICAR,GESTOR DOMICILIARIO,,Secundaria,,Indistinto,,,,,,,325,MUEBLERIAS VILLARIAL,1009
 48,7,Thu Jul 11 2024 00:00:00 GMT-0600 (Central Standard Time),28,,MONTERREY,GESTOR DE COBRANZA,DE 8-3.30,Secundaria,,Indistinto,17-40,7000,,NO,,,410,GENTE EN LINIA,1010
 48,7,Thu Jul 11 2024 00:00:00 GMT-0600 (Central Standard Time),28,,MONTERREY,AGENTE DE VENTAS,,Secundaria,,Indistinto,17-40,6500,,NO,,,410,GENTE EN LINIA,1011
 48,8,Thu Aug 08 2024 00:00:00 GMT-0600 (Central Standard Time),32,,PESQUERIA,AYUDANTE GENERAL,Fijo,Primaria,,Indistinto,18-55,9000,,SI,DE 8-6 L-V,,505,PRODIESA ESPEJOS,1012
@@ -1017,8 +1017,8 @@
 48,10,Fri Oct 25 2024 00:00:00 GMT-0600 (Central Standard Time),48,,GUADALUPE,MONTACARGUISTA,DE 3X8 ROTATIVOS,Secundaria,,Indistinto,18-48,10288,4,SI,,,674,LIBERTY LOGISTICA,1016
 49,3,Fri Mar 01 2024 00:00:00 GMT-0600 (Central Standard Time),,,MONTERREY,GUARDIA,,Primaria,,Indistinto,18-65,,,NO,,,48,BASTEL SEGURIDAD PRIVADA,1017
 49,6,Mon Jun 17 2024 00:00:00 GMT-0600 (Central Standard Time),25,,MONTERREY,AYUDANTE GENERAL,TURNOS FIJOS O ROT 12 H,Primaria,,Indistinto,18-X,,,SI,,,468,SIGMA ALIMENTOS,1018
-49,6,Mon Jun 17 2024 00:00:00 GMT-0600 (Central Standard Time),25,,,HOJALATERO,,Sin especificar,,Indistinto,,,,,,,468,SIGMA ALIMENTOS,1019
-49,6,Mon Jun 17 2024 00:00:00 GMT-0600 (Central Standard Time),25,,,REFRIJERACION,,Sin especificar,,Indistinto,,,,,,,468,SIGMA ALIMENTOS,1020
+49,6,Mon Jun 17 2024 00:00:00 GMT-0600 (Central Standard Time),25,,SIN ESPECIFICAR,HOJALATERO,,Sin especificar,,Indistinto,,,,,,,468,SIGMA ALIMENTOS,1019
+49,6,Mon Jun 17 2024 00:00:00 GMT-0600 (Central Standard Time),25,,SIN ESPECIFICAR,REFRIJERACION,,Sin especificar,,Indistinto,,,,,,,468,SIGMA ALIMENTOS,1020
 49,7,Thu Jul 11 2024 00:00:00 GMT-0600 (Central Standard Time),28,,MONTERREY,AYUDANTE GENERAL,DE 6-2 Y DE 3-11,Primaria,,Indistinto,18-50,8000,,SI,,,412,GRUPO LOZCAR,1021
 49,7,Thu Jul 11 2024 00:00:00 GMT-0600 (Central Standard Time),28,,MONTERREY,AYUDANTE GENERAL,,Sin especificar,,Indistinto,,,,,,,412,GRUPO LOZCAR,1022
 49,8,Fri Aug 09 2024 00:00:00 GMT-0600 (Central Standard Time),32,,APODACA,MONTACARGUISTA,Rotativo,Secundaria,,Indistinto,18-45,10680,,SI,ROTATIVOS DE 8H DIA TARDE NOCHE,,506,METALSA,1023
@@ -1030,9 +1030,9 @@
 49,10,Mon Oct 28 2024 00:00:00 GMT-0600 (Central Standard Time),49,,APODACA,AYUDANTE GENERAL,DE 3X8 ROTATIVOS,Primaria,,Masculino,18-55,9750,30,SI,,,498,GRAFTECH,1029
 50,3,Fri Mar 01 2024 00:00:00 GMT-0600 (Central Standard Time),,,APODACA,AYUDANTE GENERAL,,Secundaria,,Indistinto,18-60,,,SI,,,49,CELESTICA DE MEXICO,1030
 50,6,Tue Jun 18 2024 00:00:00 GMT-0600 (Central Standard Time),25,,GUADALUPE,CHOFER FULL,,Sin especificar,,Indistinto,23-58,,,NO,,,329,TRASPORTES PEÑON BLANCO,1031
-50,6,Tue Jun 18 2024 00:00:00 GMT-0600 (Central Standard Time),25,,,MECANICO DIESEL,DE 8-6,Sin especificar,,Masculino,23-55,,,NO,,,329,TRASPORTES PEÑON BLANCO,1032
-50,6,Tue Jun 18 2024 00:00:00 GMT-0600 (Central Standard Time),25,,,ELECTRICO,,Sin especificar,,Masculino,25-55,,,,,,329,TRASPORTES PEÑON BLANCO,1033
-50,6,Tue Jun 18 2024 00:00:00 GMT-0600 (Central Standard Time),25,,,LLANTERO,,Sin especificar,,Masculino,20-55,,,,,,329,TRASPORTES PEÑON BLANCO,1034
+50,6,Tue Jun 18 2024 00:00:00 GMT-0600 (Central Standard Time),25,,SIN ESPECIFICAR,MECANICO DIESEL,DE 8-6,Sin especificar,,Masculino,23-55,,,NO,,,329,TRASPORTES PEÑON BLANCO,1032
+50,6,Tue Jun 18 2024 00:00:00 GMT-0600 (Central Standard Time),25,,SIN ESPECIFICAR,ELECTRICO,,Sin especificar,,Masculino,25-55,,,,,,329,TRASPORTES PEÑON BLANCO,1033
+50,6,Tue Jun 18 2024 00:00:00 GMT-0600 (Central Standard Time),25,,SIN ESPECIFICAR,LLANTERO,,Sin especificar,,Masculino,20-55,,,,,,329,TRASPORTES PEÑON BLANCO,1034
 50,7,Fri Jul 12 2024 00:00:00 GMT-0600 (Central Standard Time),28,,GUADALUPE,AYUDANTE GENERAL,TRES TURNOS DE 8H,Secundaria,,Indistinto,18-55,9000,,NO,,,414,PLASKOLITE,1035
 50,7,Fri Jul 12 2024 00:00:00 GMT-0600 (Central Standard Time),28,,GUADALUPE,CALIDAD,,Secundaria,,Indistinto,18-40,12000,,NO,,,414,PLASKOLITE,1036
 50,8,Mon Aug 12 2024 00:00:00 GMT-0600 (Central Standard Time),33,,GUADALUPE,AYUDANTE GENERAL,Rotativo,Secundaria,,Indistinto,18-55,9000,,SI,ROTATIVOS DE 8H DIA TARDE NOCHE,,508,NIPPON SEIKI,1037
@@ -1044,10 +1044,10 @@
 50,10,Wed Oct 30 2024 00:00:00 GMT-0600 (Central Standard Time),50,,GUADALUPE,JARDINERO,DE 7-7 DE L-J,Secundaria,,Masculino,18-55,9240,1,SI,,,676,TECMA KG,1043
 51,3,Fri Mar 01 2024 00:00:00 GMT-0600 (Central Standard Time),,,MONTERREY,AYUDANTE GENERAL,,Secundaria,,Indistinto,18-50,,,SI,,,50,RANDSTAD (MONDELEZ),1044
 51,6,Tue Jun 18 2024 00:00:00 GMT-0600 (Central Standard Time),25,,GUADALUPE,AYUDANTE GENERAL,DE6.30-3  10-6  11-6.30 FIJOS,Sin especificar,,Femenino,18-65,,,NO,,,331,ESTAMPER,1045
-51,6,Tue Jun 18 2024 00:00:00 GMT-0600 (Central Standard Time),25,,,OPERARIO (A),,Primaria,,Indistinto,,,,,,,331,ESTAMPER,1046
-51,6,Tue Jun 18 2024 00:00:00 GMT-0600 (Central Standard Time),25,,,CALIDAD,,Secundaria,,Indistinto,18-40,,,,,,331,ESTAMPER,1047
-51,6,Tue Jun 18 2024 00:00:00 GMT-0600 (Central Standard Time),25,,,MONTACARGUISTA,,Secundaria,,Masculino,18-50,,,,,,331,ESTAMPER,1048
-51,6,Tue Jun 18 2024 00:00:00 GMT-0600 (Central Standard Time),25,,,LIMPIEZA,,Sin especificar,,Indistinto,18-66,,,,,,331,ESTAMPER,1049
+51,6,Tue Jun 18 2024 00:00:00 GMT-0600 (Central Standard Time),25,,SIN ESPECIFICAR,OPERARIO (A),,Primaria,,Indistinto,,,,,,,331,ESTAMPER,1046
+51,6,Tue Jun 18 2024 00:00:00 GMT-0600 (Central Standard Time),25,,SIN ESPECIFICAR,CALIDAD,,Secundaria,,Indistinto,18-40,,,,,,331,ESTAMPER,1047
+51,6,Tue Jun 18 2024 00:00:00 GMT-0600 (Central Standard Time),25,,SIN ESPECIFICAR,MONTACARGUISTA,,Secundaria,,Masculino,18-50,,,,,,331,ESTAMPER,1048
+51,6,Tue Jun 18 2024 00:00:00 GMT-0600 (Central Standard Time),25,,SIN ESPECIFICAR,LIMPIEZA,,Sin especificar,,Indistinto,18-66,,,,,,331,ESTAMPER,1049
 51,7,Mon Jul 15 2024 00:00:00 GMT-0600 (Central Standard Time),29,,PESQUERIA,SOLDADOR FLUX CORE,DE 7.15 A 4.50,Primaria,,Masculino,18-50,15000,,SI,Pago de 12000 A 15000,,28,MARROKING,1050
 51,7,Mon Jul 15 2024 00:00:00 GMT-0600 (Central Standard Time),29,,PESQUERIA,ARMADOR PLATAFORMA,,Primaria,,Masculino,18-50,18000,,SI,Pago de 12000 A 18000,,28,MARROKING,1051
 51,7,Mon Jul 15 2024 00:00:00 GMT-0600 (Central Standard Time),29,,PESQUERIA,DOBLADOR,,Primaria,,Masculino,18-55,14000,,SI,Pago de 12000 A 14000,,28,MARROKING,1052
@@ -1060,7 +1060,7 @@
 51,11,Fri Nov 01 2024 00:00:00 GMT-0600 (Central Standard Time),44,,GUADALUPE,JARDINERO,DE 7-7 DE L-J,Secundaria,,Masculino,18-55,9240,1,SI,,,676,TECMA KG,1059
 52,3,Fri Mar 01 2024 00:00:00 GMT-0600 (Central Standard Time),,,GUADALUPE,AYUDANTE GENERAL,,Primaria,,Indistinto,18-55,,,SI,,,51,EMPAQUES RIO GRANDE,1060
 52,6,Tue Jun 18 2024 00:00:00 GMT-0600 (Central Standard Time),25,,GUADALUPE,EMPACADOR (A),DE 6-2 DE 2-9.30 Y DE 9.30-6,Primaria,,Femenino,18-56,,,NO,ROTATIVOS,,333,PLASTIC INGENUITY DE MEX,1061
-52,6,Tue Jun 18 2024 00:00:00 GMT-0600 (Central Standard Time),25,,,AYUDANTE GENERAL,,Primaria,,Masculino,18-56,,,,,,333,PLASTIC INGENUITY DE MEX,1062
+52,6,Tue Jun 18 2024 00:00:00 GMT-0600 (Central Standard Time),25,,SIN ESPECIFICAR,AYUDANTE GENERAL,,Primaria,,Masculino,18-56,,,,,,333,PLASTIC INGENUITY DE MEX,1062
 52,7,Tue Jul 16 2024 00:00:00 GMT-0600 (Central Standard Time),29,,SANTIAGO,AUXILIAR,6.30-3.30  Y 1.30-10,Primaria,,Indistinto,18-54,11000,,SI,,,418,TIENDAS SORIANA,1063
 52,7,Tue Jul 16 2024 00:00:00 GMT-0600 (Central Standard Time),29,,SANTIAGO,PANADER0 (A),,Secundaria,,Indistinto,,12000,,SI,,,418,TIENDAS SORIANA,1064
 52,7,Tue Jul 16 2024 00:00:00 GMT-0600 (Central Standard Time),29,,SANTIAGO,TABLAJERO,,Secundaria,,Indistinto,,13000,,SI,,,418,TIENDAS SORIANA,1065
@@ -1089,10 +1089,10 @@
 54,3,Fri Mar 01 2024 00:00:00 GMT-0600 (Central Standard Time),,,GUADALUPE,AUXILIAR DE LIMPIEZA INDUSTRIAL,,Primaria,,Masculino,18-57,,,NO,,,53,LEADEC MEXICO,1088
 54,3,Fri Mar 01 2024 00:00:00 GMT-0600 (Central Standard Time),,,GUADALUPE,OPERARIO ESPECIALIZADO,,Primaria,,Masculino,18-57,,,NO,,,53,LEADEC MEXICO,1089
 54,6,Mon Jun 24 2024 00:00:00 GMT-0600 (Central Standard Time),26,,GUADALUPE,CHOFER RUTA HURVANA,DIA Y TARDE,Sin especificar,,Indistinto,25-60,,,,,,336,GRUPO LAZCANO,1090
-54,6,Mon Jun 24 2024 00:00:00 GMT-0600 (Central Standard Time),26,,,MECANICOS,,Sin especificar,,Masculino,18-60,,,,,,336,GRUPO LAZCANO,1091
-54,6,Mon Jun 24 2024 00:00:00 GMT-0600 (Central Standard Time),26,,,AUXILIAR,,Sin especificar,,Indistinto,,,,,,,336,GRUPO LAZCANO,1092
-54,6,Mon Jun 24 2024 00:00:00 GMT-0600 (Central Standard Time),26,,,GUARDIA,,Sin especificar,,Indistinto,,,,,,,336,GRUPO LAZCANO,1093
-54,6,Mon Jun 24 2024 00:00:00 GMT-0600 (Central Standard Time),26,,,ALMACENISTA,,Sin especificar,,Indistinto,,,,,,,336,GRUPO LAZCANO,1094
+54,6,Mon Jun 24 2024 00:00:00 GMT-0600 (Central Standard Time),26,,SIN ESPECIFICAR,MECANICOS,,Sin especificar,,Masculino,18-60,,,,,,336,GRUPO LAZCANO,1091
+54,6,Mon Jun 24 2024 00:00:00 GMT-0600 (Central Standard Time),26,,SIN ESPECIFICAR,AUXILIAR,,Sin especificar,,Indistinto,,,,,,,336,GRUPO LAZCANO,1092
+54,6,Mon Jun 24 2024 00:00:00 GMT-0600 (Central Standard Time),26,,SIN ESPECIFICAR,GUARDIA,,Sin especificar,,Indistinto,,,,,,,336,GRUPO LAZCANO,1093
+54,6,Mon Jun 24 2024 00:00:00 GMT-0600 (Central Standard Time),26,,SIN ESPECIFICAR,ALMACENISTA,,Sin especificar,,Indistinto,,,,,,,336,GRUPO LAZCANO,1094
 54,7,Tue Jul 16 2024 00:00:00 GMT-0600 (Central Standard Time),29,,JUAREZ,VIGILANTE,3X8 ROTATIVOS,Secundaria,,Indistinto,18-55,9000,,NO,,,421,SORIANA MERCADO JUAREZ,1095
 54,7,Tue Jul 16 2024 00:00:00 GMT-0600 (Central Standard Time),29,,JUAREZ,AUXILIAR,,Secundaria,,Indistinto,,7700,,,DE FRUTAS Y VERDURAS,,421,SORIANA MERCADO JUAREZ,1096
 54,7,Tue Jul 16 2024 00:00:00 GMT-0600 (Central Standard Time),29,,JUAREZ,COCINERO (A),,Secundaria,,Indistinto,,8800,,,,,421,SORIANA MERCADO JUAREZ,1097
@@ -1117,10 +1117,10 @@
 55,8,Tue Aug 13 2024 00:00:00 GMT-0600 (Central Standard Time),33,,MONTERREY,AUXILIAR DE ENVIOS,Rotativo,Primaria,,Indistinto,18-55,8275,,X,TURNOS DE 8H ROTATIVOS,,514,GRUPO SENDA,1116
 55,11,Fri Nov 01 2024 00:00:00 GMT-0600 (Central Standard Time),44,,GUADALUPE,GUARDIA,DE 2X12  5X2 FIJOS,Secundaria,,Indistinto,23-59,13900,15,SI,,,555,CORPORACION TG,1117
 56,3,Fri Mar 01 2024 00:00:00 GMT-0600 (Central Standard Time),,,APODACA,AYUDANTE GENERAL,,Secundaria,,Indistinto,18-57,,,SI,,,55,ADECCO (MERCADO LIBRE),1118
-56,6,Tue Jun 25 2024 00:00:00 GMT-0600 (Central Standard Time),26,,SANPEDRO,AYUDANTE GENERAL,DE 7-3  Y DE 2-10,Primaria,,Masculino,18-45,,,,,,339,PRODYNAMICS,1119
-56,6,Tue Jun 25 2024 00:00:00 GMT-0600 (Central Standard Time),26,,,GUARDIA,,Secundaria,,Masculino,20-35,,,,,,339,PRODYNAMICS,1120
-56,6,Tue Jun 25 2024 00:00:00 GMT-0600 (Central Standard Time),26,,,AUXILIAR ADMINISTRATIVO,DE 9-5,Preparatoria,,Masculino,18-35,,,,,,339,PRODYNAMICS,1121
-56,6,Tue Jun 25 2024 00:00:00 GMT-0600 (Central Standard Time),26,,,CHOFER,DE 9-5,Secundaria,,Indistinto,18-45,,,,,,339,PRODYNAMICS,1122
+56,6,Tue Jun 25 2024 00:00:00 GMT-0600 (Central Standard Time),26,,SAN PEDRO,AYUDANTE GENERAL,DE 7-3  Y DE 2-10,Primaria,,Masculino,18-45,,,,,,339,PRODYNAMICS,1119
+56,6,Tue Jun 25 2024 00:00:00 GMT-0600 (Central Standard Time),26,,SIN ESPECIFICAR,GUARDIA,,Secundaria,,Masculino,20-35,,,,,,339,PRODYNAMICS,1120
+56,6,Tue Jun 25 2024 00:00:00 GMT-0600 (Central Standard Time),26,,SIN ESPECIFICAR,AUXILIAR ADMINISTRATIVO,DE 9-5,Preparatoria,,Masculino,18-35,,,,,,339,PRODYNAMICS,1121
+56,6,Tue Jun 25 2024 00:00:00 GMT-0600 (Central Standard Time),26,,SIN ESPECIFICAR,CHOFER,DE 9-5,Secundaria,,Indistinto,18-45,,,,,,339,PRODYNAMICS,1122
 56,7,Tue Jul 16 2024 00:00:00 GMT-0600 (Central Standard Time),29,,APODACA,AYUDANTE GENERAL,ROTATIVOS 12X12 DE 7-7,Primaria,,Indistinto,18-55,9600,,SI,,,425,PEPSI,1123
 56,7,Tue Jul 16 2024 00:00:00 GMT-0600 (Central Standard Time),29,,APODACA,MONTACARGUISTA,,Primaria,,Indistinto,,13000,,,,,425,PEPSI,1124
 56,7,Tue Jul 16 2024 00:00:00 GMT-0600 (Central Standard Time),29,,APODACA,VERIFICADOR,,Preparatoria,,Masculino,25-50,15000,,,,,425,PEPSI,1125
@@ -1179,11 +1179,11 @@
 60,11,Tue Nov 05 2024 00:00:00 GMT-0600 (Central Standard Time),45,,JUAREZ,VENDEDOR (A),FLEXIBLE,Sin especificar,,Indistinto,18-X,8500,X,NO,,,689,TOPPERWARE,1178
 61,3,Fri Mar 01 2024 00:00:00 GMT-0600 (Central Standard Time),,,APODACA,AYUDANTE GENERAL,,Secundaria,,Masculino,18-50,,,SI,,,61,MAHMA SERVICIOS ESPECIALIZADOS,1179
 61,3,Fri Mar 01 2024 00:00:00 GMT-0600 (Central Standard Time),,,APODACA,TECNICO (A),,Preparatoria,,Indistinto,18-59,,,SI,,,61,MAHMA SERVICIOS ESPECIALIZADOS,1180
-61,7,Fri Jul 19 2024 00:00:00 GMT-0600 (Central Standard Time),29,,SANPEDRO,ARMADOR,DE L-V DE 8.30-6.30,Secundaria,,Masculino,18-60,9800,,NO,,,432,CLEBER,1181
-61,7,Fri Jul 19 2024 00:00:00 GMT-0600 (Central Standard Time),29,,SANPEDRO,HOJALATERO PINTOR,,Secundaria,,Masculino,,14000,,NO,,,432,CLEBER,1182
-61,7,Fri Jul 19 2024 00:00:00 GMT-0600 (Central Standard Time),29,,SANPEDRO,AUXILIAR,,Secundaria,,Masculino,,8000,,,,,432,CLEBER,1183
-61,7,Fri Jul 19 2024 00:00:00 GMT-0600 (Central Standard Time),29,,SANPEDRO,PULIDOR,,Secundaria,,Masculino,,9000,,,,,432,CLEBER,1184
-61,7,Fri Jul 19 2024 00:00:00 GMT-0600 (Central Standard Time),29,,SANPEDRO,POSUPUESTADOR,,Secundaria,,Masculino,,11300,,,,,432,CLEBER,1185
+61,7,Fri Jul 19 2024 00:00:00 GMT-0600 (Central Standard Time),29,,SAN PEDRO,ARMADOR,DE L-V DE 8.30-6.30,Secundaria,,Masculino,18-60,9800,,NO,,,432,CLEBER,1181
+61,7,Fri Jul 19 2024 00:00:00 GMT-0600 (Central Standard Time),29,,SAN PEDRO,HOJALATERO PINTOR,,Secundaria,,Masculino,,14000,,NO,,,432,CLEBER,1182
+61,7,Fri Jul 19 2024 00:00:00 GMT-0600 (Central Standard Time),29,,SAN PEDRO,AUXILIAR,,Secundaria,,Masculino,,8000,,,,,432,CLEBER,1183
+61,7,Fri Jul 19 2024 00:00:00 GMT-0600 (Central Standard Time),29,,SAN PEDRO,PULIDOR,,Secundaria,,Masculino,,9000,,,,,432,CLEBER,1184
+61,7,Fri Jul 19 2024 00:00:00 GMT-0600 (Central Standard Time),29,,SAN PEDRO,POSUPUESTADOR,,Secundaria,,Masculino,,11300,,,,,432,CLEBER,1185
 61,8,Mon Aug 19 2024 00:00:00 GMT-0600 (Central Standard Time),34,,JUAREZ,MONTACARGUISTA,Fijo,Secundaria,,Indistinto,18-58,2500,,NO,DE 8-4,,257,CEDIS SMART,1186
 61,8,Mon Aug 19 2024 00:00:00 GMT-0600 (Central Standard Time),34,,JUAREZ,RECIBO,Fijo,Preparatoria,,Indistinto,,2500,,NO,10 PM A 6 AM,,257,CEDIS SMART,1187
 61,8,Mon Aug 19 2024 00:00:00 GMT-0600 (Central Standard Time),34,,JUAREZ,ACOMODO DE MERCANCIA,Fijo,Secundaria,,Indistinto,,2100,,NO,11PM-7AM,,257,CEDIS SMART,1188
@@ -1200,11 +1200,11 @@
 62,11,Wed Nov 06 2024 00:00:00 GMT-0600 (Central Standard Time),45,,APODACA,INGENIERO DE DICEÑO,FIJO L-S DE 7.30-5,Preparatoria,,Indistinto,23-30,18000,1,SI,,,205,BROMAKE,1199
 63,3,Fri Mar 01 2024 00:00:00 GMT-0600 (Central Standard Time),,,JUAREZ,VARIOS,,Secundaria,,Indistinto,,,,,,,63,POLLOS LA CABAÑA,1200
 63,7,Mon Jul 22 2024 00:00:00 GMT-0600 (Central Standard Time),30,,GUADALUPE,OPERARI0 (A),FIJO,Primaria,,Indistinto,18-57,8000,,SI,,,204,AMPHEHOL,1201
-63,8,Mon Aug 26 2024 00:00:00 GMT-0600 (Central Standard Time),35,,SANICOLAS,AYUDANTE GENERAL,Fijo,Secundaria,,Indistinto,18-50,11330,,NO,DE 6-2 DE 2-10 Y 10-6,,525,GRUPO CUPRUM,1202
-63,8,Mon Aug 26 2024 00:00:00 GMT-0600 (Central Standard Time),35,,SANICOLAS,ALMACENISTA,Rotativo,Secundaria,,Masculino,18-50,11330,,NO,ROTATIVOS,,525,GRUPO CUPRUM,1203
-63,8,Mon Aug 26 2024 00:00:00 GMT-0600 (Central Standard Time),35,,SANICOLAS,FUNDICION,,Secundaria,,Masculino,18-50,11330,,NO,,,525,GRUPO CUPRUM,1204
-63,11,Wed Nov 06 2024 00:00:00 GMT-0600 (Central Standard Time),45,,Dr GONZALEZ,AYUDANTE GENERAL,ROTATIVOS DE 6.30-6.30 2X12,Primaria,,Masculino,18-55,9576,10,SI,,,654,OMEGA,1205
-63,11,Wed Nov 06 2024 00:00:00 GMT-0600 (Central Standard Time),45,,Dr GONZALEZ,ELECTROMECANICO,ROTATIVOS DE 6.30-6.30 2X12,Primaria,,Masculino,25-55,DE 18 A 24 MIL,2,SI,,,654,OMEGA,1206
+63,8,Mon Aug 26 2024 00:00:00 GMT-0600 (Central Standard Time),35,,SAN NICOLAS,AYUDANTE GENERAL,Fijo,Secundaria,,Indistinto,18-50,11330,,NO,DE 6-2 DE 2-10 Y 10-6,,525,GRUPO CUPRUM,1202
+63,8,Mon Aug 26 2024 00:00:00 GMT-0600 (Central Standard Time),35,,SAN NICOLAS,ALMACENISTA,Rotativo,Secundaria,,Masculino,18-50,11330,,NO,ROTATIVOS,,525,GRUPO CUPRUM,1203
+63,8,Mon Aug 26 2024 00:00:00 GMT-0600 (Central Standard Time),35,,SAN NICOLAS,FUNDICION,,Secundaria,,Masculino,18-50,11330,,NO,,,525,GRUPO CUPRUM,1204
+63,11,Wed Nov 06 2024 00:00:00 GMT-0600 (Central Standard Time),45,,DR GONZALEZ,AYUDANTE GENERAL,ROTATIVOS DE 6.30-6.30 2X12,Primaria,,Masculino,18-55,9576,10,SI,,,654,OMEGA,1205
+63,11,Wed Nov 06 2024 00:00:00 GMT-0600 (Central Standard Time),45,,DR GONZALEZ,ELECTROMECANICO,ROTATIVOS DE 6.30-6.30 2X12,Primaria,,Masculino,25-55,DE 18 A 24 MIL,2,SI,,,654,OMEGA,1206
 64,3,Fri Mar 01 2024 00:00:00 GMT-0600 (Central Standard Time),,,GUADALUPE,,,Sin especificar,,Indistinto,,,,,,,64,MICRO,1207
 64,7,Mon Jul 22 2024 00:00:00 GMT-0600 (Central Standard Time),30,,APODACA,OPERARI0 (A),,Secundaria,,Indistinto,18-55,9300,,SI,,,430,NORTH POLE STAR,1208
 64,8,Mon Aug 26 2024 00:00:00 GMT-0600 (Central Standard Time),35,,GUADALUPE,EMPACADOR (A),Fijo o Rotativo,Primaria,,Femenino,18-57,,,NO,3 TURNOS ROTATIVOS O FIJOS,,527,PLASTIC INGENUITY,1209
@@ -1296,7 +1296,7 @@
 78,11,Tue Nov 12 2024 00:00:00 GMT-0600 (Central Standard Time),46,,MONTERREY,ELECTROMECANICO,DE L-S DE 3X8 TURNOS ROTATIVOS,Preparatoria/Técnica,,Masculino,18-55,DE 14~~400 A 19~~770,4,SI,,,595,PROLAMSA,1295
 78,11,Tue Nov 12 2024 00:00:00 GMT-0600 (Central Standard Time),46,,MONTERREY,ELECTRICO,DE L-S DE 3X8 TURNOS ROTATIVOS,Preparatoria/Técnica,,Masculino,18-50,DE 14~~400 A 19~~770,1,SI,,,595,PROLAMSA,1296
 78,11,Tue Nov 12 2024 00:00:00 GMT-0600 (Central Standard Time),46,,MONTERREY,LIDER DE EHS,DE L-S DE 3X8 TURNOS ROTATIVOS,Licenciatura,,Indistinto,20-45,19770,1,SI,,,595,PROLAMSA,1297
-79,3,Fri Mar 01 2024 00:00:00 GMT-0600 (Central Standard Time),,,,,,Sin especificar,,Indistinto,,,,,,,79,PROLEC,1298
+79,3,Fri Mar 01 2024 00:00:00 GMT-0600 (Central Standard Time),,,SIN ESPECIFICAR,,,Sin especificar,,Indistinto,,,,,,,79,PROLEC,1298
 79,11,Tue Nov 12 2024 00:00:00 GMT-0600 (Central Standard Time),46,,PESQUERIA,AYUDANTE GENERAL,TURNOS FIJOS DE  3X8 DE L-S,Primaria,,Indistinto,18-60,10000,20,SI,,,708,BERLIX,1299
 81,3,Fri Mar 01 2024 00:00:00 GMT-0600 (Central Standard Time),,,GUADALUPE,AYUDANTE GENERAL,,Sin especificar,,Indistinto,18-60,,,,,,81,RIDDELL,1300
 81,11,Tue Nov 12 2024 00:00:00 GMT-0600 (Central Standard Time),46,,GUADALUPE,OPERARIO DE ROTOMOLDEO,TURNOS ROTATIVOS DE 2X12 DE L-J,Primaria,,Masculino,18-55,8000,5,SI,,,639,LAERDAL MEDICAL,1301
@@ -1385,9 +1385,9 @@
 97,11,Fri Nov 15 2024 00:00:00 GMT-0600 (Central Standard Time),46,VILLAS DE SAN FRANCISCO,JUAREZ,TABLAJERO,ROTATIVOS,Secundaria,,Masculino,22-55,11200,1,NO,,,725,MERCO,1384
 97,11,Fri Nov 15 2024 00:00:00 GMT-0600 (Central Standard Time),46,VILLAS DE SAN FRANCISCO,JUAREZ,GUADIA DE SEGURIDAD,ROTATIVOS,Secundaria,,Indistinto,22-55,10000,1,NO,,,725,MERCO,1385
 98,3,Fri Mar 01 2024 00:00:00 GMT-0600 (Central Standard Time),,,SAN NICOLAS,,,Sin especificar,,Indistinto,,,,,,,99,GRUPO ABX,1386
-98,11,Fri Nov 15 2024 00:00:00 GMT-0600 (Central Standard Time),46,,,AUXILIAR DE LIMPIEZA,TURNOS,Primaria,,Indistinto,18-60,2300,12,SI,,SI,726,PCM PAPELERA,1387
-98,11,Fri Nov 15 2024 00:00:00 GMT-0600 (Central Standard Time),46,,,AYUDANTE GENERAL,TURNOS,Secundaria,,Masculino,18-60,2400,35,SI,,SI,726,PCM PAPELERA,1388
-98,11,Fri Nov 15 2024 00:00:00 GMT-0600 (Central Standard Time),46,,,MONTACARGUISTA,TURNOS,Secundaria,,Masculino,18-60,2900,10,SI,,SI,726,PCM PAPELERA,1389
+98,11,Fri Nov 15 2024 00:00:00 GMT-0600 (Central Standard Time),46,,SIN ESPECIFICAR,AUXILIAR DE LIMPIEZA,TURNOS,Primaria,,Indistinto,18-60,2300,12,SI,,SI,726,PCM PAPELERA,1387
+98,11,Fri Nov 15 2024 00:00:00 GMT-0600 (Central Standard Time),46,,SIN ESPECIFICAR,AYUDANTE GENERAL,TURNOS,Secundaria,,Masculino,18-60,2400,35,SI,,SI,726,PCM PAPELERA,1388
+98,11,Fri Nov 15 2024 00:00:00 GMT-0600 (Central Standard Time),46,,SIN ESPECIFICAR,MONTACARGUISTA,TURNOS,Secundaria,,Masculino,18-60,2900,10,SI,,SI,726,PCM PAPELERA,1389
 99,3,Fri Mar 01 2024 00:00:00 GMT-0600 (Central Standard Time),,,PESQUERIA,,,Sin especificar,,Indistinto,,,,,,,100,HEBEL,1390
 99,11,Fri Nov 15 2024 00:00:00 GMT-0600 (Central Standard Time),46,PUERTOS,JUAREZ,MECANICO DE PISO ( operativo),L-S D-6 a 14 hrs T-14;20 a 22:30 Y N 22;30 a 6 am,Técnico,,Masculino,18-55,14700,2,SI,,,649,MNA DE MEXICO,1391
 99,11,Fri Nov 15 2024 00:00:00 GMT-0600 (Central Standard Time),46,PUERTOS,JUAREZ,AYTE.GRAL./PREDETERMINADO (operativo),L-S D-6 a 14 hrs T-14;20 a 22:30,Primaria,,Masculino,18-55,10500,7,SI,,,649,MNA DE MEXICO,1392
@@ -1397,7 +1397,7 @@
 99,11,Fri Nov 15 2024 00:00:00 GMT-0600 (Central Standard Time),46,PUERTOS,JUAREZ,AUXILIAR DE MANTENIMIENTO (operativo),L-S D-6 a 14 hrs T-14;20 a 22:30 Y N 22;30 a 6 am,Técnico,,Masculino,18-55,11025,1,SI,,,649,MNA DE MEXICO,1396
 99,11,Fri Nov 15 2024 00:00:00 GMT-0600 (Central Standard Time),46,PUERTOS,JUAREZ,SUPERVISOR DE ALMACEN ( Admon),L-V 8-17 hrs Y S- 8-13 hrs,Licenciatura/Técnico,,Masculino,20-55,15000,1,SI,,,649,MNA DE MEXICO,1397
 100,3,Fri Mar 01 2024 00:00:00 GMT-0600 (Central Standard Time),,,GUADALUPE,,,Sin especificar,,Indistinto,,,,,,,101,GEEA,1398
-100,11,Fri Nov 15 2024 00:00:00 GMT-0600 (Central Standard Time),46,,,AUXILIAR,,Sin especificar,,Indistinto,,,15,,,SI,728,SAM´S,1399
+100,11,Fri Nov 15 2024 00:00:00 GMT-0600 (Central Standard Time),46,,SIN ESPECIFICAR,AUXILIAR,,Sin especificar,,Indistinto,,,15,,,SI,728,SAM´S,1399
 156,11,Fri Nov 22 2024 00:00:00 GMT-0600 (Central Standard Time),47,,JUAREZ,AYTE.GRAL.,TURNOS DE 8 HRS.,Primaria,,Masculino,18-55,,22,SI,,,786,SVA CAPITAL,1400
 156,11,Fri Nov 22 2024 00:00:00 GMT-0600 (Central Standard Time),47,,JUAREZ,MONTACARGUISTA HP,TURNOS DE 8 HRS.,Secundaria,,Masculino,18-55,10590,7,SI,,,786,SVA CAPITAL,1401
 156,11,Fri Nov 22 2024 00:00:00 GMT-0600 (Central Standard Time),47,,JUAREZ,AYTE. GRAL.,TURNOS DE 8 HRS.,Secundaria,,Indistinto,18-55,9900,30,SI,,,786,SVA CAPITAL,1402
@@ -1405,26 +1405,26 @@
 157,11,Fri Nov 22 2024 00:00:00 GMT-0600 (Central Standard Time),47,LA CIUDADELA,JUAREZ,AYTE.GRAL.,,Sin especificar,,Masculino,,,2,NO,,,787,MADERAS JUAREZ,1404
 157,11,Fri Nov 22 2024 00:00:00 GMT-0600 (Central Standard Time),47,LA CIUDADELA,JUAREZ,CHOFER,,Sin especificar,,Masculino,,,1,NO,,,787,MADERAS JUAREZ,1405
 101,3,Fri Mar 01 2024 00:00:00 GMT-0600 (Central Standard Time),,,PESQUERIA,,,Sin especificar,,Indistinto,,,,,,,102,BORA SANA SERVICES,1406
-101,11,Fri Nov 15 2024 00:00:00 GMT-0600 (Central Standard Time),46,,,AUXILIAR,,Sin especificar,,Indistinto,,,15,,,SI,91,WALMART,1407
+101,11,Fri Nov 15 2024 00:00:00 GMT-0600 (Central Standard Time),46,,SIN ESPECIFICAR,AUXILIAR,,Sin especificar,,Indistinto,,,15,,,SI,91,WALMART,1407
 131,11,Wed Nov 20 2024 00:00:00 GMT-0600 (Central Standard Time),47,PARQUE FIMSA,GUADALUPE,OPERARIOS,TURNOS DE 11 HRS,Secundaria,,Masculino,18-55,11040,9,SI,,,196,CARRIER,1408
 131,11,Wed Nov 20 2024 00:00:00 GMT-0600 (Central Standard Time),47,PARQUE FIMSA,GUADALUPE,MANTENIMIENTO,TURNOS DE 11 HRS,Secundaria,,Masculino,18-55,17649,1,SI,,,196,CARRIER,1409
 131,11,Wed Nov 20 2024 00:00:00 GMT-0600 (Central Standard Time),47,PARQUE FIMSA,GUADALUPE,INSPECTOR DE CALIDAD,TURNOS DE 11 HRS,Secundaria,,Masculino,18-55,11040,1,SI,,,196,CARRIER,1410
 131,11,Wed Nov 20 2024 00:00:00 GMT-0600 (Central Standard Time),47,PARQUE FIMSA,GUADALUPE,MONTECARGUISTAS,TURNOS DE 11 HRS,Secundaria,,Masculino,18-55,11040,,SI,,,196,CARRIER,1411
 102,3,Fri Mar 01 2024 00:00:00 GMT-0600 (Central Standard Time),,,APODACA,,,Sin especificar,,Indistinto,,,,,,,103,HAENGSUNGE,1412
 102,11,Fri Nov 15 2024 00:00:00 GMT-0600 (Central Standard Time),46,CENTRO,MONTERREY,YESEROS,8-17 hrs,Primaria,,Indistinto,20-60,A DESTAJO,3,,,SI,730,GP VIVIENDA,1413
-102,11,Fri Nov 15 2024 00:00:00 GMT-0600 (Central Standard Time),46,,,ESTUQUEROS,8-17 hrs,Primaria,,Indistinto,20-60,A DESTAJO,3,,,,730,GP VIVIENDA,1414
-102,11,Fri Nov 15 2024 00:00:00 GMT-0600 (Central Standard Time),46,,,CHOFER,8-17 hrs,Secundaria,,Indistinto,25-45,16000,1,,,,730,GP VIVIENDA,1415
-102,11,Fri Nov 15 2024 00:00:00 GMT-0600 (Central Standard Time),46,,,AYTE.GRAL.,8-17 hrs,Secundaria,,Indistinto,25-45,10000,2,,,,730,GP VIVIENDA,1416
-102,11,Fri Nov 15 2024 00:00:00 GMT-0600 (Central Standard Time),46,,,AYTE. ALBAÑIL,8-17 hrs,Primaria,,Indistinto,18-60,10000,3,,,,730,GP VIVIENDA,1417
+102,11,Fri Nov 15 2024 00:00:00 GMT-0600 (Central Standard Time),46,,SIN ESPECIFICAR,ESTUQUEROS,8-17 hrs,Primaria,,Indistinto,20-60,A DESTAJO,3,,,,730,GP VIVIENDA,1414
+102,11,Fri Nov 15 2024 00:00:00 GMT-0600 (Central Standard Time),46,,SIN ESPECIFICAR,CHOFER,8-17 hrs,Secundaria,,Indistinto,25-45,16000,1,,,,730,GP VIVIENDA,1415
+102,11,Fri Nov 15 2024 00:00:00 GMT-0600 (Central Standard Time),46,,SIN ESPECIFICAR,AYTE.GRAL.,8-17 hrs,Secundaria,,Indistinto,25-45,10000,2,,,,730,GP VIVIENDA,1416
+102,11,Fri Nov 15 2024 00:00:00 GMT-0600 (Central Standard Time),46,,SIN ESPECIFICAR,AYTE. ALBAÑIL,8-17 hrs,Primaria,,Indistinto,18-60,10000,3,,,,730,GP VIVIENDA,1417
 103,3,Fri Mar 01 2024 00:00:00 GMT-0600 (Central Standard Time),,,GUADALUPE,,,Sin especificar,,Indistinto,,,,,,,104,MRY,1418
 104,3,Fri Mar 01 2024 00:00:00 GMT-0600 (Central Standard Time),,,JUAREZ,,,Sin especificar,,Indistinto,,,,,,,105,YU CASA MAS,1419
-104,11,Fri Nov 15 2024 00:00:00 GMT-0600 (Central Standard Time),46,,,AYUDANTE GENERAL,,Sin especificar,,Indistinto,,,60,,,SI,733,SHOWER,1420
+104,11,Fri Nov 15 2024 00:00:00 GMT-0600 (Central Standard Time),46,,SIN ESPECIFICAR,AYUDANTE GENERAL,,Sin especificar,,Indistinto,,,60,,,SI,733,SHOWER,1420
 105,3,Fri Mar 01 2024 00:00:00 GMT-0600 (Central Standard Time),,,JUAREZ,,,Sin especificar,,Indistinto,,,,,,,106,BODEGA AURRERA EXPRESS,1421
-105,11,Fri Nov 15 2024 00:00:00 GMT-0600 (Central Standard Time),46,,,AYUDANTE GENERAL,,Sin especificar,,Indistinto,,,50,,,SI,72,CARICERIA RAMOS,1422
+105,11,Fri Nov 15 2024 00:00:00 GMT-0600 (Central Standard Time),46,,SIN ESPECIFICAR,AYUDANTE GENERAL,,Sin especificar,,Indistinto,,,50,,,SI,72,CARICERIA RAMOS,1422
 106,3,Fri Mar 01 2024 00:00:00 GMT-0600 (Central Standard Time),,,JUAREZ,,,Sin especificar,,Indistinto,,,,,,,107,SENDA CITI,1423
-106,11,Fri Nov 15 2024 00:00:00 GMT-0600 (Central Standard Time),46,,,AYUDANTE GENERAL,,Sin especificar,,Indistinto,,,16,,,SI,63,POLLOS LA CABAÑA,1424
+106,11,Fri Nov 15 2024 00:00:00 GMT-0600 (Central Standard Time),46,,SIN ESPECIFICAR,AYUDANTE GENERAL,,Sin especificar,,Indistinto,,,16,,,SI,63,POLLOS LA CABAÑA,1424
 107,3,Fri Mar 01 2024 00:00:00 GMT-0600 (Central Standard Time),,,JUAREZ,,,Sin especificar,,Indistinto,,,,,,,108,FARMACIAS GUADALAGARA,1425
-107,11,Fri Nov 15 2024 00:00:00 GMT-0600 (Central Standard Time),46,,,AYUDANTE GENERAL,,Sin especificar,,Indistinto,,,30,,,SI,736,FARID,1426
+107,11,Fri Nov 15 2024 00:00:00 GMT-0600 (Central Standard Time),46,,SIN ESPECIFICAR,AYUDANTE GENERAL,,Sin especificar,,Indistinto,,,30,,,SI,736,FARID,1426
 108,3,Fri Mar 01 2024 00:00:00 GMT-0600 (Central Standard Time),,,JUAREZ,,,Sin especificar,,Indistinto,,,,,,,109,SEVEN,1427
 108,11,Tue Nov 19 2024 00:00:00 GMT-0600 (Central Standard Time),47,LOS LERMAS,GUADALUPE,AYTE. SOLDADOR,L-J 8-5~~ V-8-5:30 Y S-8-1,Sin especificar,,Masculino,19-50,9989,2,,,SI,737,AAMSA,1428
 108,11,Tue Nov 19 2024 00:00:00 GMT-0600 (Central Standard Time),47,LOS LERMAS,GUADALUPE,JARDINERO,L-J 8-5~~ V-8-5:30 Y S-8-1,Sin especificar,,Masculino,18-55,9989,1,NO,,,737,AAMSA,1429
@@ -1442,11 +1442,11 @@
 110,11,Tue Nov 19 2024 00:00:00 GMT-0600 (Central Standard Time),47,CENTRO,CADEREYTA,ALMACENISTA,9 a 5,Secundaria,,Indistinto,20-55,10000,1,SI,,,739,SU CABRITO,1441
 111,3,Fri Mar 01 2024 00:00:00 GMT-0600 (Central Standard Time),,,GUADALUPE,AYUDANTE GENERAL,,Secundaria,,Indistinto,18-55,,,SI,,,112,AUTO ZOONE,1442
 111,11,Tue Nov 19 2024 00:00:00 GMT-0600 (Central Standard Time),47,EJIDO,JUAREZ,AYTE.GRAL.,DE 8-6,Secundaria,,Indistinto,16-40,,10,NO,,,740,SIDOR,1443
-112,3,Fri Mar 01 2024 00:00:00 GMT-0600 (Central Standard Time),,,,AYUDANTE GENERAL,,Sin especificar,,Indistinto,,,,,,,113,CSI INDUSTRIAL,1444
+112,3,Fri Mar 01 2024 00:00:00 GMT-0600 (Central Standard Time),,,SIN ESPECIFICAR,AYUDANTE GENERAL,,Sin especificar,,Indistinto,,,,,,,113,CSI INDUSTRIAL,1444
 112,11,Wed Nov 20 2024 00:00:00 GMT-0600 (Central Standard Time),47,,SAN NICOLAS,DESPACHADORES,8 HRS ROTATIVOS,Primaria,,Indistinto,18-50,7200,20,NO,ACEPTAN CON DISCAPACIDAD,,741,MOBIL ORSAN,1445
-113,3,Fri Mar 01 2024 00:00:00 GMT-0600 (Central Standard Time),,,,AYUDANTE GENERAL,,Sin especificar,,Indistinto,,,,,,,114,UNPACO,1446
-113,3,Fri Mar 01 2024 00:00:00 GMT-0600 (Central Standard Time),,,,AUXILIAR DE BODEGA,,Sin especificar,,Indistinto,,,,,,,114,UNPACO,1447
-113,3,Fri Mar 01 2024 00:00:00 GMT-0600 (Central Standard Time),,,,SURTIDOR,,Sin especificar,,Indistinto,,,,,,,114,UNPACO,1448
+113,3,Fri Mar 01 2024 00:00:00 GMT-0600 (Central Standard Time),,,SIN ESPECIFICAR,AYUDANTE GENERAL,,Sin especificar,,Indistinto,,,,,,,114,UNPACO,1446
+113,3,Fri Mar 01 2024 00:00:00 GMT-0600 (Central Standard Time),,,SIN ESPECIFICAR,AUXILIAR DE BODEGA,,Sin especificar,,Indistinto,,,,,,,114,UNPACO,1447
+113,3,Fri Mar 01 2024 00:00:00 GMT-0600 (Central Standard Time),,,SIN ESPECIFICAR,SURTIDOR,,Sin especificar,,Indistinto,,,,,,,114,UNPACO,1448
 113,11,Wed Nov 20 2024 00:00:00 GMT-0600 (Central Standard Time),47,CENTRO,MONTERREY,GUARDIA,2X12 ROTATIVOS,Secundaria,,Masculino,18-55,14000,15,,,,44,ALLIED UNIVERSAL,1449
 114,3,Fri Mar 01 2024 00:00:00 GMT-0600 (Central Standard Time),,,JUAREZ,OPERARI0 (A),,Secundaria,,Indistinto,18-55,,,PTE,,,116,YOUNG SHIN,1450
 115,3,Fri Mar 01 2024 00:00:00 GMT-0600 (Central Standard Time),,,JUAREZ,AYUDANTE GENERAL,,Sin especificar,,Indistinto,,,,,,,117,NATURGY,1451
@@ -1459,19 +1459,19 @@
 115,,Wed Nov 20 2024 00:00:00 GMT-0600 (Central Standard Time),47,,APODACA,COBRANZA,TURNOS DE 8 HRS,Secundaria,,Indistinto,18-50,9200,4,NO,,,745,RAC,1458
 164,11,Fri Nov 22 2024 00:00:00 GMT-0600 (Central Standard Time),47,CUAUHTEMOC,SAN NICOLAS,ASOCIADO DE TIENDA,ROTATIVOS,Primaria,,Indistinto,18-60,2~~000 a 2~~500,40,NO,,,788,SEVEN ELEVEN,1459
 116,3,Fri Mar 01 2024 00:00:00 GMT-0600 (Central Standard Time),,,MONTERREY,ASESOR DE CREDITO,,Sin especificar,,Indistinto,,,,,,,118,LIVERPOOL,1460
-116,3,Fri Mar 01 2024 00:00:00 GMT-0600 (Central Standard Time),,,,AUXILIAR DE SUMINISTROS,,Sin especificar,,Indistinto,,,,,,,118,LIVERPOOL,1461
-116,3,Fri Mar 01 2024 00:00:00 GMT-0600 (Central Standard Time),,,,ALTERACIONES CONSULTA,,Sin especificar,,Indistinto,,,,,,,118,LIVERPOOL,1462
-116,3,Fri Mar 01 2024 00:00:00 GMT-0600 (Central Standard Time),,,,ASISTENTE DIRECCION,,Sin especificar,,Indistinto,,,,,,,118,LIVERPOOL,1463
-116,3,Fri Mar 01 2024 00:00:00 GMT-0600 (Central Standard Time),,,,CAJERO (A),,Sin especificar,,Indistinto,,,,,,,118,LIVERPOOL,1464
-116,3,Fri Mar 01 2024 00:00:00 GMT-0600 (Central Standard Time),,,,COCINERO (A),,Sin especificar,,Indistinto,,,,,,,118,LIVERPOOL,1465
-116,3,Fri Mar 01 2024 00:00:00 GMT-0600 (Central Standard Time),,,,OPERADOR CONMUTADOR,,Sin especificar,,Indistinto,,,,,,,118,LIVERPOOL,1466
-116,3,Fri Mar 01 2024 00:00:00 GMT-0600 (Central Standard Time),,,,AUXILIAR DE OFICINA,,Sin especificar,,Indistinto,,,,,,,118,LIVERPOOL,1467
-116,3,Fri Mar 01 2024 00:00:00 GMT-0600 (Central Standard Time),,,,AUXILIAR TIENDA,,Sin especificar,,Indistinto,,,,,,,118,LIVERPOOL,1468
-116,3,Fri Mar 01 2024 00:00:00 GMT-0600 (Central Standard Time),,,,ALMACENISTA,,Sin especificar,,Indistinto,,,,,,,118,LIVERPOOL,1469
-116,3,Fri Mar 01 2024 00:00:00 GMT-0600 (Central Standard Time),,,,CAPITANES,,Sin especificar,,Indistinto,,,,,,,118,LIVERPOOL,1470
-116,3,Fri Mar 01 2024 00:00:00 GMT-0600 (Central Standard Time),,,,ESPECIALISTA PREBENCION,,Sin especificar,,Indistinto,,,,,,,118,LIVERPOOL,1471
-116,3,Fri Mar 01 2024 00:00:00 GMT-0600 (Central Standard Time),,,,VENDEDOR (A),,Sin especificar,,Indistinto,,,,,CAJERO,,118,LIVERPOOL,1472
-116,3,Fri Mar 01 2024 00:00:00 GMT-0600 (Central Standard Time),,,,AYUDANTE GENERAL,,Sin especificar,,Indistinto,,,,,,,118,LIVERPOOL,1473
+116,3,Fri Mar 01 2024 00:00:00 GMT-0600 (Central Standard Time),,,SIN ESPECIFICAR,AUXILIAR DE SUMINISTROS,,Sin especificar,,Indistinto,,,,,,,118,LIVERPOOL,1461
+116,3,Fri Mar 01 2024 00:00:00 GMT-0600 (Central Standard Time),,,SIN ESPECIFICAR,ALTERACIONES CONSULTA,,Sin especificar,,Indistinto,,,,,,,118,LIVERPOOL,1462
+116,3,Fri Mar 01 2024 00:00:00 GMT-0600 (Central Standard Time),,,SIN ESPECIFICAR,ASISTENTE DIRECCION,,Sin especificar,,Indistinto,,,,,,,118,LIVERPOOL,1463
+116,3,Fri Mar 01 2024 00:00:00 GMT-0600 (Central Standard Time),,,SIN ESPECIFICAR,CAJERO (A),,Sin especificar,,Indistinto,,,,,,,118,LIVERPOOL,1464
+116,3,Fri Mar 01 2024 00:00:00 GMT-0600 (Central Standard Time),,,SIN ESPECIFICAR,COCINERO (A),,Sin especificar,,Indistinto,,,,,,,118,LIVERPOOL,1465
+116,3,Fri Mar 01 2024 00:00:00 GMT-0600 (Central Standard Time),,,SIN ESPECIFICAR,OPERADOR CONMUTADOR,,Sin especificar,,Indistinto,,,,,,,118,LIVERPOOL,1466
+116,3,Fri Mar 01 2024 00:00:00 GMT-0600 (Central Standard Time),,,SIN ESPECIFICAR,AUXILIAR DE OFICINA,,Sin especificar,,Indistinto,,,,,,,118,LIVERPOOL,1467
+116,3,Fri Mar 01 2024 00:00:00 GMT-0600 (Central Standard Time),,,SIN ESPECIFICAR,AUXILIAR TIENDA,,Sin especificar,,Indistinto,,,,,,,118,LIVERPOOL,1468
+116,3,Fri Mar 01 2024 00:00:00 GMT-0600 (Central Standard Time),,,SIN ESPECIFICAR,ALMACENISTA,,Sin especificar,,Indistinto,,,,,,,118,LIVERPOOL,1469
+116,3,Fri Mar 01 2024 00:00:00 GMT-0600 (Central Standard Time),,,SIN ESPECIFICAR,CAPITANES,,Sin especificar,,Indistinto,,,,,,,118,LIVERPOOL,1470
+116,3,Fri Mar 01 2024 00:00:00 GMT-0600 (Central Standard Time),,,SIN ESPECIFICAR,ESPECIALISTA PREBENCION,,Sin especificar,,Indistinto,,,,,,,118,LIVERPOOL,1471
+116,3,Fri Mar 01 2024 00:00:00 GMT-0600 (Central Standard Time),,,SIN ESPECIFICAR,VENDEDOR (A),,Sin especificar,,Indistinto,,,,,CAJERO,,118,LIVERPOOL,1472
+116,3,Fri Mar 01 2024 00:00:00 GMT-0600 (Central Standard Time),,,SIN ESPECIFICAR,AYUDANTE GENERAL,,Sin especificar,,Indistinto,,,,,,,118,LIVERPOOL,1473
 116,,Wed Nov 20 2024 00:00:00 GMT-0600 (Central Standard Time),47,IGNACIO ZARAGOZA,GUADALUPE,GUARDIA,TURNOS DE 7-7,Primaria,,Indistinto,18-70,10000,4,NO,,,747,CANTUTTI SEGURIDAD,1474
 117,3,Fri Mar 01 2024 00:00:00 GMT-0600 (Central Standard Time),,,GUADALUPE,,,Sin especificar,,Indistinto,,,,,,,120,CEMEX,1475
 117,,Wed Nov 20 2024 00:00:00 GMT-0600 (Central Standard Time),47,,MONTERREY,AYTE.GRAL.,ROTATIVOS,Primaria,,Indistinto,18.55,12000,24,SI,,,468,SIGMA ALIMENTOS,1476
@@ -1595,7 +1595,7 @@
 173,11,Mon Nov 25 2024 00:00:00 GMT-0600 (Central Standard Time),48,JARDINES DE GUADALUPE,GUADALUPE,ELECTROMECANICO,TOTATIVOS,Preparatoria/Técnica,,Masculino,20-50,12~~000 A 15~~000,5,SI,,,19,PICSA DE MEXICO,1594
 173,11,Mon Nov 25 2024 00:00:00 GMT-0600 (Central Standard Time),48,JARDINES DE GUADALUPE,GUADALUPE,ALAMCENISTA,FIJOS DE L-S- de 8-6 y 8-11,Preparatoria/Técnico,,Masculino,20-50,12~~000 A 15~~000,2,SI,,,19,PICSA DE MEXICO,1595
 173,11,Mon Nov 25 2024 00:00:00 GMT-0600 (Central Standard Time),48,JARDINES DE GUADALUPE,GUADALUPE,SUPERVISOR DE PRODUCCION,ROTATIVOS,Licenciatura,Ingeniero Industrial,Indistinto,25-50,15~~000 a 22~~000,1,SI,,,19,PICSA DE MEXICO,1596
-174,11,Mon Nov 25 2024 00:00:00 GMT-0600 (Central Standard Time),48,,,,,Sin especificar,,Indistinto,,,,,,,505,PRODIESA ESPEJOS,1597
-175,11,Mon Nov 25 2024 00:00:00 GMT-0600 (Central Standard Time),48,,,,,Sin especificar,,Indistinto,,,,,,,505,PRODIESA ESPEJOS,1598
+174,11,Mon Nov 25 2024 00:00:00 GMT-0600 (Central Standard Time),48,,SIN ESPECIFICAR,,,Sin especificar,,Indistinto,,,,,,,505,PRODIESA ESPEJOS,1597
+175,11,Mon Nov 25 2024 00:00:00 GMT-0600 (Central Standard Time),48,,SIN ESPECIFICAR,,,Sin especificar,,Indistinto,,,,,,,505,PRODIESA ESPEJOS,1598
 150,11,Fri Nov 22 2024 00:00:00 GMT-0600 (Central Standard Time),47,VALLE DE JUAREZ,JUAREZ,VENTAS,,Sin especificar,,Indistinto,18+,,2,NO,,,780,OPTICA FRANKLIN,1599
 ,,,,,,,,,,Sin especificar,,,,,,,,,
